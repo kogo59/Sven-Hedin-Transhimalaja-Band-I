@@ -340,14 +340,14 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 58. [Eine schauerliche Nacht auf dem Lake Ligthen.](ch012.xhtml#b096_58)
 59. [Rehim Ali aus Ladak.](ch013.xhtml#b0104_59)
 60. [Robert.](ch013.xhtml#b0104_60)
-61. Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen. Zeichnung von T. Macfarlane.
-62. Am Westufer des Jeschil-köl.
-683. Süßwassersee Pul-tso von Westen.
-64. Pferde und Maultiere in unfruchtbarem Lande.
-65. Nächtlicher Sturm auf dem Jeschil-köl Zeichnung von T. Macfarlane.
-66. Ausgrabungen im Lager von Deasy.
-67. Nachmittagstee im Freien.
-68. Schmelzen von Schnee zum Trinkwasser für die Tiere.
+61. [Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen. Zeichnung von T. Macfarlane.](ch014.xhtml#b0112_61)
+62. [Am Westufer des Jeschil-köl.](ch014.xhtml#b0112_62)
+63. [Süßwassersee Pul-tso von Westen.](ch014.xhtml#b0112_63)
+64. [Pferde und Maultiere in unfruchtbarem Lande.](ch014.xhtml#b0112_64)
+65. [Nächtlicher Sturm auf dem Jeschil-köl. Zeichnung von T. Macfarlane.](ch014.xhtml#b0116_65)
+66. [Ausgrabungen im Lager von Deasy.](ch014.xhtml#b0116_66)
+67. [Nachmittagstee im Freien.](ch014.xhtml#b0116_67)
+68. [Schmelzen von Schnee zum Trinkwasser für die Tiere.](ch014.xhtml#b0116_68)
 69. Die Leute von Tankse, die mich verließen.
 70. Namgjal mit einem Sack gesammelten Yakdungs.
 71. Schutzmauer von Proviantsäcken.

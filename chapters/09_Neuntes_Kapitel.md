@@ -35,7 +35,7 @@ heimgekommen sein wird. Die Scheidenden fehlten uns ordentlich,
 aber ich tröstete mich mit dem Boot, das ausgepackt und am Ufer
 zusammengesetzt wurde.
 
-Ein strahlend klarer Tag nah 16,<small>8</small> Grad Kälte! Die Quelle an
+Ein strahlend klarer Tag nach 16,<small>8</small> Grad Kälte! Die Quelle an
 unserem Lager war zu einem glänzenden Streifen gefroren, der sich zum
 Strand hinunterschlängelte, und am Ufer klapperte ein zwei Meter breiter
 Eisrand im Wellengeplätscher. Das Wasser des Sees läßt sich im Notfall trinken;
@@ -141,7 +141,7 @@ große Tiefen in tibetischen Seen gefunden hatte.
 See so bodenlos ist?“
 
 „Das hat gar keine Gefahr; wir rudern nach dem Ufer hin, das
-ist nicht mehr weit, und dann haben wir bloß eine kleine Strecke nah
+ist nicht mehr weit, und dann haben wir bloß eine kleine Strecke nach
 dem Lager.'“
 
 „Inschallah! Aber es kann weiter sein, als es aussieht. Bismillah!“
@@ -371,7 +371,7 @@ nächste Sturzwelle das Ufer hinaufrollt, das Boot füllt, es auf die
 Seite wirft und mich bis auf die Haut durchnäßt! Da kann ich ja ebensogut
 hinausspringen, und jetzt erst erfaßt Rehim Ali die Situation und
 und hilft mir das Boot aus dem Bereich der Brandung aufs Ufer ziehen
-(Abb. 61). Pelz und Ulster waren ebenso durchnäßt wie wir selbst,
+([Abb. 61](ch014.xhtml#b0112_61)). Pelz und Ulster waren ebenso durchnäßt wie wir selbst,
 und nach langem Suchen fanden wir alle Sachen wieder, die beim Schiffbruch abhanden
 gekommen waren.
 
@@ -465,14 +465,14 @@ deine eigenen Wellenlieder und die siegesfrohen Kriegshymnen, die der
 Weststurm auf deinen Saiten von smaragdgrünem Wasser spielt!
 
 Doch jetzt waren wir noch am Leben und mit unversehrten Gliedern
-am Lande, sehnten uns nur nah dem Morgengrauen, knappten mit dem
+am Lande, sehnten uns nur nach dem Morgengrauen, knappten mit dem
 Feuer und speisten es nur dann und wann mit einem neuen Span, um
 sein Erlöschen zu verhindern. Von Schlaf durfte keine Rede sein, dann
 wären wir erfroren. Manchmal nickten wir einen Augenblick ein, während
 wir so vor der flackernden Flamme niedergehockt dasaßen, und Rehim Ali
 summte gelegentlich ein Liedchen, damit die Zeit schneller vergehen sollte.
 
-Eben denke ich gerade darüber nah, wie mir jetzt wohl ein Glas
+Eben denke ich gerade darüber nach, wie mir jetzt wohl ein Glas
 heißen Tees schmecken würde, als Rehim Ali zusammenfährt und ausruft:
 
 „Ein Feuer in der Ferne!“
@@ -529,7 +529,7 @@ verdeckt; jedenfalls hatten wir es vom See aus nicht sehen können.
 
 Ich lieh mir von den Männern zwei Gürtel, um sie mir um die
 Füße zu wickeln. Dann stiegen wir in den Sattel und, mit der Laterne
-voran, begab sich die kleine Kavalkade nordwärts nah dem Lager, während
+voran, begab sich die kleine Kavalkade nordwärts nach dem Lager, während
 die Wellen ihren unermüdlichen Sturmlauf gegen das Ufer fortsetzten.
 
 :::

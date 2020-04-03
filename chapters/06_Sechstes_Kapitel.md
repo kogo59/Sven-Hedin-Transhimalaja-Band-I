@@ -44,8 +44,8 @@ Diener, er leitete die Geschäfte der Karawane und führte Buch über
 unsre Ausgaben. Wir beschlossen jetzt, daß einige der gemieteten Yaks
 das Boot tragen und unsere letzten Kulis umkehren sollten. Dann
 machten wir einen Überschlag über unseren Proviant; der Mais und die
-Gerste mußten 68 Tage ausreichen; das Mehl für unsere dreißig Leute
-hielt wenigstens 80 Tage, bei einiger Sparsamkeit drei Monate vor; der
+Gerste mußten 68&nbsp;Tage ausreichen; das Mehl für unsere dreißig Leute
+hielt wenigstens 80&nbsp;Tage, bei einiger Sparsamkeit drei Monate vor; der
 Reisvorrat konnte erst nach vier bis fünf Monaten erschöpft sein. Doch
 wie man auch rechnet und seine Voranschläge macht, eine Durchquerung
 ganz Tibets ist immer eine riskante, abenteuerliche Sache, und die Rechnung
