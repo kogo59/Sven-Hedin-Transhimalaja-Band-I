@@ -2,9 +2,9 @@
 
 ::: justified
 **A**m neunzehnten Tag des Septembers nahmen wir von den Indern und
-den Eingeborenen von Tankse Abschied (Abb. 69). Um jene tat es
-mir leid, sie konnten ja nicht dafür, daß sie nicht für das Klima taugten,
-und sich sonstwie auszuzeichnen hatten sie noch keine Gelegenheit gehabt.
+den Eingeborenen von Tankse Abschied ([Abb. 69](ch015.xhtml#b0121_69)).
+Um jene tat es mir leid, sie konnten ja nicht dafür, daß sie nicht für das Klima
+taugten,und sich sonstwie auszuzeichnen hatten sie noch keine Gelegenheit gehabt.
 Den letzten Abend hatte Bikom Sing seinen Schwanengesang in unserer
 Gesellschaft angestimmt, nämlich dieselbe eintönige, resignierte Sanskrithymne,
 die ihm und seinen Landsleuten schon so oft eine Erinnerung

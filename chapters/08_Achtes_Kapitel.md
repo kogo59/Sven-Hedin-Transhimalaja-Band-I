@@ -116,7 +116,7 @@ aufgeschlagen, am Fuß des auf der nördlichen Talseite liegenden Gebirges,
 wo gutes Weideland war. In Ermangelung eines Zeltes waren wir
 in Sonam Tserings kleiner runder Festungsmauer von Proviantsäcken,
 in deren Mitte ein Feuer loderte, zu Gast und fanden dort Schutz vor
-dem Winde (Abb. 71). Gegend Abend ließ Muhamed Isa melden, noch
+dem Winde ([Abb. 71](ch015.xhtml#b0121_71)). Gegend Abend ließ Muhamed Isa melden, noch
 ein Pferd habe sich gefunden es sei aber unmöglich die andern in diesem
 Schneetreiben zu suchen und er bitte um Pelze und Proviant aus dem
 Hauptlager. Indessen gelang es dem Mann, der den wenig beneidenswerten
@@ -278,8 +278,8 @@ einzufinden und dort unsere Ankunft zu erwarten.
 
 Am Morgen des 17. Septembers lagen drei meiner eigenen Pferde
 tot zwischen den Zelten. In der folgenden Nacht starb das große scheckige
-Jarkentpferd, das mein Boot getragen hatte (Abb. 75). Als am 19. die
-Sonne aufging, hatten sich noch zwei Opfer den voraufgegangenen zugesellt
+Jarkentpferd, das mein Boot getragen hatte ([Abb. 75](ch015.xhtml#b0128_75)).
+Als am 19. die Sonne aufging, hatten sich noch zwei Opfer den voraufgegangenen zugesellt
 und lagen, Beine und Hals von sich gestreckt und, nach einer Nachtkälte
 von -18,<small>4</small> Grad, steinhart gefroren da! Ich ließ Muhamed Isa rufen.
 

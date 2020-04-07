@@ -542,7 +542,7 @@ Familie. Wir trafen uns täglich bei den Mahlzeiten; zum Lunch waren
 gewöhnlich einige Gäste gebeten, aber zum Diner waren wir manchmal
 allein, und dann war es am allergemütlichsten. Dann erzählte Lady
 Minto von ihrem Aufenthalt in Kanada, wie sie auf Eisenbahn und
-Dampfschiffen gegen 190000 Kilometer zurückgelegt, ihren Gatten auf
+Dampfschiffen gegen 190&nbsp;000 Kilometer zurückgelegt, ihren Gatten auf
 allen Amtsreisen begleitet, wilde Jagdausflüge mitgemacht hatte, im Kanoe
 durch schäumende Stromschnellen gefahren war und an gefährlichen
 Streifzügen in Klondike teilgenommen hatte. Wir blätterten in ihren

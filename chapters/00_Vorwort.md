@@ -348,15 +348,15 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 66. [Ausgrabungen im Lager von Deasy.](ch014.xhtml#b0116_66)
 67. [Nachmittagstee im Freien.](ch014.xhtml#b0116_67)
 68. [Schmelzen von Schnee zum Trinkwasser für die Tiere.](ch014.xhtml#b0116_68)
-69. Die Leute von Tankse, die mich verließen.
-70. Namgjal mit einem Sack gesammelten Yakdungs.
-71. Schutzmauer von Proviantsäcken.
-72. Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.
-73. Muhamed Isa und Robert am Feuer.
-74. Vorbereitung zum Diner im Lager Nr. 41.
-75. Das große scheckige Jarkentpferd.
-76. Die erlegten Yaks, oben links der Shütze Tundup Sonam.
-77. Die erlegten Yaks, oben links der Shütze Tundup Sonam.
+69. [Die Leute von Tankse, die mich verließen.](ch015.xhtml#b0121_69)
+70. [Namgjal mit einem Sack gesammelten Yakdungs.](ch015.xhtml#b0121_70)
+71. [Schutzmauer von Proviantsäcken.](ch015.xhtml#b0121_71)
+72. [Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.](ch015.xhtml#b0121_72)
+73. [Muhamed Isa und Robert am Feuer.](ch015.xhtml#b0121_73)
+74. [Vorbereitung zum Diner im Lager Nr. 41.](ch015.xhtml#b0128_74)
+75. [Das große scheckige Jarkentpferd.](ch015.xhtml#b0128_75)
+76. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_76)
+77. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_77)
 78. Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten. Zeichnung von de Haenen.
 79. Der wütende Yak stürzte sich auf Rehim Ali. Zeichnung von de Haenen.
 80. Rettungslos verloren. Zeichnung von T. Macfarlane.
