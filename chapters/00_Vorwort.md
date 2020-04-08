@@ -357,14 +357,14 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 75. [Das große scheckige Jarkentpferd.](ch015.xhtml#b0128_75)
 76. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_76)
 77. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_77)
-78. Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten. Zeichnung von de Haenen.
-79. Der wütende Yak stürzte sich auf Rehim Ali. Zeichnung von de Haenen.
-80. Rettungslos verloren. Zeichnung von T. Macfarlane.
-81. Puntsuk und Tjsering Dava, die ersten Tibeter.
-82. Puntsuk und Tjsering Dava, die ersten Tibeter.
-83. Muhamed Isa vor seinem Zelt.
-84. Die von den ersten Tibetern gekauften Yaks.
-85. Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).
+78. [Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten. Zeichnung von de Haenen.](ch016.xhtml#b0136_78)
+79. [Der wütende Yak stürzte sich auf Rehim Ali. Zeichnung von de Haenen.](ch016.xhtml#b0136_79)
+80. [Rettungslos verloren. Zeichnung von T. Macfarlane.](ch017.xhtml#b0144_80)
+81. [Puntsuk und Tjsering Dava, die ersten Tibeter.](ch017.xhtml#b0144_81)
+82. [Puntsuk und Tjsering Dava, die ersten Tibeter.](ch017.xhtml#b0144_82)
+83. [Muhamed Isa vor seinem Zelt.](ch017.xhtml#b0152_83)
+84. [Die von den ersten Tibetern gekauften Yaks.](ch017.xhtml#b0152_84)
+85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_84)
 86. Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers.
 87. Tibetischer Gruß.
 88. Der improvisierte Schlitten auf dem Ngangtse-tso.

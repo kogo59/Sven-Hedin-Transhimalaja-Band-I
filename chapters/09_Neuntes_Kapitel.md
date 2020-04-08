@@ -71,8 +71,8 @@ wieder zu den unseren.
 
 Das Lager war nun folgendermaßen angeordnet. In einem großen,
 unten viereckigen und oben pyramidenförmigen Zelt residierten Muhamed
-Isa, Tsering, die Küche und zwei der anderen Leute (Abb. 83). Die
-vornehmeren Ladakis wohnten in dem tibetischen Zelt, während die übrigen sich
+Isa, Tsering, die Küche und zwei der anderen Leute ([Abb. 83](ch017.xhtml#b0152_83)).
+Die vornehmeren Ladakis wohnten in dem tibetischen Zelt, während die übrigen sich
 innerhalb der Verschanzung der Proviantsäcke aufhielten. In Manuels
 Zelt hauste Robert allein, und um sein Bett herum hatte er so viele Kisten
 aller Art aufgestellt, daß es an ein Parsigrab^[^0260]^ erinnerte. Zu äußerst auf
