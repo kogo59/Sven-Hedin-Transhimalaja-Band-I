@@ -503,7 +503,6 @@ der Art, wie die Tibeter sie benutzen, aus Blei Kugeln zu gießen. Also
 hatten sich entweder Räuber oder Jäger hier früher einmal aufgehalten!
 :::
 
-
 :::: align-center
 ****
 ::::

@@ -365,8 +365,8 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 83. [Muhamed Isa vor seinem Zelt.](ch017.xhtml#b0152_83)
 84. [Die von den ersten Tibetern gekauften Yaks.](ch017.xhtml#b0152_84)
 85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_84)
-86. Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers.
-87. Tibetischer Gruß.
+86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers.](ch018.xhtml#b0160_86)
+87. [Tibetischer Gruß.](ch018.xhtml#b0160_86)
 88. Der improvisierte Schlitten auf dem Ngangtse-tso.
 89. Transport über den See.
 90. Rast auf dem Eise.
