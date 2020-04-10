@@ -364,13 +364,13 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 82. [Puntsuk und Tjsering Dava, die ersten Tibeter.](ch017.xhtml#b0144_82)
 83. [Muhamed Isa vor seinem Zelt.](ch017.xhtml#b0152_83)
 84. [Die von den ersten Tibetern gekauften Yaks.](ch017.xhtml#b0152_84)
-85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_84)
+85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_85)
 86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers.](ch018.xhtml#b0160_86)
-87. [Tibetischer Gruß.](ch018.xhtml#b0160_86)
-88. Der improvisierte Schlitten auf dem Ngangtse-tso.
-89. Transport über den See.
-90. Rast auf dem Eise.
-91. Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngangtsetso. Zeichnung von de Haenen.
+87. [Tibetischer Gruß.](ch018.xhtml#b0160_87)
+88. [Der improvisierte Schlitten auf dem Ngangtse-tso.](ch019.xhtml#b0168_88)
+89. [Transport über den See.](ch019.xhtml#b0168_89)
+90. [Rast auf dem Eise.](ch019.xhtml#b0168_90)
+91. [Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngang-tsetso. Zeichnung von de Haenen.](ch019.xhtml#b0168_91)
 92. Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär
 93. Hladsche Tsering beim Aufbruch.
 94. Hladsche Tserings Gefolge.
