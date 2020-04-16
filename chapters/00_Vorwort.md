@@ -371,18 +371,18 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 89. [Transport über den See.](ch019.xhtml#b0168_89)
 90. [Rast auf dem Eise.](ch019.xhtml#b0168_90)
 91. [Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngang-tsetso. Zeichnung von de Haenen.](ch019.xhtml#b0168_91)
-92. Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär
-93. Hladsche Tsering beim Aufbruch.
-94. Hladsche Tserings Gefolge.
-95. Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.
-96. Der Paß von La-rock. Manis mit flatternden Gebeten.
-97. Am Ufer des Brahmaputra bei Lamo-tang.
-98. Ein Haus im Dorf Rungma.
-99. Das Tal des Tsangpo westlich von Lamo-tang.
+92. [Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär.](ch020.xhtml#b0176_92)
+93. [Hladsche Tsering beim Aufbruch.](ch020.xhtml#b0176_93)
+94. [Hladsche Tserings Gefolge.](ch020.xhtml#b0176_94)
+95. [Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.](ch020.xhtml#b0176_95)
+96. [Der Paß von La-rock. Manis mit flatternden Gebeten.](ch020.xhtml#b0184_96)
+97. [Am Ufer des Brahmaputra bei Lamo-tang.](ch020.xhtml#b0184_97)
+98. [Ein Haus im Dorf Rungma.](ch020.xhtml#b0184_98)
+99. [Das Tal des Tsangpo westlich von Lamo-tang.](ch020.xhtml#b0184_99)
 100. Haus und Garten des Taschi-Lama in Tanak.
 101. Der Tsaugpo mit Eisgang, östlich von Tanak.
 102. Fellboote auf dem Tschangpo.
-103. Pilger auf der Reise nah Taschi-lunpo
+103. Pilger auf der Reise nach Taschi-lunpo
 104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.
 105. Die Burg (Dsong) von Schigatse. Skizze des Verfassers.
 106. Der Labrang, Palast des Tashi-Lama.

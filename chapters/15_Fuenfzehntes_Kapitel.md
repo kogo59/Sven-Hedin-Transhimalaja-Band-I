@@ -1,4 +1,4 @@
-# Fünfzehntes Kapitel.&nbsp;<br />**`Die ersten Menschen.`**<br /><br /> {#Kapitel_fünfzehn .unnumbered}
+# Fünfzehntes Kapitel.&nbsp;<br />**`Die ersten Menschen.`**<br /><br /> {#Kapitel_fuenfzehn .unnumbered}
 
 ::: justified
 **A**m Morgen des 12. Novembers wieder eine Trauerkunde: noch zwei
@@ -55,7 +55,7 @@ um unsere Rettung!
 
 „Wie weit ist es bis zum nächsten Weg nach Schigatse?“ fragte ich.
 
-„Vier lange oder fünf kurze Tagereisen.““
+„Vier lange oder fünf kurze Tagereisen.“
 
 „Wollt ihr uns führen ?“
 
