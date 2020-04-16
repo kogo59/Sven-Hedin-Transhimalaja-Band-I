@@ -129,7 +129,7 @@ Blöcke. — Wonach guckst du denn so?“ fragte ich Robert.
 Flinte mit!“
 
 Richtig, gingen da am Ufer zwei helle, fast weiße Isegrimme spazieren!
-([Abb. 54.](ch011.xhtml#b088_54)) Sie liefen so, daß sie den Inhalt des Bootes immer
+([Abb. 54](ch011.xhtml#b088_54)) Sie liefen so, daß sie den Inhalt des Bootes immer
 wittern konnten; frisches, lebendes Fleisch stieg ihnen wohl in die Nase. Hielten
 wir, so blieben auch sie stehen, und setzten wir uns in Bewegung, dann
 gingen sie unmittelbar am Rand des Wassers weiter. Früher oder

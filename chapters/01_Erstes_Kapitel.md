@@ -575,7 +575,7 @@ Besuchern, Kurieren, Tschaprassis^[^0072]^ und Tschamadaren^[^0073]^ wimmelt, di
 vizeköniglichen roten Uniformen und weiße Turbane tragen. Dahinter
 ist der Hof, wo Equipagen, „Rikschas“ und Reiter kommen und gehen,
 während gutgehaltene Wege nach den stilvollen Terrassen führen, die nach
-Lady Mintos Zeichnungen angelegt sind (Abb. 7). Hinter diesen Terrassen
+Lady Mintos Zeichnungen angelegt sind ([Abb. 7](ch005.xhtml#b016)). Hinter diesen Terrassen
 beginnt der Wald mit seinen Promenadenwegen im Schatten der Felswände.
 Von der großen Halle in der Mitte des Hauses führt eine mit
 Läufern belegte Treppe in das erste Stockwerk hinauf, wo die Familie

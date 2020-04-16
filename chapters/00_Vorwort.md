@@ -379,10 +379,10 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 97. [Am Ufer des Brahmaputra bei Lamo-tang.](ch020.xhtml#b0184_97)
 98. [Ein Haus im Dorf Rungma.](ch020.xhtml#b0184_98)
 99. [Das Tal des Tsangpo westlich von Lamo-tang.](ch020.xhtml#b0184_99)
-100. Haus und Garten des Taschi-Lama in Tanak.
-101. Der Tsaugpo mit Eisgang, östlich von Tanak.
-102. Fellboote auf dem Tschangpo.
-103. Pilger auf der Reise nach Taschi-lunpo
+100. [Haus und Garten des Taschi-Lama in Tanak.](ch021.xhtml#b0192_100)
+101. [Der Tsangpo mit Eisgang, östlich von Tanak.](ch021.xhtml#b0192_101)
+102. [Fellboote auf dem Tschangpo.](ch021.xhtml#b0192_102)
+103. [Pilger auf der Reise nach Taschi-lunpo.](ch021.xhtml#b0192_103)
 104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.
 105. Die Burg (Dsong) von Schigatse. Skizze des Verfassers.
 106. Der Labrang, Palast des Tashi-Lama.

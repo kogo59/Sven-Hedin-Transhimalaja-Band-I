@@ -485,7 +485,7 @@ die gerade im Begriff war, Lager zu schlagen. Die Weide beim
 Lager Nr. 8 war die beste, die wir seit Pobrang gesehen hatten, und
 Wasser fanden wir beim Graben schon in 55 Zentimeter Tiefe. Für
 Brennmaterial hatten die Kulane gesorgt, denn ihr Dung war hier reichlich
-vertreten (Abb. 70). Der Platz war so behaglich, daß wir den nächsten
+vertreten ([Abb. 70](ch015.xhtml#b0121_70)). Der Platz war so behaglich, daß wir den nächsten
 Tag noch hier blieben und an diesem Tage einen Ausflug nach der fast
 wie eine umgekehrte Schüssel geformten Erhebung von Sandstein und
 Konglomerat machten, die im Süden der Ebene steht und ihren scharf
