@@ -479,7 +479,7 @@ unerreichbar war.
 
 [^0350]: [*Schuru-tso*: vergleiche [Xuru Co](https://sv.wikipedia.org/wiki/Xuru_Co)]{.footnote}
 
-[^0351]: [*Ngangtse-tso*: vergleiche [Ngangzi Co](https://sv.wikipedia.org/wiki/Ngangzi_Co)]{.footnote}
+[^0351]: [*Ngangtse-tso*: vergleiche [Ngangzi Co](https://www.openstreetmap.org/relation/6011614#map=9/31.2152/87.5871)]{.footnote}
 
 [^0352]: [*Topelius*: vergleiche [Zacharias Topelius](https://de.wikipedia.org/wiki/Zacharias_Topelius)]{.footnote}
 

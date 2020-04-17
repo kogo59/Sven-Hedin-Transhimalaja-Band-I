@@ -383,10 +383,10 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 101. [Der Tsangpo mit Eisgang, östlich von Tanak.](ch021.xhtml#b0192_101)
 102. [Fellboote auf dem Tschangpo.](ch021.xhtml#b0192_102)
 103. [Pilger auf der Reise nach Taschi-lunpo.](ch021.xhtml#b0192_103)
-104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.
-105. Die Burg (Dsong) von Schigatse. Skizze des Verfassers.
-106. Der Labrang, Palast des Tashi-Lama.
-107. Der obere Altan am Hof der Festspiele in Taschi-lunpo.
+104. [Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](ch022.xhtml#b0200_104)
+105. [Die Burg (Dsong) von Schigatse. Skizze des Verfassers.](ch022.xhtml#b0200_105)
+106. [Der Labrang, Palast des Tashi-Lama.](ch022.xhtml#b0208_106)
+107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](ch022.xhtml#b0208_106)
 108. Lamas in Taschi-lunpo.
 109. Hof der religiösen Festspiele in Taschi-lunpo.
 110. und
