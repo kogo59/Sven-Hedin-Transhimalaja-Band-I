@@ -187,7 +187,7 @@ zahmen Yaks, Schafe, Ziegen und Pferde — wenn sie welche haben —
 finden; daß sie vom Zelt aus nicht weit zu ergiebigen Jagdgründen
 haben und daß dort stets Wasser vorhanden ist. Am Gomosee hatten
 sie auch vorzügliches Speisesalz umsonst. Wenn ihre zahmen Tiere das
-Gras in der Nähe abgeweidet haben und das Wild verscheucht ist ,
+Gras in der Nähe abgeweidet haben und das Wild verscheucht ist,
 verlegen sie das Lager in eine andere Gegend. Die Zelte werden an derselben
 Stelle aufgeschlagen, wo ihre Vorfahren sie schon seit unzähligen
 Generationen errichtet haben und wo oft noch alte Votivmale stehen, die

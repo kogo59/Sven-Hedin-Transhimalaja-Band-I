@@ -386,11 +386,11 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 104. [Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](ch022.xhtml#b0200_104)
 105. [Die Burg (Dsong) von Schigatse. Skizze des Verfassers.](ch022.xhtml#b0200_105)
 106. [Der Labrang, Palast des Tashi-Lama.](ch022.xhtml#b0208_106)
-107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](ch022.xhtml#b0208_106)
-108. Lamas in Taschi-lunpo.
-109. Hof der religiösen Festspiele in Taschi-lunpo.
-110. und
-111. „Profanum volgus“ beim Neujahrsfest in Schigatse.
+107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](ch022.xhtml#b0208_107)
+108. [Lamas in Taschi-lunpo.](ch023.xhtml#b0216_108)
+109. [Hof der religiösen Festspiele in Taschi-lunpo.](ch023.xhtml#b0216_109)
+110. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_110)
+111. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_111)
 112. Lama mit Muscheltrompete.
 113. Lama mit Flöte. Skizzen des Verfassers.
 114. Lama mit Tempeltrommel.
