@@ -18,12 +18,12 @@ Dungkohlen zu entfernen.
 „Ja, jetzt sitzen wir fest! Aber ich gehe keinen Schritt von der Stelle,
 ehe die Tibeter mich nicht mit einer neuen Karawane versehen haben, selbst
 wenn der ganze Winter darüber hingehen sollte. Nachher ziehen wir nordostwärts,
-suchen die mongolische Pilgerstraße und eilen nah Peking. Ich
+suchen die mongolische Pilgerstraße und eilen nach Peking. Ich
 will die Mandarinen zwingen, mich die Teile von Tibet, wo noch kein
 Europäer gewesen ist, sehen zu lassen!“
 
 „Ich verstehe nicht, was der Sahib meint; bis jetzt hat uns ja noch
-keiner gehindert, und nah Süden hin liegt das Land offen vor uns.“
+keiner gehindert, und nach Süden hin liegt das Land offen vor uns.“
 
 „Was sagst du da? Sind sie nicht gerade heute gekommen, um
 uns am Weiterziehen zu hindern?“
@@ -83,7 +83,7 @@ Räuberbande euch zu finden.“
 nach uns erkundigte?“
 
 „Nein, kein Wort. Aber gerade heute habe ich gehört, daß ein
-Eilbote vom Bogtsang-tsangpo nah Schansa-dsong abgeschickt worden ist
+Eilbote vom Bogtsang-tsangpo nach Schansa-dsong abgeschickt worden ist
 und daß von dort Eilboten nach Lhasa gehen sollen.“
 
 „Willst du so gefällig sein, uns Yaks zu verkaufen, Karma Tamding?“
@@ -408,7 +408,7 @@ Sterne des Orion in die Zeltöffnung hinein. Die Ecklichter waren schon
 lange erloschen, nur in der Mitte flackerten noch ein paar. Nun teilte
 ich ein kleines Geldgeschenk unter die Leute aus, wobei ich mit Robert
 und Muhamed Isa begann. Es war das einzige Weihnachtsgeschenk, das
-es gab. Dann kehrten die Männer nah ihren Feuern zurück, die inzwischen
+es gab. Dann kehrten die Männer nach ihren Feuern zurück, die inzwischen
 erloschen waren. Nur zwei mußten bleiben, um mir eines der
 Lieder, worin wiederholt das Wort Taschi-lunpo vorgekommen war, zu
 erklären. Es war schwieriger, als ich geglaubt hatte, das Lied zu übersetzen.

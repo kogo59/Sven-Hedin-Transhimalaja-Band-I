@@ -66,7 +66,7 @@ um unsere Rettung!
 „Das soll der Bombo Tschimbo (der große Häuptling, nämlich ich)
 selber bestimmen.“
 
-„Habt ihr einige Pferde, die ihr uns verkaufen könnt ?“
+„Habt ihr einige Pferde, die ihr uns verkaufen könnt?“
 
 „Wir haben zwei, verkaufen sie aber nicht.“
 

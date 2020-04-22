@@ -200,7 +200,7 @@ Lotungen. Robert las die Leine ab; zehn Meter, dann acht und schließlich sechs.
 „Jetzt kann das Südufer nicht mehr weit sein“, sagte ich, aber meine
 Begleiter blieben still und horchten. „Was gibt's?“ fragte ich.
 
-„Schwerer Sturm aus Westen“’, antwortete Rehim Ali, sein Ruder
+„Schwerer Sturm aus Westen“, antwortete Rehim Ali, sein Ruder
 senkend.
 
 Man hörte entferntes, gleichmäßiges Sausen, das immer näher kam.

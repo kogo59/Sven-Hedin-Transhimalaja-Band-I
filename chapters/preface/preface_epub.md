@@ -18,7 +18,7 @@ Erster Band.
 
 :::: { .fs-xl .align-center }
 Entdeckungen und Abenteuer<br />
-in Tibet.<br /><br /><br />
+in Tibet.<br /><br />
 ::::
 
 :::: { .fs-xs .align-center }
@@ -36,7 +36,7 @@ Aquarellen und Zeichnungen des Verfassers und mit<br />
 ::::
 
 :::: { .fs-l .align-center }
-**Erster Band.**<br /><br />
+**Erster Band.**<br />
 ::::
 
 :::: { .wrap-20 }
@@ -61,7 +61,7 @@ Aquarellen und Zeichnungen des Verfassers und mit<br />
 Copyright. 1909 by F. A. Brockhaus. Leipzig<br /><br />
 ::::
 
-:::: { .fs-xl }
+:::: { .fs-l }
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Seiner Exzellenz**<br /><br /><br /><br />
 ::::
 
@@ -69,14 +69,14 @@ Copyright. 1909 by F. A. Brockhaus. Leipzig<br /><br />
 **Earl of Minto**<br />
 ::::
 
-:::: { .fs-xl .align-center}
+:::: { .fs-l .align-center}
 **Vizekönig von Indien**<br /><br /><br /><br /><br />
 ::::
 
-:::: { .fs-l }
-<p style="text-indent:50%;">in Dankbarkeit und Bewunderung</p>
+:::: { .fs-m }
+<p style="text-indent:30%;">in Dankbarkeit und Bewunderung</p>
 ::::
 
-:::: { .fs-l }
-<p style="text-indent:60%;">gewidmet.</p>
+:::: { .fs-m }
+<p style="text-indent:50%;">gewidmet.</p>
 ::::

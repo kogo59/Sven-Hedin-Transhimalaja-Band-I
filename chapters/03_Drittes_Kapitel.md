@@ -58,7 +58,7 @@ der bellenden Schakale gelauscht hatten, gingen auch wir zeitig zur Ruhe.
 Stärker als vorher tönte in der Stille der Nacht das Rauschen des
 Flusses; sein Wasser kam von jenen Höhen, die das Ziel meiner Wünsche
 waren; aber weit sehnsuchtsvoller sollten dereinst meine Augen diesen
-spielenden Wasserwirbeln auf ihrem Wege nach dem Meere hin folgen. — —
+spielenden Wasserwirbeln auf ihrem Wege nach dem Meere hin folgen. —
 
 Als ich in den kühlen Morgen hinaustrat, war die übrige Karawane
 schon längst aufgebrochen, und das Lager sah leer und verlassen aus.
@@ -97,7 +97,7 @@ Abend zwischen den Zelten umher und knabbern und reißen an allem.
 
 Selbst bei 11,<small>2</small> Grad Wärme in der Nacht empfand ich nach der Hitze
 der Ebene ein solches Kältegefühl, daß ich davon erwachte und mich
-mit einem Pelz bewaffnete. Am Morgen hatte der Fluß bloß + 6,<small>8</small>
+mit einem Pelz bewaffnete. Am Morgen hatte der Fluß bloß +6,<small>8</small>
 Grad. Talaufwärts ward die Aussicht immer schöner. Bald ritten wir
 durch schmale Engpässe, bald steile, halsbrechende Abhänge hinan, bald
 über Talweitungen mit Ackerfeldern. Dann aber rückten die senkrechten
@@ -217,7 +217,7 @@ denn ich erkannte in ihm sofort den Braven, der mir im Jahre 1902
 „Salam, Sahib“, antwortete er schluchzend, fiel auf die Knie und
 umfaßte nach orientalischer Sitte meinen Fuß im Steigbügel.
 
-„Willst du mit auf die lange Reise?“ fragte ihn.
+„Willst du mit auf die lange Reise?“ fragte ich ihn.
 
 :::: {.wrap-100 .align-center .break-before }
 ![21. Kargil.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_21.jpg "Transhimalaja_Band_I_36_21.jpg"){#b036_21}

@@ -121,7 +121,7 @@ wissenschaftlichen Arbeiten erschienen sind.
 Es ist meine Absicht, alle die Erinnerungen, die nicht im „Transhimalaja“ Platz gefunden
 haben, in einem dritten Bande zu sammeln.
 So habe ich ja aus Mangel an Raum die Beschreibung des Zuges von
-der Quelle des Indus nah Norden und von der Reise über den Transhimalaja
+der Quelle des Indus nach Norden und von der Reise über den Transhimalaja
 nach Gartok, ferner den Weg von Gartok nach Ladak und
 schließlich die sehr interessante Reise vom Nganglaring-tso nach Simla
 ganz auslassen müssen. Auch die Beschreibung vieler Klöster habe ich
@@ -136,7 +136,7 @@ Gastfreundschaft und all die Ehren, die mir im Land der aufgehenden Sonne
  zuteil geworden sind.
 
 In einem besonderen Buch soll schließlich die Jugend ihre
-Sehnsucht nah Abenteuern befriedigt sehen.
+Sehnsucht nach Abenteuern befriedigt sehen.
 
 Es freut mich, jetzt noch in der elften Stunde mitteilen zu können,
 daß der auf Seite 97 als verloren gemeldete Madraser Manuel sich,
@@ -266,7 +266,7 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 ****
 ::::
 
-| *Das bunte Bild auf dem Einband des ersten Bandes*, nah einem Aquarell
+| *Das bunte Bild auf dem Einband des ersten Bandes*, nach einem Aquarell
 |     des Verfassers, stellt Gipfel und Gletscher auf dem Wege zum Surlapaß dar.
 |    (Siehe Band II, Abb. 356.) <br /><br />
 
@@ -299,7 +299,7 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 17. [Vor Nedous Hotel in Srinagar.](ch007.xhtml#b032_17)
 18. [Die beladenen Maultiere.](ch007.xhtml#b032_18)
 19. [Eine Amateuraufnahme in Srinagar.](ch007.xhtml#b032_19)
-20. [Der Weg nah Baltal.](ch007.xhtml#b032_20)
+20. [Der Weg nach Baltal.](ch007.xhtml#b032_20)
 21. [Kargil.](ch007.xhtml#b036_21)
 22. [Tschorten im Kloster von Lama-juru.](ch007.xhtml#b036_22) Skizzen des Verfassers.
 23. [Mönche.](ch007.xhtml#b036_23_24)
@@ -391,15 +391,15 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 109. [Hof der religiösen Festspiele in Taschi-lunpo.](ch023.xhtml#b0216_109)
 110. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_110)
 111. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_111)
-112. Lama mit Muscheltrompete.
-113. Lama mit Flöte. Skizzen des Verfassers.
-114. Lama mit Tempeltrommel.
-115. Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). Skizzen des Verfassers.
-116. Maskierte Lamas (in Hemi-gumpa, Lada).
-117. Maskierte Lamas (in Hemi-gumpa, Lada).
-118. Lamas in Tanzmasken. Skizzen des Verfassers.
-119. Lamas in Tanzmasken. Skizzen des Verfassers.
-120. Lamas in Tanzmasken. Skizzen des Verfassers.
+112. [Lama mit Muscheltrompete.](ch024.xhtml#b0224_112)
+113. [Lama mit Flöte. Skizzen des Verfassers.](ch024.xhtml#b0224_113)
+114. [Lama mit Tempeltrommel.](ch024.xhtml#b0224_114)
+115. [Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). Skizzen des Verfassers.](ch024.xhtml#b0224_115)
+116. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_116)
+117. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_117)
+118. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_118)
+119. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_119)
+120. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_120)
 121. Audienzzimmer des Tashi-Lama.
 122. Ansicht von Taschi-lunpo. Skizze des Verfassers.
 123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.

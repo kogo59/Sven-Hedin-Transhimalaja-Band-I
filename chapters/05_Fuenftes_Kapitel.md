@@ -232,7 +232,7 @@ werden. Die Ladakis saßen höher oben und schlürften ihren roten, mit
 Butter gemischten Tee, und an mehreren Stellen erhellten rötlichgelbe
 Feuer die Nacht.
 
-Die Temperatur sank auf — 6,<small>1</small> Grad, und es ward wirklich recht
+Die Temperatur sank auf -6,<small>1</small> Grad, und es ward wirklich recht
 unbehaglich in diesen hohen, rauhen Regionen, wo die Winde frei ihr
 Spiel treiben und die Sonne den Schnee noch nicht überwältigt hat;
 noch liegen überall ziemlich große Schneeflecken, und von ihren Rändern

@@ -298,7 +298,7 @@ wir nicht bis zu den ersten Nomaden kommen!“
 auch einige der stärksten Todeskandidaten sein.“
 
 „Der Wind bringt sie um; wenn wir nur einige Tage ruhiges
-Wetter hätten !“
+Wetter hätten!“
 
 „Dazu ist in dieser Jahreszeit keine Aussicht. Dieser Sturm hat
 jetzt 27&nbsp;Stunden angehalten. Dann aber kommen die Winterstürme aus
@@ -384,7 +384,7 @@ Rot wie Blut stieg an diesem Tag der Vollmond über den Bergen
 im Osten auf. Er wurde schnell bleicher, je höher er stieg; und die
 Schneegebirge leuchteten so weiß wie der hellste Rauch eines Dampfers.
 Der Abend war windstill, und im Lager Nr. 28 ließ das Zelt sich leicht
-erwärmen. Die Kälte sank jedoch bis auf  —  22,<small>2</small> Grad —  
+erwärmen. Die Kälte sank jedoch bis auf  -22,<small>2</small> Grad —  
 und Rabsang wurde noch immer vermißt! Ob ihn Wölfe zerrissen hatten? —
 
 Am folgenden Morgen aber kam er in Begleitung Schukkur Alis

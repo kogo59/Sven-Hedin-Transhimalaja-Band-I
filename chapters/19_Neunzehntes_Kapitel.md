@@ -9,8 +9,8 @@ gewesen und hatte uns nun endlich, geleitet von der frischesten Spur der
 Schlittenkufen, in unserer Schlucht gefunden. Er überbrachte mir einen
 Brief von Robert: „Gestern, am 1.&nbsp;Januar, kamen sechs bewaffnete
 Männer ins Lager, stellten einige Fragen und verschwanden wieder.
-Heute aber, am zweiten, sind sie in Begleitung anderer Männer zurück-
-gekehrt und sagen, der Gouverneur von Naktsang habe befohlen, uns
+Heute aber, am zweiten, sind sie in Begleitung anderer Männer zurückgekehrt
+und sagen, der Gouverneur von Naktsang habe befohlen, uns
 nicht weiterziehen zu lassen, weil wir keinen Paß vom Devaschung hätten;
 wir müßten daher bleiben, wo wir seien. Sie wollen auch Masters
 Antwort haben, um den Gouverneur zu benachrichtigen, der sofort nach

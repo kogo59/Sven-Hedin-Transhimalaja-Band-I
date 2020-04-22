@@ -117,8 +117,9 @@ Diesen Tag schien mir alles quer zu gehen; verstimmt langte ich
 wieder in Nedous Hotel an, gerade als der Gong acht Uhr ertönen ließ.
 Ich setzte mich an die lange Tafel zwischen etwa dreißig Herren und
 Damen, die mir alle ebenso fremd waren, wie ich ihnen. Aber in einigen
-Gruppen wurde von mir gesprochen.<br /><br />
+Gruppen wurde von mir gesprochen.
 
+|
 |     „Haben Sie schon gehört, daß Hedin in Srinagar ist?“
 |     
 |     „Nein, wirklich? Wann ist er denn angekommen?“
@@ -132,7 +133,9 @@ Gruppen wurde von mir gesprochen.<br /><br />
 |     her eindringen.“
 |     
 |     „Ja, das hat er schon früher getan und wird gewiß wieder einen
-|     Weg finden.“<br /><br />
+|     Weg finden.“
+|
+|
 
 Es war äußerst unbehaglich, diese Unterhaltung anhören zu müssen,
 und ich ertrank beinahe in meinem Suppenteller. Ich konnte kaum
@@ -177,31 +180,43 @@ kann ihn nicht ganz übergehen, da er später ein Nachspiel haben sollte.
 
 Nachdem mir alles andere von London abgeschlagen worden war,
 stand mir nur noch der Weg nach Ostturkestan offen. Am 22. Juni erhielt
-ich vom Residenten Oberst Pears folgenden Brief:<br /><br />
+ich vom Residenten Oberst Pears folgenden Brief:
 
-|     Die indische Regierung hat mir telegraphisch befohlen, Sie die Grenze
+::: fs-s
+|
+|
+|         Die indische Regierung hat mir telegraphisch befohlen, Sie die Grenze
 |     zwischen Kaschmir und Tibet nicht überschreiten zu lassen. Gegen Ihre
 |     Reise nach Chinesisch - Turkestan hat sie aber nichts einzuwenden, da sie
 |     es für selbstverständlich hält, daß Sie im Besitze eines chinesischen Passes
 |     sind. Da Sie mir nun neulich mitgeteilt haben, daß Sie ein solches
 |     Dokument nicht besitzen, habe ich an die indische Regierung telegraphiert
-|     und um weitere Instruktionen gebeten.<br /><br />
+|     und um weitere Instruktionen gebeten.
+|
+|
+:::
 
-Nun telegraphierte ich an den schwedisxhen Gesandten in London,
+Nun telegraphierte ich an den schwedischen Gesandten in London,
 den Grafen Wrangel, und bat ihn, mir einen Paß zu verschaffen —
 und zwar für Ostturkestan, ein Land, das ich im Leben nicht zu besuchen
 gedachte — und unterrichtete dann die Regierung in Simla von
 diesem Schritt und von der zustimmenden Antwort. Neunzehn Tage
 darauf erhielt ich folgenden Brief von Sir Francis Younghusband, der
-mittlerweile als neuer Resident in Kaschmir eingetroffen war:<br /><br />
+mittlerweile als neuer Resident in Kaschmir eingetroffen war:
 
-|     Ich habe von der Regierung ein Telegramm erhalten, worin mir
+::: fs-s
+|
+|
+|           Ich habe von der Regierung ein Telegramm erhalten, worin mir
 |     mitgeteilt wird, daß Sie vor Eintreffen des chinesischen Passes aufbrechen
-|     dürfen, aber vorausgesetzt, daß Sie nicht über Leh hinaus gehen. Sobald
-|     aber die chinesische Regierung oder der schwedische Gesandte (in
+|     dürfen, aber vorausgesetzt, daß Sie nicht über Leh hinaus gehen. So-
+|     bald aber die chinesische Regierung oder der schwedische Gesandte (in
 |     London) telegraphiert, daß Ihr Paß ausgefertigt ist, können Sie die
 |     chinesische Grenze auf Ihre Gefahr überschreiten; Ihr Paß wird Ihnen
-|     dann nachgeschickt.<br /><br />
+|     dann nachgeschickt.
+|
+|
+:::
 
 Nun telegraphierte ich wieder an den Grafen Wrangel, er möge
 die indische Regierung darüber aufklären, daß der Paß mir wirklich

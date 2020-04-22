@@ -102,38 +102,42 @@ befindlichen Tibet günstige Erfolge zu erzielen.
 Bald darauf erhielt ich folgenden Brief, den ich mit seines Absenders
 Erlaubnis hier mitteile: <br /><br />
 
-:::: { .fs-xs }
-<p style="text-indent:30%;">Simla^[^0054]^, Palast des Vizekönigs, 6. Juli 1905.</p>
+:::: { .fs-xs .align-right .break-before }
+Simla^[^0054]^, Palast des Vizekönigs, 6. Juli 1905.
 ::::
 
-<p style="text-indent:12%;">Mein lieber Doktor Hedin!</p>
-|           Ich höre mit großem Vergnügen, daß Sie meinem Rate folgen
+:::: fs-s
+|
+|                    Mein lieber Doktor Hedin!
+|
+|         Ich höre mit großem Vergnügen, daß Sie meinem Rate folgen
 |     und vor Abschluß Ihrer wunderbaren Reisen noch eine große Expedition in
-|      Zentralasien unternehmen wollen.
-
-|           Ich bin stolz darauf, Ihnen, solange ich noch in Indien bin, all
-|     die Unterstützung zu gewähren, die in meiner Macht steht, und ich bedauere nur,
-|     daß ich lange vor Beendigung Ihrer großen Expedition diese
+|     Zentralasien unternehmen wollen.
+|         Ich bin stolz darauf, Ihnen, solange ich noch in Indien bin, all
+|     die Unterstützung zu gewähren, die in meiner Macht steht, und ich be-
+|     dauere nur, daß ich lange vor Beendigung Ihrer großen Expedition diese
 |     Gegenden verlassen haben werde, denn ich habe die Absicht, im April 1906
 |     heimzureisen.
-|          Nun aber zu Ihrem Plan! Ich sehe, daß Sie erst im nächsten
+|         Nun aber zu Ihrem Plan! Ich sehe, daß Sie erst im nächsten
 |     Frühjahr nach Indien kommen; da werde ich also vielleicht noch das Glück
 |     haben, Sie zu treffen. Ich werde dafür sorgen, daß sich ein tüchtiger
 |     eingeborener Topograph zu Ihrer Begleitung bereit hält, und ich werde
 |     Ihnen desgleichen einen mit astronomischen Beobachtungen vertrauten
 |     Mann zur Verfügung stellen nebst einem zweiten, der meteorologische
 |     Arbeiten ausführen kann. Beide werden bei Ihrer Ankunft reisefertig sein.
-|           Ich kann nicht voraussagen, was für eine Haltung die tibetische
+|         Ich kann nicht voraussagen, was für eine Haltung die tibetische
 |     Regierung zur Zeit Ihres Eintreffens in Indien annehmen wird; sollte
 |     sie dauernd eine freundliche bleiben, werde ich natürlich versuchen, Ihnen
 |     die notwendige Erlaubnis, einen Paß und sicheres Geleit zu verschaffen.
-
-|           Mit der Versicherung, daß es mir die größte Freude bereitet, Ihre
+|         Mit der Versicherung, daß es mir die größte Freude bereitet, Ihre
 |     Pläne auf jede Weise zu unterstützen, bin ich
-<p style="text-indent:40%;">Ihr ergebener</p>
-<p style="text-indent:50%;">Curzon.</p>
+|                                              Ihr ergebener
+|                                                           Curzon.
+|
+|
+::::
 
- <br /><br />Wie wichtig dieser tatkräftige Schuß und Beistand seitens des Vizekönigs
+Wie wichtig dieser tatkräftige Schutz und Beistand seitens des Vizekönigs
 mir werden würde, begreift sich leicht. Besonders freute mich, daß ich
 eingeborene Topographen mitnehmen sollte, die in Vermessungsarbeiten
 geübt waren; denn durch ihre Tätigkeit mußte die aufzunehmende Karte
@@ -290,23 +294,29 @@ Antwort.“
 
 Elf Tage auf die endgültige Entscheidung warten zu müssen, erschien mir unerträglich.
 Vielleicht, daß ein persönliches Eingreifen günstig für mich wirken konnte.
-Ich sandte daher dem englischen Premierminister folgendes Telegramm: <br /> <br />
+Ich sandte daher dem englischen Premierminister folgendes Telegramm:
 
-|             Die freundlichen Worte, die Euer Exzellenz vor zwei Jahren im
+:::: fs-s
+|
+|
+|          Die freundlichen Worte, die Euer Exzellenz vor zwei Jahren im
 |       Parlament über meine Reise und mein Buch gesprochen haben, geben
 |       mir den Mut, mich direkt an Sie zu wenden und im Namen der
-|       geographischen Wissenschaft Sie zu bitten, mir die Erlaubnis Ihrer Regierung
-|       zum Eindringen in Tibet über Simla und Gartok^[^0011]^ zu geben.
+|       geographischen Wissenschaft Sie zu bitten, mir die Erlaubnis Ihrer Re-
+|       gierung zum Eindringen in Tibet über Simla und Gartok^[^0011]^ zu geben.
 |       Ich beabsichtige das zum größten Teil unbewohnte Gebiet nördlich vom
 |       Tsangpo (Brahmaputra) und um die in seiner Mitte befindlichen Seen zu
-|       erforschen und dann nach Indien zurückzukehren. Ich bin mit den gegenwärtigen
-|       politischen Beziehungen zwischen Indien und Tibet völlig vertraut,
-|       und da ich seit meinem einundzwanzigsten Jahre mit Asiaten friedlich  verkehrt
-|       habe, werde ich mich auch jetzt durchaus taktvoll benehmen, den gegebenen
+|       erforschen und dann nach Indien zurückzukehren. Ich bin mit den gegen
+|       wärtigen politischen Beziehungen zwischen Indien und Tibet völlig vertraut,
+|       und da ich seit meinem einundzwanzigsten Jahre mit Asiaten friedlich ver-
+|       kehrt habe, werde ich mich auch jetzt durchaus taktvoll benehmen, den gegebenen
 |       Instruktionen folgen und es als Ehrenpflicht ansehen, alle Streitigkeiten
 |       an der Grenze zu vermeiden.
+|
+|
+::::
 
- <br /><br />Und nun warteten wir wieder; die Tage vergingen, meine drei eingeborenen
+Und nun warteten wir wieder; die Tage vergingen, meine drei eingeborenen
 Gehilfen in Dehra Dun hielten sich reisefertig, der Höchstkommandierende,
 Lord Kitchener, versicherte, daß er mir mit Freuden zwanzig bis an die Zähne
 bewaffnete Gurkhas zur Verfügung stellen werde — nur müsse erst die
@@ -326,8 +336,11 @@ Sommer zur Inspektion des Handelsplatzes nach Gartok reisen sollte.
 Aber der Staatssekretär hielt auch jetzt unerschütterlich an seinem Beschlusse fest,
 und ich selbst bekam auf mein Telegramm folgende Antwort
 — und zwar durch ein Schreiben des Staatssekretärs an den Vizekönig
-vom 1.&nbsp;Juni 1906:<br /><br />
+vom 1.&nbsp;Juni&nbsp;1906:
 
+:::  fs-s
+|
+|
 |         Der Premierminister wünscht, daß Sie Sven Hedin folgende Botschaft
 |     mitteilen: „Ich beklage es aufrichtig, daß es mir aus den Gründen,
 |     die Ihnen ohne Zweifel von der indischen Regierung auseinandergesetzt
@@ -335,8 +348,11 @@ vom 1.&nbsp;Juni 1906:<br /><br />
 |     nach und in Tibet zu gewähren. Diese Unterstützung ist auch der Königlichen
 |     Geographischen Gesellschaft in London und ebenso britischen Offizieren
 |     im Dienste der indischen Regierung versagt worden.“
+|
+|
+:::
 
-<br /><br />Der Inhalt der legten Londoner Telegramme bedeutete also, daß
+Der Inhalt der legten Londoner Telegramme bedeutete also, daß
 mir alles und jedes verweigert wurde. Der indischen Regierung und
 dem Vizekönig blieb natürlich, wie immer, nichts weiter übrig, als dem
 Londoner Befehle zu gehorchen. Sie wollten ja alles tun und hegten
