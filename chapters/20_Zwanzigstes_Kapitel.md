@@ -57,8 +57,8 @@ wußte ich noch nichts, mußte aber alles erfahren, wenn ich Hladsche
 Tserings Anerbieten annahm. Doch daß die Bergketten, die Nain Sing
 auf der Südseite des Sees in die Karte eingetragen hatte, vollkommen
 phantastisch und willkürlich waren, das hatte ich schon sehen können.
-Jedenfalls durfte ich jetzt aber kein Entzücken verraten, und daher er-
-widerte ich sehr ruhig und bedächtig:
+Jedenfalls durfte ich jetzt aber kein Entzücken verraten, und daher erwiderte
+ich sehr ruhig und bedächtig:
 
 „Gut, ich werde übermorgen südwärts ziehen, wenn ihr mir bis
 dahin Pferde besorgen könnt.“
@@ -98,7 +98,7 @@ wäre ich an seinem Ufer unfehlbar festgenommen worden — aber das
 ist eine andere Geschichte, die in ein späteres Kapitel gehört.
 
 „Sagt mir, Hladsche Tsering, glaubt ihr, daß man mir im Gebiet
-des Labrang Halt gebieten wird ?“
+des Labrang Halt gebieten wird?“
 
 „Da ihr hier in Naktsang nicht festgenommen seid, werdet ihr es
 dort wohl auch nicht werden. Wie es mir gehen wird, weiß ich nicht,
@@ -283,7 +283,7 @@ meiner Behauptung wieder. Da klopfte er mir freundlich auf die Schulter
 und sagte lächelnd:
 
 „Hedin Sahib, dies ist für mich eine viel größere und wichtigere
-Neuigkeit als für euch! Mich kümmert's nicht, was ihr für Nachrichtcn
+Neuigkeit als für euch! Mich kümmert's nicht, was ihr für Nachrichten
 erhaltet, aber die Ankunft der Post vom Taschi-Lama ist mir schon an und
 für sich ein Beweis, daß Seine Heiligkeit euch wirklich erwartet, daß das
 Gebiet des Labrang euch offensteht und daß ich recht gehandelt habe, als ich
@@ -294,7 +294,7 @@ gegeben haben.“
 „Ich habe es ja immer gesagt, daß ich meine Post vom Taschi-Lama erhalten würde!“
 
 „Das ist wahr, aber erst jetzt habe ich einen greifbaren Beweis,
-jetzt bin ich völlig beruhigt und gedenke nicht einmal euern Aufbruh
+jetzt bin ich völlig beruhigt und gedenke nicht einmal euern Aufbruch
 noch abzuwarten. Ich reise übermorgen nach Schansa-dsong zurück.“
 
 Nun konnte ich aber meine Ungeduld nicht länger zügeln. Ich
@@ -421,7 +421,7 @@ bestreiten, aber keiner der Tibeter, die ich danach fragte, hatte den
 See je so nennen hören; sie nannten ihn Martschar-tso^[^0382]^, und unter diesem
 Namen figuriert er nun auf meiner Karte. Es kommt indessen manchmal
 vor, daß ein See bei verschiedenen Nomadenstämmen auch verschiedene
-Namen hat. Im Lager 109 (5189 Meter) lag er unmittelbar unter uns
+Namen hat. Im Lager 109 (5189&nbsp;Meter) lag er unmittelbar unter uns
 wie auf einer Karte; seine Gestalt ist nicht so einfach wie auf Nain
 Sings Karte, sondern reich an Halbinseln und Buchten, und in der
 Mitte ist er außerordeutlich schmal. Die Landenge zwischen dem
@@ -572,7 +572,7 @@ Tschang-tschenmo gesehen hatten — bergauf. An zwei Stellen hatten
 kleinere Nomadengemeinschaften ihre Winterweideplätze, und dort bewegten
 sich auf den Halden große Yak- und Schafherden umher. Der Name des
 Tales ist Kaji-rung, das Lager 113 hieß Kaji-pangbuk, der
-Distrikt Tova-tova. Nain Sings „Dobo Dobá Cho‘‘, von wo aus
+Distrikt Tova-tova. Nain Sings „Dobo Dobá Cho“, von wo aus
 er den Fluß Párá-sangpo nach dem Kjaring -tso gehen läßt, kannten die
 Einwohner nicht. Der Pundit läßt das Wasser nach Osten abfließen,
 tatsächlich aber strömt es westlich und nordwestlich nach dem Ngangtse-tso

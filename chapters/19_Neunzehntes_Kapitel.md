@@ -348,8 +348,8 @@ Machtmittel, einen Europäer zu zwingen!“
 „Der Vertrag von Lhasa wurde mit England geschlossen. Ihr seid
 kein Engländer, ihr seid ein Sved-peling.“
 
-„Um so mehr habt ihr allen Grund, mir Gastfreundschaft zu er-
-weisen. Gegen euren Wunsch und Willen hat England euch zum Krieg
+„Um so mehr habt ihr allen Grund, mir Gastfreundschaft zu erweisen.
+Gegen euren Wunsch und Willen hat England euch zum Krieg
 gezwungen; mein Land hat das nie getan!“
 
 „Ihr habt recht, euer Volk hat uns nie Schaden zugefügt. Aber
@@ -465,7 +465,7 @@ Begleitet von Robert und Muhamed Isa machte ich um drei Uhr
 meinen Gegenbesuch. Hladsche Tserings Zelt war groß und hübsch ein-
 gerichtet, und alle seine Sekretäre und Diener ([Abb. 94](ch020.xhtml#b0176_94))
 saßen um das Feuer herum, das hoch nach der oberen Zeltöffnung hinaufloderte.
-An denZeltwänden lagen Säcke Reis und Tsamba und mehrere unzerlegte geschlachtete
+An den Zeltwänden lagen Säcke Reis und Tsamba und mehrere unzerlegte geschlachtete
 Schafe; alles sah aus, als habe der Alte sich auf längeres Verweilen eingerichtet.
 Gewehre mit Gabeln und Fähnchen, Säbel und Lanzen, Geschirr, Zügel, Sättel
 und Satteldecken; alles ließ dieses Häuptlingszelt

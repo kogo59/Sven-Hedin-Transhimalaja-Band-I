@@ -271,8 +271,8 @@ Bahn des Mondlichte .
 Während ich durch Reiben wieder Leben in meine Füße zu bringen
 versuchte, schleppten die anderen unsere Habseligkeiten auf unsere armselige
 Salzinsel. Dann wurde das Boot auseinandergenommen und die beiden
-Hälften als Schutzschirme aufgestellt. Um neun Uhr hatten wir — 0,<small>5</small>&nbsp;Grad
-und um Mitternacht — 8 Grad; doch hier war es wärmer als an den
+Hälften als Schutzschirme aufgestellt. Um neun Uhr hatten wir -0,<small>5</small>&nbsp;Grad
+und um Mitternacht -8 Grad; doch hier war es wärmer als an den
 vorhergehenden Tagen, denn das Seewasser behält noch etwas von der
 Wärme der Sommerluft. Muhamed Isa hatte aus einer leeren Kiste
 eine neue Rolle für die Lotleine mit Gestell und Kurbel angefertigt; sie

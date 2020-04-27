@@ -421,7 +421,7 @@ Wie aufgeschwollene, ausgegrabene, an der Sonne getrocknete und mit
 weißer Ölfarbe angestrichene Choleraleichen! Gesicht, Hände und Kleider
 waren weiß von Salz. Ich konnte meinen Schafspelz auch nie wieder
 gebrauchen; er wurde steif, plagte in den Nähten und mußte mit anderen
-Kleidungsstüken einfach weggeworfen werden.
+Kleidungsstücken einfach weggeworfen werden.
 
 Noch hatten wir jedoch nicht den halben Weg zurückgelegt. Die
 Männer strengten sich an, als müßten sie sich durch metertiefes Wasser

@@ -183,7 +183,7 @@ Quertales, das zu dem südlichen Gebirge gehört und Kung-lung heißt.
 ::::
 
 :::: {.wrap-100 }
-![102. Fellboote auf dem Tschangpo.](Transhimalaja_Band_I_192_102.jpg "Transhimalaja_Band_I_192_102.jpg"){#b0192_102}
+![102. Fellboote auf dem Tsangpo.](Transhimalaja_Band_I_192_102.jpg "Transhimalaja_Band_I_192_102.jpg"){#b0192_102}
 ::::
 
 :::: {.wrap-100 }

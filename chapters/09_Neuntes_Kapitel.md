@@ -181,7 +181,7 @@ Weststurm sich noch nicht zeige.
 
 „Nein, es gibt keinen Sturm“, antwortete er ruhig.
 
-„Doch, nun kommt er,“ meinte er na einer kleinen Weile, „und
+„Doch, nun kommt er,“ meinte er nach einer kleinen Weile, „und
 es wird ein böser Sturm!“
 
 Ich wende mich um und sehe im Westen über dem Paß, den wir

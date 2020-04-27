@@ -400,8 +400,8 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 118. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_118)
 119. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_119)
 120. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_120)
-121. Audienzzimmer des Tashi-Lama.
-122. Ansicht von Taschi-lunpo. Skizze des Verfassers.
+121. [Audienzzimmer des Tashi-Lama.](ch025.xhtml#b0240_121)
+122. [Ansicht von Taschi-lunpo. Skizze des Verfassers.](ch025.xhtml#b0240_122)
 123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.
 124. Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.
 125. Fassade des Mausoleums des ersten Taschi-Lama.
