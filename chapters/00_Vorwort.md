@@ -402,11 +402,11 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 120. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_120)
 121. [Audienzzimmer des Tashi-Lama.](ch025.xhtml#b0240_121)
 122. [Ansicht von Taschi-lunpo. Skizze des Verfassers.](ch025.xhtml#b0240_122)
-123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.
-124. Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.
-125. Fassade des Mausoleums des ersten Taschi-Lama.
-126. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. Skizzen des Verfassers.
-127. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. Skizzen des Verfassers.
+123. [Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](ch026.xhtml#b0248_123)
+124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](ch026.xhtml#b0248_123)
+125. [Fassade des Mausoleums des ersten Taschi-Lama.](ch026.xhtml#b0256_125)
+126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_126)
+127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. Skizzen des Verfassers.](ch026.xhtml#b0256_127)
 128. Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo. Skizze des Verfassers.
 129. Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo. Skizze des Verfassers.     
 *Bunte Tafel.* Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
