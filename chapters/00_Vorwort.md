@@ -313,15 +313,15 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 31. [Kopf des Ammonschafes.](ch007.xhtml#b040_28_31) Skizzen des Verfassers.
 32. [Muhamed Isa, mein unvergeßlicher Karawanenführer.](ch008.xhtml#b044_32)
 33. [Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte.](ch008.xhtml#b044_33)
-34. [Palast der alten Könige von Ladak in Leh. Skizzen des Verfassers.](ch008.xhtml#b048_34)
-35. [Palast der alten Könige von Ladak in Leh. Skizzen des Verfassers.](ch008.xhtml#b048_35)
+34. [Palast der alten Könige von Ladak in Leh.](ch008.xhtml#b048_34) Skizzen des Verfassers.
+35. [Palast der alten Könige von Ladak in Leh.](ch008.xhtml#b048_35) Skizzen des Verfassers.
 36. [Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh.](ch008.xhtml#b048_36)
-37. [Tikse-gumpa, Männerkloster in Ladak. Skizze des Verfassers.](ch009.xhtml#b056_37)
+37. [Tikse-gumpa, Männerkloster in Ladak.](ch009.xhtml#b056_37) Skizze des Verfassers.
 38. [Vornehmer Lama.](ch009.xhtml#b056_38)
-39. [Der Radscha von Stogh, letzter Exkönig von Ladak. Skizzen des Verfassers.](ch009.xhtml#b056_39)
+39. [Der Radscha von Stogh, letzter Exkönig von Ladak.](ch009.xhtml#b056_39) Skizzen des Verfassers.
 40. [Von Singrul nach dem Passe Tschang-la.](ch009.xhtml#b064_40)
 41. [Aussicht von Soltak.](ch009.xhtml#b064_41)
-42. [Drugub. Skizzen des Verfassers.](ch009.xhtml#b064_42)
+42. [Drugub.](ch009.xhtml#b064_42) Skizzen des Verfassers.
 43. [Mein alter Freund Hiraman aus Ladak.](ch009.xhtml#b064_43)
 44. [Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse.](ch009.xhtml#b064_43)
 45. [Lunkar mit dem Weg zum Marsimik-la.](ch010.xhtml#b072_45)
@@ -365,7 +365,7 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 83. [Muhamed Isa vor seinem Zelt.](ch017.xhtml#b0152_83)
 84. [Die von den ersten Tibetern gekauften Yaks.](ch017.xhtml#b0152_84)
 85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_85)
-86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers.](ch018.xhtml#b0160_86)
+86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso.](ch018.xhtml#b0160_86) Skizze des Verfassers.
 87. [Tibetischer Gruß.](ch018.xhtml#b0160_87)
 88. [Der improvisierte Schlitten auf dem Ngangtse-tso.](ch019.xhtml#b0168_88)
 89. [Transport über den See.](ch019.xhtml#b0168_89)
@@ -384,7 +384,7 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 102. [Fellboote auf dem Tschangpo.](ch021.xhtml#b0192_102)
 103. [Pilger auf der Reise nach Taschi-lunpo.](ch021.xhtml#b0192_103)
 104. [Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](ch022.xhtml#b0200_104)
-105. [Die Burg (Dsong) von Schigatse. Skizze des Verfassers.](ch022.xhtml#b0200_105)
+105. [Die Burg (Dsong) von Schigatse.](ch022.xhtml#b0200_105) Skizze des Verfassers.
 106. [Der Labrang, Palast des Tashi-Lama.](ch022.xhtml#b0208_106)
 107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](ch022.xhtml#b0208_107)
 108. [Lamas in Taschi-lunpo.](ch023.xhtml#b0216_108)
@@ -392,22 +392,22 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 110. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_110)
 111. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_111)
 112. [Lama mit Muscheltrompete.](ch024.xhtml#b0224_112)
-113. [Lama mit Flöte. Skizzen des Verfassers.](ch024.xhtml#b0224_113)
+113. [Lama mit Flöte.](ch024.xhtml#b0224_113) Skizzen des Verfassers.
 114. [Lama mit Tempeltrommel.](ch024.xhtml#b0224_114)
-115. [Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). Skizzen des Verfassers.](ch024.xhtml#b0224_115)
+115. [Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke).](ch024.xhtml#b0224_115) Skizzen des Verfassers.
 116. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_116)
 117. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_117)
-118. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_118)
-119. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_119)
-120. [Lamas in Tanzmasken. Skizzen des Verfassers.](ch024.xhtml#b0232_120)
+118. [Lamas in Tanzmasken.](ch024.xhtml#b0232_118)
+119. [Lamas in Tanzmasken.](ch024.xhtml#b0232_119)
+120. [Lamas in Tanzmasken.](ch024.xhtml#b0232_120) Skizzen des Verfassers.
 121. [Audienzzimmer des Tashi-Lama.](ch025.xhtml#b0240_121)
-122. [Ansicht von Taschi-lunpo. Skizze des Verfassers.](ch025.xhtml#b0240_122)
+122. [Ansicht von Taschi-lunpo.](ch025.xhtml#b0240_122) Skizze des Verfassers.
 123. [Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](ch026.xhtml#b0248_123)
 124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](ch026.xhtml#b0248_123)
 125. [Fassade des Mausoleums des ersten Taschi-Lama.](ch026.xhtml#b0256_125)
 126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_126)
-127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. Skizzen des Verfassers.](ch026.xhtml#b0256_127)
-128. Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo. Skizze des Verfassers.
+127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_127) Skizzen des Verfassers.
+128. [Studierstunde in der Bibliothek Kandschur-Ihakang in Taschi-lunpo.](ch027.xhtml#b0264_128) Skizze des Verfassers.
 129. Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo. Skizze des Verfassers.     
 *Bunte Tafel.* Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
 im Transhimalaja. Aquarelle des Verfassers.

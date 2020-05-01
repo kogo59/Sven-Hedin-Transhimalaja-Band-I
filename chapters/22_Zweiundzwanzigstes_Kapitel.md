@@ -435,8 +435,6 @@ Ebenen Assams^[^0401]^ zu bewässern, nimmt er den Namen Brahmaputra an.
 ![127. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_256_127.jpg "Transhimalaja_Band_I_256_127.jpg"){#b0256_127}
 ::::
 
-
-
 :::
 
 
