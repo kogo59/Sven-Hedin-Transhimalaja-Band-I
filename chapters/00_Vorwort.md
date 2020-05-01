@@ -408,14 +408,14 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_126)
 127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_127) Skizzen des Verfassers.
 128. [Studierstunde in der Bibliothek Kandschur-Ihakang in Taschi-lunpo.](ch027.xhtml#b0264_128) Skizze des Verfassers.
-129. Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo. Skizze des Verfassers.     
-*Bunte Tafel.* Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
-im Transhimalaja. Aquarelle des Verfassers.
-130. Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo. Skizze des Verfassers.
-131. Schigatse.
-132. Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.
-133. Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse. Zeichnung von de Haenen.
-134. Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.
+129. [Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo.](ch027.xhtml#b0264_129) Skizze des Verfassers.     
+*Bunte Tafel.* [Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
+im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
+130. [Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo.](ch028.xhtml#b0276_130) Skizze des Verfassers.
+131. [Schigatse.](ch028.xhtml#b0276_131)
+132. [Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](ch028.xhtml#b0276_132)
+133. [Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse. Zeichnung von de Haenen.](ch028.xhtml#b0280_133)
+134. [Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](ch028.xhtml#b0280_134)
 135. Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.
 136. Lama in Taschi-lunpo.
 137. Bürger in Schigatse.

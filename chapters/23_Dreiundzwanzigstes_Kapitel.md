@@ -1,4 +1,4 @@
-# Dreiundzwanzigtes Kapitel.&nbsp;<br />**`Im Boot den Tsangpo hinunter. —
+# Dreiundzwanzigstes Kapitel.&nbsp;<br />**`Im Boot den Tsangpo hinunter. —
 Heimlich in Schigatse.`**<br /><br /> {#Kapitel_dreiundzwanzig .unnumbered}
 
 ::: justified
@@ -290,7 +290,7 @@ mir Kung Guschuk zur Verfügung gestellt hat. Aber es ist kalt und
 unfreundlich wie ein Gefängnis, und ich ziehe mein unter den Pappeln
 des Gartens aufgeschlagenes Zelt vor. Während wir auf Tsering warten,
 setzen wir uns um ein großes Reisigfeuer, an dem sich nach und
-nah auch mehrere Tibeter einfinden. Ich schenkte ihnen keine Aufmerksamkeit,
+nach auch mehrere Tibeter einfinden. Ich schenkte ihnen keine Aufmerksamkeit,
 ich war zu sehr von meinen Gedanken in Anspruch genommen.
 Es war geglückt, und ich hatte nach einer sechsmonatigen Reise durch
 ganz Tibet mein erstes Ziel erreicht! In später Nacht wurde mein
