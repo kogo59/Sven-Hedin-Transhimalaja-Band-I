@@ -416,11 +416,11 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 132. [Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](ch028.xhtml#b0276_132)
 133. [Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse. Zeichnung von de Haenen.](ch028.xhtml#b0280_133)
 134. [Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](ch028.xhtml#b0280_134)
-135. Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.
-136. Lama in Taschi-lunpo.
-137. Bürger in Schigatse.
-138. Chinesischer Kaufmann in Schigatse.
-139. Pförtner im Tempel des Tsongkapa. Skizzen des Verfassers.
+135. [Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.](ch029.xhtml#b0288_135)
+136. [Lama in Taschi-lunpo.](ch029.xhtml#b0288_136_137)
+137. [Bürger in Schigatse.](ch029.xhtml#b0288_136_137)
+138. [Chinesischer Kaufmann in Schigatse.](ch029.xhtml#b0288_138_139)
+139. [Pförtner im Tempel des Tsongkapa.](ch029.xhtml#b0288_138_139) Skizzen des Verfassers.
 140. Chinesen mit Drachen und Papierlaternen.
 141. Grabkapelle zweier Taschi-Lamas.
 142. Inneres der großen roten Galerie von Taschi-lunpo. Skizze des Verfassers.

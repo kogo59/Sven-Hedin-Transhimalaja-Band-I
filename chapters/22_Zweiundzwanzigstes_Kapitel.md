@@ -415,7 +415,7 @@ oben auf der Geröllterrasse, die senkrecht nach dem Flusse abfällt und von der
 aus man eine prachtvolle Aussicht über den Tsangpo hat ([Abb. 101](ch021.xhtml#b0192_101)).
 Der Fluß wird hier bald Sangtschen, bald Tsangpo-Tschimbo, d. h.
 „der große Fluß“, genannt. Der Tsangpo ist Tibets Fluß par préférence.
-Nach Waddell wird dieser Name bisweilen so geschrieben, daß
+Nach Waddell^[^0402]^ wird dieser Name bisweilen so geschrieben, daß
 er eine getreue Übersetzung des Namens Brahmaputra ist, der „Sohn
 des Brahma“ bedeutet. Den Namen Jere-tsangpo haben wir bereits
 kennen gelernt, und weiter westlich werden wir noch mehrere Namen finden.
@@ -447,3 +447,5 @@ Ebenen Assams^[^0401]^ zu bewässern, nimmt er den Namen Brahmaputra an.
 [^0400]: [*Brahmaputra*: vergleiche [Brahmaputra](https://de.wikipedia.org/wiki/Brahmaputra)]{.footnote}
 
 [^0401]: [*Assam*: vergleiche [Assam](https://de.wikipedia.org/wiki/Assam)]{.footnote}
+
+[^0402]: [*Waddell*: vergleiche [Laurence Waddell](https://en.wikipedia.org/wiki/Laurence_Waddell)]{.footnote}
