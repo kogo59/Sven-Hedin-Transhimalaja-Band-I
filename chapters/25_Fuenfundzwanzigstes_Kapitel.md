@@ -223,7 +223,7 @@ und Herrn David Fraser.
 ![138. Chinesischer Kaufmann in Schigatse. 139. Pförtner im Tempel des Tsongkapa. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_288_138_139.jpg "Transhimalaja_Band_I_288_138_139.jpg"){#b0288_138_139}
 ::::
 
-Von den beiden Oberpriestern der Gelbmützen sagt Koeppen: „Von
+Von den beiden Oberpriestern der Gelbmützen sagt Koeppen^[^0453]^: „Von
 diesen gilt der Pantschen Rinpotsche auf Taschi-lunpo in letzter Instanz
 meistens für die Verkörperung des Dhyani-Buddha der gegenwärtigen
 Weltperiode, Amitabha, aber auch der Bodhisattvas Mandschuschri^[^0451]^ und
@@ -477,3 +477,5 @@ minderjährig ist, geschieht dies durch ein Konklave hochgestellter Priester.
 [^0451]: [*Bodhisattva Mandschuschri*: vergleiche [Manjushri](https://de.wikipedia.org/wiki/Manjushri)]{.footnote}
 
 [^0452]: [*Tsongkapa*: vergleiche [Tsongkhapa](https://de.wikipedia.org/wiki/Tsongkhapa)]{.footnote}
+
+[^0453]: [*Koeppen*: vergleiche [Karl Friedrich Köppen](https://de.wikipedia.org/wiki/Karl_Friedrich_K%C3%B6ppen)]{.footnote}

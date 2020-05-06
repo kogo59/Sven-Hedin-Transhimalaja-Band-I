@@ -403,11 +403,11 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 121. [Audienzzimmer des Tashi-Lama.](ch025.xhtml#b0240_121)
 122. [Ansicht von Taschi-lunpo.](ch025.xhtml#b0240_122) Skizze des Verfassers.
 123. [Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](ch026.xhtml#b0248_123)
-124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](ch026.xhtml#b0248_123)
+124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](ch026.xhtml#b0248_124)
 125. [Fassade des Mausoleums des ersten Taschi-Lama.](ch026.xhtml#b0256_125)
 126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_126)
 127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_127) Skizzen des Verfassers.
-128. [Studierstunde in der Bibliothek Kandschur-Ihakang in Taschi-lunpo.](ch027.xhtml#b0264_128) Skizze des Verfassers.
+128. [Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo.](ch027.xhtml#b0264_128) Skizze des Verfassers.
 129. [Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo.](ch027.xhtml#b0264_129) Skizze des Verfassers.     
 *Bunte Tafel.* [Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
 im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
@@ -421,12 +421,12 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 137. [Bürger in Schigatse.](ch029.xhtml#b0288_136_137)
 138. [Chinesischer Kaufmann in Schigatse.](ch029.xhtml#b0288_138_139)
 139. [Pförtner im Tempel des Tsongkapa.](ch029.xhtml#b0288_138_139) Skizzen des Verfassers.
-140. Chinesen mit Drachen und Papierlaternen.
-141. Grabkapelle zweier Taschi-Lamas.
-142. Inneres der großen roten Galerie von Taschi-lunpo. Skizze des Verfassers.
-143. Der Taschi -Lama kehrt von einer Zeremonie nach dem Labrang zurück.    
-*Bunte Tafel.* Namgzgjal - lhakang mit Tsongkapas Bild in Taschi-lunpo. Aquarell des Verfassers.    
-*Bunte Tafel.*  Eingang zum Grab des fünften Taschi - Lama in Taschi-lunpo. Aquarell des Verfassers.
+140. [Chinesen mit Drachen und Papierlaternen.](ch030.xhtml#b0296_140)
+141. [Grabkapelle zweier Taschi-Lamas.](ch030.xhtml#b0296_141)
+142. [Inneres der großen roten Galerie von Taschi-lunpo.](ch030.xhtml#b0296_142) Skizze des Verfassers.
+143. [Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](ch030.xhtml#b0296_143)    
+*Bunte Tafel.* [Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo.](ch030.xhtml#b0300_000) Aquarell des Verfassers.    
+*Bunte Tafel.* [Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo.](ch030.xhtml#b0304_000) Aquarell des Verfassers.
 144. Die große rote Galerie von Taschi-lunpo von außen. Skizze des Verfassers.
 145. Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in
 Taschi-lunpo. Skizze des Verfassers.

@@ -333,7 +333,7 @@ so lange bleiben, bis der Amban, der Generalgouverneur Lien Darin,
 ihn wieder abrufen würde.
 
 :::: {.wrap-100 .break-before }
-![128. Studierstunde in der Bibliothek Kandschur-Ihakang in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_264_128.jpg "Transhimalaja_Band_I_264_128.jpg"){#b0264_128}
+![128. Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_264_128.jpg "Transhimalaja_Band_I_264_128.jpg"){#b0264_128}
 ::::
 
 :::: {.wrap-60 }
