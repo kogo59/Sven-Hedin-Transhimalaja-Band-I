@@ -69,7 +69,6 @@ sind überhaupt nicht gepflastert. Aber alle diese Bauwerke sind gediegen
 und solide gebaut und darauf eingerichtet, sowohl der Zeit als dem rauhen
 Klima Tibets Trotz zu bieten.
 
-
 :::: {.wrap-100 .break-before }
 ![140. Chinesen mit Drachen und Papierlaternen.](Transhimalaja_Band_I_296_140.jpg "Transhimalaja_Band_I_296_140.jpg"){#b0296_140}
 ::::

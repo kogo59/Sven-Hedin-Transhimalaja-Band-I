@@ -427,12 +427,11 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 143. [Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](ch030.xhtml#b0296_143)    
 *Bunte Tafel.* [Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo.](ch030.xhtml#b0300_000) Aquarell des Verfassers.    
 *Bunte Tafel.* [Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo.](ch030.xhtml#b0304_000) Aquarell des Verfassers.
-144. Die große rote Galerie von Taschi-lunpo von außen. Skizze des Verfassers.
-145. Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in
-Taschi-lunpo. Skizze des Verfassers.
-146. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.
-147. Pilger in einem Portal in Taschi-lunpo.
-148. Eine Klosterküche in Taschi-lunpo. Skizze des Verfassers.
+144. [Die große rote Galerie von Taschi-lunpo von außen.](ch032.xhtml#b0312_144) Skizze des Verfassers.
+145. [Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.](ch032.xhtml#b0312_145) Skizze des Verfassers.
+146. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](ch032.xhtml#b0320_146)
+147. [Pilger in einem Portal in Taschi-lunpo.](ch032.xhtml#b0320_147)
+148. [Eine Klosterküche in Taschi-lunpo.](ch032.xhtml#b0320_147) Skizze des Verfassers.
 149. Pilgerin aus Nam-tso.
 150. Lama mit Teekanne.
 151. Der Tee wird zu den Zellen der Mönche gebracht.
