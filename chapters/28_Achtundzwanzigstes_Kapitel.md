@@ -452,8 +452,8 @@ von ihnen gehen mehrere Male um die Mauer herum.
 
 Jener wandernde Lama gehörte zu einer Brüderschaft von neun
 Mönchen, die uns manchmal in unserem Garten besuchten, vor den Zelten
-saßen, ihre Gebetmühlen drehten und sangen (Abb. 152). Sie hatten freie
-Wohnung in einem Gebäude Taschi-lunpos, das Hamdung hieß. Ein
+saßen, ihre Gebetmühlen drehten und sangen ([Abb. 152](ch033.xhtml#b0328_152)).
+Sie hatten freie Wohnung in einem Gebäude Taschi-lunpos, das Hamdung hieß. Ein
 anderes Mitglied war der siebzigjährige Tensin aus Amdoz er hatte vier,
 Monate gebraucht, um von dort nach Taschi-lunpo zu gehen. Alle waren
 des Festes wegen gekommen und wollten über Lhasa und Naktschu nach
@@ -499,9 +499,9 @@ Wohnungen.
 
 Jeder Mönch erhält täglich drei Schalen Tsamba und nimmt seine Mahlzeiten
 in seiner Zelle ein, wohin ihm auch dreimal am Tage Tee gebracht
-wird (Abb. 150). Doch wird ihnen auch während des Gottesdienstes Tee
-gereicht, in den Tempelsälen, in den Vorlesungssälen und auf dem großen
-Hofe. Keine religiöse Handlung scheint so heilig zu sein, daß sie nicht
+wird ([Abb. 150](ch033.xhtml#b0328_150)). Doch wird ihnen auch während des
+Gottesdienstes Tee gereicht, in den Tempelsälen, in den Vorlesungssälen und auf
+dem großen Hofe. Keine religiöse Handlung scheint so heilig zu sein, daß sie nicht
 zu beliebiger Zeit durch ein Schälchen Tee unterbrochen werden könnte.
 
 Eines Tages beobachtete ich von der roten Säulengalerie (Kabung)
@@ -514,8 +514,8 @@ Anstrich hatte der Teeklatsch doch, denn bisweilen sangen sie gemeinschaftlich
 eine feierliche, monotone Hymne, die in dem engen, widerhallenden Hofe
 wunderbar schön und ergreifend klang. Am 4. März
 wimmelte es auf dem Hof und anderen Plätzen innerhalb der Mauern
-Taschi-lunpos von Weibern (Abb. 149) — es war der letzte Tag, an dem
-ihnen das Gebiet des Klosters offenstand; vor dem nächsten Losarfest
+Taschi-lunpos von Weibern ([Abb. 149](ch033.xhtml#b0328_149)) — es war der letzte Tag,
+an dem ihnen das Gebiet des Klosters offenstand; vor dem nächsten Losarfest
 werden sie hier nicht wieder zugelassen.
 
 Der junge Mönch, der als Reisebegleiter des Taschi-Lama in Indien
@@ -536,8 +536,8 @@ Wenn man durch die Straßen der Klosterstadt wandert, muß
 man sich vorsehen, denn die Steinplatten, über die seit Jahrhunderten
 Tausende von Mönchen und Pilgern hinschritten, sind blank von der
 Abnutzung und tückisch. Gewöhnlich herrscht lebhafter Verkehr, besonders
-an den Festtagen (Abb. 153). Mönche kommen und gehen, stehen in
-plaudernden Gruppen an Straßenecken und in den Portalen, gehen zum
+an den Festtagen ([Abb. 153](ch033.xhtml#b0328_153)). Mönche kommen und gehen, 
+stehen in plaudernden Gruppen an Straßenecken und in den Portalen, gehen zum
 Gottesdienst, kommen von dort zurück oder sind auf dem Weg, um ihre
 Brüder in ihren Zellen zu besuchen. Andere tragen neugenähte Standarten
 und Seidenvorhänge von der Schneiderwerkstatt in die mystische Dämmerung
@@ -566,9 +566,7 @@ die mit Gebeten bedruckt sind, und Schicht auf Schicht rollt um
 die Achse des Zylinders. Am Zylinder befinden sich Kurbeln, mit denen
 die Achse in Drehung versetzt wird. Eine einzige Umdrehung, und
 Millionen Gebete steigen gleichzeitig zu den Ohren der Götter empor!
-
 :::
-
 
 :::: align-center
 ****

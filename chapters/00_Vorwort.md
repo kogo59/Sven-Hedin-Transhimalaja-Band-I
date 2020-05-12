@@ -432,14 +432,14 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 146. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](ch032.xhtml#b0320_146)
 147. [Pilger in einem Portal in Taschi-lunpo.](ch032.xhtml#b0320_147)
 148. [Eine Klosterküche in Taschi-lunpo.](ch032.xhtml#b0320_147) Skizze des Verfassers.
-149. Pilgerin aus Nam-tso.
-150. Lama mit Teekanne.
-151. Der Tee wird zu den Zellen der Mönche gebracht.
-152. Bettelnder Lama. Skizzen des Verfassers.
-153. Straße mit Lamas in Taschi-lunpo.
-154. Tschorten in Taschi-lunpo. Skizze des Verfassers.
-155. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).
-156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).
+149. [Pilgerin aus Nam-tso.](ch033.xhtml#b0328_149)
+150. [Lama mit Teekanne.](ch033.xhtml#b0328_150)
+151. [Der Tee wird zu den Zellen der Mönche gebracht.](ch033.xhtml#b0328_151)
+152. [Bettelnder Lama.](ch033.xhtml#b0328_152) Skizzen des Verfassers.
+153. [Straße mit Lamas in Taschi-lunpo.](ch033.xhtml#b0328_153)
+154. [Tschorten in Taschi-lunpo.](ch033.xhtml#b0336_154) Skizze des Verfassers.
+155. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_155)
+156. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_156)
 157. Vorlesung für Novizen in Taschi-lunpo. Skizze des Verfassers.
 158. Pilger aus Kamba-dsong.
 159. Pilgerinnen aus Nam-tso. Skizzen des Verfassers.
