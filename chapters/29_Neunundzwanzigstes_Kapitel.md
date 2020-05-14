@@ -229,8 +229,8 @@ Kandschur. Die großen gelben Mäntel, die beim Tempeldienst umgebunden
 werden, aber im Freien nicht getragen werden dürfen, waren bereitgelegt.
 Die jungen, braungesichtigen und kurzhaarigen Mönche traten in den roten
 Togen ein, warfen die gelben Mäntel über die Schultern und setzten sich
-dann mit gekreuzten Beinen vor den Büchern nieder (Abb. 157). Ein
-älterer Lama, ein Kanpo, bestieg ein Katheder an der Querwand und
+dann mit gekreuzten Beinen vor den Büchern nieder ([Abb. 157](ch034.xhtml#b0344_157)).
+Ein älterer Lama, ein Kanpo, bestieg ein Katheder an der Querwand und
 sang nun mit grober, feierlicher Baßstimme die heiligen Texte vor. Die
 Schüler fielen mit eintöniger rhythmischer Stimme ein. Einige lasen in
 den vor ihnen liegenden Blättern mit, andere schienen die gesungenen

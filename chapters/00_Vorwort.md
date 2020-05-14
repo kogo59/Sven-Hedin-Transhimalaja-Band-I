@@ -440,13 +440,13 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 154. [Tschorten in Taschi-lunpo.](ch033.xhtml#b0336_154) Skizze des Verfassers.
 155. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_155)
 156. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_156)
-157. Vorlesung für Novizen in Taschi-lunpo. Skizze des Verfassers.
-158. Pilger aus Kamba-dsong.
-159. Pilgerinnen aus Nam-tso. Skizzen des Verfassers.
-160. Frau Taschi Buti in Schigatse.
-161. Junge Dame in Schigatse.
-162. Bürgerfrau in Schigatse. Skizzen des Verfassers.
-163. Tanzende Knaben mit Trommeln. Skizze des Verfassers.
+157. [Vorlesung für Novizen in Taschi-lunpo.](ch034.xhtml#b0344_157) Skizze des Verfassers.
+158. [Pilger aus Kamba-dsong.](ch034.xhtml#b0344_158)
+159. [Pilgerinnen aus Nam-tso.](ch034.xhtml#b0344_159) Skizzen des Verfassers.
+160. [Frau Taschi Buti in Schigatse.](ch034.xhtml#b0348_160)
+161. [Junge Dame in Schigatse.](ch034.xhtml#b0348_161)
+162. [Bürgerfrau in Schigatse.](ch034.xhtml#b0348_162) Skizzen des Verfassers.
+163. [Tanzende Knaben mit Trommeln.](ch034.xhtml#b0348_163) Skizze des Verfassers.
 164. Der Herzog Kung Guschuk, Bruder des Taschi-Lama.
 165. Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.
 166. Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend). Zeichnung von T. Macfarlane
