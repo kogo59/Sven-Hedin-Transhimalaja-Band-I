@@ -447,10 +447,10 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 161. [Junge Dame in Schigatse.](ch034.xhtml#b0348_161)
 162. [Bürgerfrau in Schigatse.](ch034.xhtml#b0348_162) Skizzen des Verfassers.
 163. [Tanzende Knaben mit Trommeln.](ch034.xhtml#b0348_163) Skizze des Verfassers.
-164. Der Herzog Kung Guschuk, Bruder des Taschi-Lama.
-165. Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.
-166. Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend). Zeichnung von T. Macfarlane
-167. Der jüngste Bruder des Taschi-Lama mit einem Diener.
+164. [Der Herzog Kung Guschuk, Bruder des Taschi-Lama.](ch035.xhtml#b0352_164)
+165. [Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](ch035.xhtml#b0352_165)
+166. [Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](ch035.xhtml#b0360_166) Zeichnung von T. Macfarlane
+167. [Der jüngste Bruder des Taschi-Lama mit einem Diener.](ch035.xhtml#b0360_167)
 168. Wandernde Nonne mit Tanka, eine religiöse Legende darstellend.
 169. Tarting-gumpa.
 170. Motiv vom Sego-tshummo-lhakang in Tarting-gumpa. Skizze des Verfassers.

@@ -484,8 +484,8 @@ einundzwanzigjährigen Bruder gelegentlich besucht.
 
 Kung Guschuk ist also noch jung, sehr schüchtern und sichtlich erfreut,
 wenn der Gast spricht und er selber sein eignes kleines, schlecht
-möbliertes Gehirn nicht anzustrengen braucht (Abb. 164). Von Indien, wohin er
-seinen hohen Bruder begleitete, hatte er sehr unklare Erinnerungen
+möbliertes Gehirn nicht anzustrengen braucht ([Abb. 164](ch035.xhtml#b0352_164)).
+Von Indien, wohin er seinen hohen Bruder begleitete, hatte er sehr unklare Erinnerungen
 mitgebracht, aber er wußte doch noch, daß Kalkutta eine große Stadt ist und
 daß es dort unten entsetzlich heiß gewesen war; im übrigen schien ihm
 die Reise wie ein unverständlicher Traum vorzuschweben. Über meine
@@ -495,8 +495,8 @@ Frau hatte mich fragen lassen, ob ich sie nicht porträtieren wolle, und
 ich bat nun, mich erkundigen zu dürfen, wann es ihr genehm sei.
 Jederzeit. Als ich fortging, stand die Gnädige mit ihren schwarzen Ehrendamen
 am anderen Ende des offenen Balkons, der einen Lichthof umgab
-(Abb. 165). Ich grüßte höflich hinauf und bezauberte gewiß die Dame
-im Vorübergehen — es war nicht weiter gefährlich, sie war gründlich
+([Abb. 165](ch035.xhtml#b0352_165)). Ich grüßte höflich hinauf und bezauberte gewiß
+die Dame im Vorübergehen — es war nicht weiter gefährlich, sie war gründlich
 passée, da sie Kung Guschuk gemeinsam mit einem älteren Bruder gehört
 hatte, der auf der Rückreise von Indien in Sikhim gestorben war. Sie
 soll es sein, die die Finanzen des Hauses in Ordnung hält und das
@@ -505,7 +505,7 @@ wüstes Leben, ist bis über die Ohren verschuldet und spielt Hasard!
 Das ist unanständig — wenn man Bruder des Taschi-Lama ist!
 
 Erst am 22. März wurde etwas aus dem Porträtzeichnen, das in
-dem großen Gemache stattfand und mit Bleistift geschah (Abb. 166).
+dem großen Gemache stattfand und mit Bleistift geschah ([Abb. 166](ch035.xhtml#b0360_166)).
 Die Herzogin ist groß und etwas aufgeschwemmt und behauptete, 33 Jahre
 alt zu sein — ich taxierte sie auf 45! Ihr Teint ist hell und schlecht,
 das Weiße im Auge glanzlos. Sie hatte sich zu dieser Gelegenheit mit
@@ -516,8 +516,8 @@ Freundlich und liebenswürdig war sie; es sei ihr einerlei, wie lange sie
 sitzen müsse, wenn es nur gut werde, sagte sie. Ihr kleiner Pantoffelheld
 von Gatte saß dabei und sah zu, und um uns herum standen die anderen
 Hausbewohner und noch ein kleiner Bruder Kung Guschuks und des
-Taschi-Lama (Abb. 167). Sie selber tranken Buttertee, setzten ihn mir
-aber nicht vor, was die Visite bedeutend angenehmer machte.
+Taschi-Lama ([Abb. 167](ch035.xhtml#b0360_167)). Sie selber tranken Buttertee,
+setzten ihn mir aber nicht vor, was die Visite bedeutend angenehmer machte.
 
 :::: {.wrap-40 .break-before .float-left }
 ![160. Frau Taschi Buti in Schigatse.](Transhimalaja_Band_I_348_160.jpg "Transhimalaja_Band_I_348_160.jpg"){#b0348_160}
