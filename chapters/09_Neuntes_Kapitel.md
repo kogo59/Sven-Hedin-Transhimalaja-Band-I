@@ -479,7 +479,7 @@ heißen Tees schmecken würde, als Rehim Ali zusammenfährt und ausruft:
 
 „Wo?“ frage ich ein wenig ungläubig.
 
-„Dort, im Norden, am Ufer“‘, antwortet er und zeigt auf einen
+„Dort, im Norden, am Ufer“, antwortet er und zeigt auf einen
 schwach leuchtenden Punkt.
 
 „Das ist ein Stern“, sage ich, nachdem ich das nächtliche Dunkel

@@ -382,8 +382,8 @@ sich verbeugen, auf die Knie fallen, die Stirn auf den Boden drücken und
 dem Großlama durch Anbetung wie einem Gotte huldigen. Aber gar
 zu oft begegnen meine Blicke den seinen; augenscheinlich interessieren ihn
 seine Gäste sehr. Schon vor Anfang des Schauspieles hatte er einen
-Lama nach meinem Garten geschickt, der mir ein großes „Kadach“ über-
-reichen sollte, ein langes schmales Stück feiner weißer Seide, das einen
+Lama nach meinem Garten geschickt, der mir ein großes „Kadach“
+überreichen sollte, ein langes schmales Stück feiner weißer Seide, das einen
 Bewillkommnungsgruß und einen Beweis der Höflichkeit und Rücksicht
 bedeutet. Jetzt gingen hinter meinem Stuhl ganz leise mehrere Mönche;
 ein Tisch, der eigentlich eher ein Schemel war, wurde hingestellt, und

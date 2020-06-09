@@ -168,11 +168,11 @@ Pergament.
 ![151. Der Tee wird zu den Zellen der Mönche gebracht.](Transhimalaja_Band_I_328_151.jpg "Transhimalaja_Band_I_320_151.jpg"){#b0328_151}
 ::::
 
-:::: {.wrap-40 .float-right }
+:::: {.wrap-40 .float-right .break-after}
 ![152. Bettelnder Lama. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_328_152.jpg "Transhimalaja_Band_I_320_152.jpg"){#b0328_152}
 ::::
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70 }
 ![153. Straße mit Lamas in Taschi-lunpo.](Transhimalaja_Band_I_328_153.jpg "Transhimalaja_Band_I_320_143.jpg"){#b0328_153}
 ::::
 
@@ -516,7 +516,7 @@ des Totenzerstücklers als wir vor dem des Arztes am Seziertisch.
 ::::
 
 :::: {.wrap-100 }
-![156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).<small>In 156 rechts ein Miniaturtschorten, heilige Bücher, Tempelgefäße, an beiden Seiten des kleinen Altartisches Holzmatrizen, mit welchen die heiligen Bücher gedruckt werden.</small>](Transhimalaja_Band_I_336_156.jpg "Transhimalaja_Band_I_336_156.jpg"){#b0336_156}
+![156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa). <small>In 156 rechts ein Miniaturtschorten, heilige Bücher, Tempelgefäße, an beiden Seiten des kleinen Altartisches Holzmatrizen, mit welchen die heiligen Bücher gedruckt werden.</small>](Transhimalaja_Band_I_336_156.jpg "Transhimalaja_Band_I_336_156.jpg"){#b0336_156}
 ::::
 
 :::

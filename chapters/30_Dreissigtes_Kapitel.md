@@ -385,7 +385,7 @@ zwei Nonnen mit einer großen „Tanka“, die eine Reihe verwickelter
 Ereignisse aus der heiligen Geschichte darstellt. Während die eine die
 Erklärung singt, deutet die andere mit einem Stock auf die dazugehörenden
 Bilder. Und sie singt so weich und gefühlvoll, daß es ein Vergnügen
-ist, ihr zu lauschen (Abb. 168).
+ist, ihr zu lauschen ([Abb. 168](ch036.xhtml#b0368_168)).
 
 Oder es kommt ein bettelnder Lama mit der Gebetmühle in der
 Hand und zwei Handschienen an einem um den Nacken gelegten Riemen

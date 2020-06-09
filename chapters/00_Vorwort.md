@@ -451,10 +451,10 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 165. [Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](ch035.xhtml#b0352_165)
 166. [Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](ch035.xhtml#b0360_166) Zeichnung von T. Macfarlane
 167. [Der jüngste Bruder des Taschi-Lama mit einem Diener.](ch035.xhtml#b0360_167)
-168. Wandernde Nonne mit Tanka, eine religiöse Legende darstellend.
-169. Tarting-gumpa.
-170. Motiv vom Sego-tshummo-lhakang in Tarting-gumpa. Skizze des Verfassers.
-171. Das Nonnenkloster von Gandän-tshödng.
+168. [Wandernde Nonne mit Tanka, eine religiöse Legende darstellend.](ch036.xhtml#b0368_168)
+169. [Tarting-gumpa.](ch036.xhtml#b0368_169)
+170. [Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.](ch036.xhtml#b0368_170) Skizze des Verfassers.
+171. [Das Nonnenkloster von Gandän-tschöding.](ch036.xhtml#b0368_171)
 172. Ein junger Lama.
 173. Lama in Tong. Skizzen des Verfassers.
 174. Aussicht vom Ta-la (5436 Meter) nach Südosten. Skizze des Verfassers.

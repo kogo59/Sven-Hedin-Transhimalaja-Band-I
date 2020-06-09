@@ -478,7 +478,7 @@ ist, der im Feuer gestanden hat. Seine Uniform ist feuerrot, und auf
 seiner linken Brust funkelt ein ganzes Vermögen an Diamanten. Er
 trägt einen weltberühmten, einen unsterblichen Namen: Lord Kitchener^[^0009]^
 of Khartoum, der Besieger Afrikas und Oberbefehlshaber des indischen
-Heeres ([Abb. 4](#b0012)).
+Heeres ([Abb. 4](#b012)).
 
 Ein Herr tritt auf mich zu und fragt mich, ob ich mich noch erinnere,
 daß wir bei einem Essen bei Lord Curzon Tischnachbarn gewesen

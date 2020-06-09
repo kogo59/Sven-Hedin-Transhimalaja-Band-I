@@ -28,7 +28,7 @@ brachte mir von ihm einen Brief, der folgenden lakonischen Inhalt hatte:
 :::: fs-s
 |
 |     Übereinkommen zwischen Großbritannien und China, unterzeichnet
-|     in Peking im Jahre 1906, § 2: Die großbritannische Regierung ver-
+|     in Peking im Jahre 1906, § 2: # EinunddreißigteDie großbritannische Regierung ver-
 |     pflichtet sich, kein tibetisches Territorium zu annektieren und sich nicht in
 |     Tibets Verwaltung zu mischen.
 |
@@ -469,7 +469,7 @@ Die braune Puppy arrangierte am Morgen des 25. ein allerdings
 nicht unerwartetes Intermezzo. Infolge unzivilisierter Begriffe über die
 Heiligkeit meines Zeltes hatte die Hündin lange nicht hineingedurft. Aber
 nun, als ich gerade beim Schreiben meiner letzten Briefe saß, kam sie
-und kratzte in der einen Ete des Zeltes mit den Vorderpfoten eine Grube,
+und kratzte in der einen Ecke des Zeltes mit den Vorderpfoten eine Grube,
 winselte ängstlich, legte den Kopf an mein Knie und sah sehr unglücklich
 aus, als wolle sie mir zu verstehen geben, wie hilflos sie sich fühle.
 Ehe ich mich dessen versah — lagen zwei ganz kleine Hündchen quiekend
