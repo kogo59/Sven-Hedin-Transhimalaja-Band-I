@@ -109,7 +109,8 @@ Ein rotes Haus ist das „Lhakang“, der Göttersaal, von Tarting-gumpa,
 und dahinter liegt das Haus des Großlama, das, malerisch und eigenartig,
 in dem gewöhnlichen weißgepußten, steinwürfelartigen, oben abgeplatteten
 tibetischen Stil erbaut ist. Darüber thront Tarting-gumpa
-auf seinem Hügel, wie Dschimre oder Tikse in Ladak (Abb. [169](ch036.xhtml#b0368_169), 176, 177).
+auf seinem Hügel, wie Dschimre oder Tikse in Ladak (Abb. [169](ch036.xhtml#b0368_169),
+[176](ch037.xhtml#b0384_176), [177](ch037.xhtml#b0384_177)).
 
 Wir treten in den Hof des Lhakang mit seinen roten Mauern ein;
 an zwei Seiten ruht ein Dach auf einer Reihe Pfosten, ein Schuppen
@@ -290,7 +291,7 @@ und über ein lichteres Dasein jenseits des Holzstoßes nachgegrübelt.
 Brahmaputratal jagen sehen. Noch gestern hatte er im Augenblick
 des Scheidens dem Läuten der Tempelglocken gelauscht, die mit ihren
 Klöppeln, an die große Falkenfedern gebunden sind, seinen Gang ins
-Jenseits einläuteten, Und dann war er shwankenden Schrittes der
+Jenseits einläuteten, Und dann war er schwankenden Schrittes der
 unsicheren Spur seiner voraufgegangenen toten Brüder gefolgt.
 
 Hoffnungslos, melancholisch und düster erscheint eine solche Lebensgeschichte.
@@ -436,8 +437,8 @@ Opferschalen gegossen wird.
 Der Tsokang ist ein höher liegender Saal, der mit schwarzen
 Draperien verhängt ist, die unten weißgestreift sind.
 
-Auf einem kleinen offenen Platz saßen Mönche (Abb. 172), vor
-denen eine Masse Kleinigkeiten standen; es war eine Auktion, in der die
+Auf einem kleinen offenen Platz saßen Mönche ([Abb. 172](ch037.xhtml#b0384_172)),
+vor denen eine Masse Kleinigkeiten standen; es war eine Auktion, in der die
 weltliche Habe eines Verstorbenen verkauft wurde. Ich erstand einige
 Holztafeln, mit denen die heiligen Schriften mit der Hand gedruckt werden.
 
@@ -464,7 +465,7 @@ Kreis von Göttinnen. Ein kleinerer Saal derselben Art heißt Mankang-thang.
 Am oberen Rand seines Gebetzylinders ist ein Zapfen, der bei
 jeder Umdrehung gegen den Klöppel einer Glocke schlägt. Ein alter Lama
 saß davor und hielt den Zylinder mit einem an einem Bügel der eisernen
-Achse befestigten Strick unausgesetzt in Bewegung. Ich und einem
+Achse befestigten Strick unausgesetzt in Bewegung. Ihm und einem
 zweiten Mönch liegt es ob, dieses Scheusal den ganzen Tag und die
 halbe Nacht, oder von Sonnenaufgang bis Mitternacht, ununterbrochen
 schnurren zu lassen! Während er drehend dasaß, sagte er Gebete her, aber
@@ -512,8 +513,8 @@ des Schakya, auf die vergänglichen Menschen zu seinen Füßen herab!
 
 Als Kontrast zu all diesem Reichtum saß an einer Straßenecke ein
 achtzigjähriger Blinder mit einem Stab in jeder Hand und sang ein
-Bettellied (Abb. 181). Neben ihm lag ein halb verhungerter Hund, sein
-einziger Freund im Leben. Schakya Munis erbarmende Liebe reichte nicht
+Bettellied ([Abb. 181](ch037.xhtml#b0384_181)). Neben ihm lag ein halb verhungerter
+Hund, sein einziger Freund im Leben. Schakya Munis erbarmende Liebe reichte nicht
 hin, diesen Greis aus den Banden des Alters und des Leidens zu erlösen!
 Auch er wurde der Galerie meines Skizzenbuches, die sich an diesem
 denkwürdigen Tage bedeutend vergrößert hatte, einverleibt. Aber wie

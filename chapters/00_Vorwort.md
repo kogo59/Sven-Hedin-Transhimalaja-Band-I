@@ -455,18 +455,18 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 169. [Tarting-gumpa.](ch036.xhtml#b0368_169)
 170. [Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.](ch036.xhtml#b0368_170) Skizze des Verfassers.
 171. [Das Nonnenkloster von Gandän-tschöding.](ch036.xhtml#b0368_171)
-172. Ein junger Lama.
-173. Lama in Tong. Skizzen des Verfassers.
-174. Aussicht vom Ta-la (5436 Meter) nach Südosten. Skizze des Verfassers.
-175. Kettenbrücke über den Brahmaputra zum Kloster Pinsoling.
-176. Tarting-gumpa.
-177. Tarting-gumpa.
-178. Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.
-179. Lung-gandän-gumpa bei Tong.
-180. Linga-gumpa von oben. Skizzen des Verfassers.
-181. Bettler in Taschi-gembe.
-182. Wandernder Lama.
-183. Tibeter. Skizzen des Verfassers.
+172. [Ein junger Lama.](ch037.xhtml#b0376_172)
+173. [Lama in Tong.](ch037.xhtml#b0376_173) Skizzen des Verfassers.
+174. [Aussicht vom Ta-la (5436 Meter) nach Südosten.](ch037.xhtml#b0376_174) Skizze des Verfassers.
+175. [Kettenbrücke über den Brahmaputra zum Kloster Pinsoling.](ch037.xhtml#b0376_175)
+176. [Tarting-gumpa.](ch037.xhtml#b0384_176)
+177. [Tarting-gumpa.](ch037.xhtml#b0384_177)
+178. [Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.](ch037.xhtml#b0384_178)
+179. [Lung-gandän-gumpa bei Tong.](ch037.xhtml#b0384_179)
+180. [Linga-gumpa von oben.](ch037.xhtml#b0384_180) Skizzen des Verfassers.
+181. [Bettler in Taschi-gembe.](ch037.xhtml#b0384_181)
+182. [Wandernder Lama.](ch037.xhtml#b0384_182)
+183. [Tibeter.](ch037.xhtml#b0384_183) Skizzen des Verfassers.
 184. Die eine Boothälfte zur Überfahrt über den Doktshu-tsangpo bei Lingö bereit.
 185. Tibeter im Dorf Tong.
 186. Wandernder Musikant und Tänzerin.

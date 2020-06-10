@@ -389,8 +389,8 @@ ist, ihr zu lauschen ([Abb. 168](ch036.xhtml#b0368_168)).
 
 Oder es kommt ein bettelnder Lama mit der Gebetmühle in der
 Hand und zwei Handschienen an einem um den Nacken gelegten Riemen
-(Abb. 182). In diese fährt er, wie in Striegelbürsten, mit den Händen,
-wenn er sich beim Umwandern der Tempel der Länge nach auf die Erde
+([Abb. 182](ch037.xhtml#b0384_182)). In diese fährt er, wie in Striegelbürsten,
+mit den Händen, wenn er sich beim Umwandern der Tempel der Länge nach auf die Erde
 wirft. Sie sind schon sehr abgenutzt, was die Herzen des Volkes zur
 Freigebigkeit bewegt, und er sieht seine Almosenschale sich täglich füllen.
 Diese Frommen sind Tibets Schmarotzer, die auf Kosten des arbeitenden

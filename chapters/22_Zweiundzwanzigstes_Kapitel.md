@@ -113,7 +113,7 @@ der Grenze zwischen Tibet und Bhutan, die ich hier sehe. Zwischen
 ihnen und dem uns ziemlich naheliegenden dunkelgrauen Kamm öffnet
 sich ein Abgrund, eine ungeheuere Spalte in der Erdrinde  —  das Tal
 des Brahmaputra, des Tsangpo. Der Fluß selbst ist noch nicht
-sichtbar, aber ich fühle, daß wir nicht mehr weit vom Ziele sind (Abb. 174).
+sichtbar, aber ich fühle, daß wir nicht mehr weit vom Ziele sind ([Abb. 174](ch037.xhtml#b0376_174)).
 
 Tsering und Bolu erreichen jetzt mit der kleinen Karawane den Paß.
 Sie fallen vor dem Steinhaufen auf die Knie und sprechen ihre Gebete,
