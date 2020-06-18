@@ -163,7 +163,7 @@ Fratelli Treves, Mailand.
 
 [^0003]: [*Dr. Nils Ekholm*:  vergleiche [Nils Gustaf Ekholm](https://de.wikipedia.org/wiki/Nils_Gustaf_Ekholm)]{.footnote}
 
-[^0004]: [*Albert Brockhaus*:  vergleiche [Albert Brockhaus](https://de.wikipedia.org/wiki/Albert_Brockhaus)]{.footnote}
+[^0004]: [*Albert Brockhaus*:  verg<small>leiche [Albert Brockhaus](https://de.wikipedia.org/wiki/Albert_Brockhaus)]{.footnote}
 
 [^0006]: [*Dr. Carl Forsstrand*:  vergleiche [Carl Wilhelm Forsstrand](https://sv.wikipedia.org/wiki/Carl_Forsstrand)]{.footnote}
 
@@ -467,9 +467,9 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 181. [Bettler in Taschi-gembe.](ch037.xhtml#b0384_181)
 182. [Wandernder Lama.](ch037.xhtml#b0384_182)
 183. [Tibeter.](ch037.xhtml#b0384_183) Skizzen des Verfassers.
-184. Die eine Boothälfte zur Überfahrt über den Doktshu-tsangpo bei Lingö bereit.
-185. Tibeter im Dorf Tong.
-186. Wandernder Musikant und Tänzerin.
+184. [Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](ch038.xhtml#b0392_184)
+185. [Tibeter im Dorf Tong.](ch038.xhtml#b0392_185)
+186. [Wandernder Musikant und Tänzerin.](ch038.xhtml#b0392_186)
 187. Die hübsche Frau Putôn in Sirthug.
 188. Gruppe von tibetischen Weibern.
 189. Dorf und Kloster Linga.

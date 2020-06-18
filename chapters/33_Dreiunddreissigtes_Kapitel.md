@@ -289,7 +289,7 @@ künstlerisch ausgeführt. Die westliche ist von zwei anderen, schwach sichtbare
 Figuren umgeben, und unter ihnen sind allerlei Ornamente, Ranken und
 Zeichen in den Granit eingehauen. Gleich oberhalb dieser Stelle lagerten
 wir in einer höchst malerischen, interessanten Talerweiterung im Dorfe
-Lingö (Abb. 184).
+Lingö ([Abb. 184](ch038.xhtml#b0392_184)).
 
 Ein Teil der Bewohner Lingös zieht im Sommer mit seinen Viehherden
 sechs bis sieben Tagereisen weit nach Norden, denn der Boden
@@ -363,7 +363,7 @@ kratzend, die Zunge weit aus dem Munde gestreckt und rufen mir zu:
 Klare Quellen rieseln über den Weg; das Tal verengt sich und
 wird immer großartiger an kräftiger, kühner Plastik; der Granit hört auf
 und an seine Stelle tritt ein feinkörniger kristallinischer Schiefer. In der
-Landschaft Tong, wo hoch über dem Fluß mehrere Dörfer (Abb. 185),
+Landschaft Tong, wo hoch über dem Fluß mehrere Dörfer ([Abb. 185](ch038.xhtml#b0392_185)),
 liegen, lagerten wir unterhalb des Klosters Lung-gandän-gumpa
 ([Abb. 179](ch037.xhtml#b0384_179)), in dem 21 Mönche der Gelugpasekte wohnen und
 in dessen „Labrang“ wie gewöhnlich ein Prior vom Kanpograde residiert. Wir
@@ -390,7 +390,7 @@ So gelangt der Ertrag des Erdbodens von den besser bedachten Teilen
 des Landes zu den Nomaden, die ihn gegen Wolle, Häute und Salz
 eintauschen. Nach kurzem Marsch lagerten wir in Ghe, das 19 Häuser
 hat. Ein „Angdi“, ein Musikant, fiedelte und kratzte auf einem zweisaitigen
-Instrument (Abb. 186), während seine Frau uns etwas vortanzte.
+Instrument ([Abb. 186](ch038.xhtml#b0392_186)), während seine Frau uns etwas vortanzte.
 
 Hier kehrte die Eskorte von Schigatse um, nachdem sie unseren Paß
 vier neuen Männern, deren vornehmster der Gova von Tong war,
@@ -500,4 +500,4 @@ wir 13 Grad Kälte gehabt.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^0540]: [*Pinsoling*: vergleiche [Püncogling Township](https://en.wikipedia.org/wiki/P%C3%BCncogling_Township)]{.footnote}
+[^0540]: [*Pinsoling*: vergleiche [Pindsoling](http://wikimapia.org/6939544/Puncogling-Pindsoling)]{.footnote}
