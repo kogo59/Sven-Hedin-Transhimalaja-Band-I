@@ -1,4 +1,6 @@
-﻿# Transhimalaja. Erster Band. {epub:type=titlepage .unnumbered }
+:::: {.wrap-100 .align-center }
+![](cover1.jpg "cover1.jpg"){#cover}
+::::
 
 :::: { .fs-xl .align-center }
 **Transhimalaja.**<br /><br />

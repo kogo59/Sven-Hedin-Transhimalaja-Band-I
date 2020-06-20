@@ -1,7 +1,6 @@
 # Vierunddreißigtes Kapitel.&nbsp;<br />**`Nach Linga-gumpa.`**<br /><br /> {#Kapitel_Vierundreissig .unnumbered}
 
 ::: justified
-
 **D**er Tagesmarsch am 13. April führte uns im Tal des My-tschu
 wie in einem Hohlweg, der in anstehenden feinkörnigen Granit,
 Porphyr und kristallinischen Schiefer eingeschnitten und eines der
@@ -136,9 +135,10 @@ Frommen, Untadelhaften in erhabener Stille über dem Saus und Braus
 der Dörfer und dem Rauschen und Tosen der Flüsse wohnen. Unterhalb
 des Klosters liegt das Dorf Linga-kok, wo unser Lager nicht weit von
 dem Punkt aufgeschlagen wird, wo eine feste Brücke von zehn Bogen auf
-elf Pfeilern über den My-tschu führt (Abb. 189). Zeuge unserer Ankunft
-war eine Menge Tibeter, schwarz wie Mohren, schmutzig, zerlumpt, mützen-
-und hosenlos, stumm und verwundert (Abb. [183](ch037.xhtml#b0384_183), 190, 191, 192).
+elf Pfeilern über den My-tschu führt ([Abb. 189](ch039.xhtml#b0400_189)). Zeuge
+unserer Ankunft war eine Menge Tibeter, schwarz wie Mohren, schmutzig, zerlumpt, mützen-
+und hosenlos, stumm und verwundert
+(Abb. [183](ch037.xhtml#b0384_183), [190, 191, 192](ch039.xhtml#b0404_190)).
 
 In der ganzen Gegend sieht man keinen einzigen Baum; nur droben
 beim Kloster gibt es zwei. Auch dies Vergnügen ist nun zu Ende; jetzt
@@ -166,9 +166,9 @@ Verwandten des früheren Besitzers abkaufen; ein gutes Haus ist hier 100
 Rupien wert.
 
 Linga hat 30 Mönche, von denen uns einige auf unserer Runde
-begleiteten (Abb. 193) und die wie stets artig und freundlich waren
-und nie dreist wurden, wie die Mönche in Kum-bum, die ich im Jahre
-1896 besuchte. Das Kloster steht unter Sekijas Oberhoheit, der
+begleiteten ([Abb. 193](ch039.xhtml#b0404_190)) und die wie stets artig und
+freundlich waren und nie dreist wurden, wie die Mönche in Kum-bum, die ich im
+Jahre 1896 besuchte. Das Kloster steht unter Sekijas Oberhoheit, der
 Sekija-Lama ist sein vornehmstes geistliches Oberhaupt und steuert auch etwas zum
 Unterhalt der Mönche bei. Im übrigen besitzt Linga-gumpa Ländereien, die
 jedoch in letzter Zeit nicht viel eingebracht haben, weil die Ernten mehrere
@@ -359,7 +359,6 @@ die Minuten bis zum Morgengrauen zählen lassen. Seitdem die Götter
 mir den Kopf zugedreht hatten, war es auch mir klar geworden, daß ich
 an der Stelle jenes Mannes nicht sein möchte, sondern lieber unten auf
 der Ebene, in meinem eigenen Zelt — und schlafen.
-
 :::
 
 :::: align-center

@@ -47,7 +47,7 @@ Manne geführt werden; aber endlich kamen wir aufs freie Land hinaus,
 unsere Begleiter verließen uns einer nach dem anderen; der letzte, der
 mir Lebewohl sagte, war der prächtige, edle Reverend Peter.
 
-Dann ging es abwärts, an endlosen ,,Mani-ringmos“‘, langen
+Dann ging es abwärts, an endlosen „Mani-ringmos“, langen
 Mauern aus Mani-Steinen, vorbei, durch enge Stellen zwischen kleinen
 Felsrücken hindurch und so näherten wir uns wieder dem Indus.
 Ein Felsenvorsprung wurde passiert, darauf ein zweiter unmittelbar an

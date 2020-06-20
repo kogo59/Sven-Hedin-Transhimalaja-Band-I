@@ -369,7 +369,7 @@ liegen, lagerten wir unterhalb des Klosters Lung-gandän-gumpa
 in dessen „Labrang“ wie gewöhnlich ein Prior vom Kanpograde residiert. Wir
 machten einen Besuch, zogen aber die herrliche Aussicht über das Tal
 den in der Dämmerung stehenden Götterbildern vor. Einen Teil ihres
-Unterhaltes bekommen die Brüder ([Abb. 173](ch037.xhtml#b0384_173)) vom Taschi-Lama
+Unterhaltes bekommen die Brüder ([Abb. 173](ch037.xhtml#b0376_173) vom Taschi-Lama
 und leben im übrigen vom Ertrag ihrer Felder, denn das Kloster besitzt ziemlich viel
 Ländereien. Ein Blinder, der nicht zur Brüderschaft gehörte, saß wie
 eine Maschine an der Gebetmühle, um sie für die Mönche zu drehen,
@@ -418,9 +418,9 @@ Wildenten, Tauben und Rebhühner kommen hier vor — die letzteren
 kamen ohne ihre Absicht dazu, eine Rolle in Tserings Küche zu spielen.
 Im Dorfe Sirtschung ist die Bevölkerung zahlreich; hier treffen auch
 mehrere Straßen und Nebentäler zusammen. Unter dem Haufen der
-Schaulustigen (Abb. 188) befand sich eine junge Frau, die so
-außergewöhnlich hübsch war, daß sie auf zwei Platten photographiert wurde.
-Sie war 20 Jahre alt und hieß Putön (Abb. 187).
+Schaulustigen ([Abb. 188](ch039.xhtml#b0400_188)) befand sich eine junge Frau,
+die so außergewöhnlich hübsch war, daß sie auf zwei Platten photographiert wurde.
+Sie war 20 Jahre alt und hieß Putön ([Abb. 187](ch039.xhtml#b0400_187)).
 
 Den Tag darauf besuchten wir das nahe Kloster Lehlung-gumpa,
 dessen 26 Mönche irgendeiner heterodoxen Sekte angehören, denn sie

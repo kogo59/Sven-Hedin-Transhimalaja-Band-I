@@ -163,7 +163,7 @@ Fratelli Treves, Mailand.
 
 [^0003]: [*Dr. Nils Ekholm*:  vergleiche [Nils Gustaf Ekholm](https://de.wikipedia.org/wiki/Nils_Gustaf_Ekholm)]{.footnote}
 
-[^0004]: [*Albert Brockhaus*:  verg<small>leiche [Albert Brockhaus](https://de.wikipedia.org/wiki/Albert_Brockhaus)]{.footnote}
+[^0004]: [*Albert Brockhaus*:  vergleiche [Albert Brockhaus](https://de.wikipedia.org/wiki/Albert_Brockhaus)]{.footnote}
 
 [^0006]: [*Dr. Carl Forsstrand*:  vergleiche [Carl Wilhelm Forsstrand](https://sv.wikipedia.org/wiki/Carl_Forsstrand)]{.footnote}
 
@@ -470,20 +470,20 @@ im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
 184. [Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](ch038.xhtml#b0392_184)
 185. [Tibeter im Dorf Tong.](ch038.xhtml#b0392_185)
 186. [Wandernder Musikant und Tänzerin.](ch038.xhtml#b0392_186)
-187. Die hübsche Frau Putôn in Sirthug.
-188. Gruppe von tibetischen Weibern.
-189. Dorf und Kloster Linga.
-190. Knaben.
-191. Knaben.
-192. Altes Weib.
-193. Junger Lama. Skizzen des Verfassers
-194. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.
+187. [Die hübsche Frau Putön in Sirtschung.](ch039.xhtml#b0400_187)
+188. [Gruppe von tibetischen Weibern.](ch039.xhtml#b0400_188)
+189. [Dorf und Kloster Linga.](ch039.xhtml#b0400_189)
+190. [Knaben.](ch039.xhtml#b0404_190)
+191. [Knaben.](ch039.xhtml#b0404_190)
+192. [Altes Weib.](ch039.xhtml#b0404_190)
+193. [Junger Lama.](ch039.xhtml#b0404_190) Skizzen des Verfassers
+194. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](ch039.xhtml#b0404_194)
 
 ## Karte.
 
 ::: align-center
-Übersichtskarte von Hedins Reisen in Tibet 1906—1908. Konstruiert und gezeichnet<br />
-von Lieutenant C. J. Otto Kjellstrôm. 1909. Maßstab: 1:3000&nbsp;000.
+[Übersichtskarte von Hedins Reisen in Tibet 1906—1908. Konstruiert und gezeichnet<br />
+von Lieutenant C. J. Otto Kjellstrôm. 1909. Maßstab: 1:3000&nbsp;000.](ch040.xhtml#b0405)
 :::
 :::: align-center
 ****

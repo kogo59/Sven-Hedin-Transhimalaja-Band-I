@@ -312,7 +312,7 @@ Mensch in seinem Zimmer umher und bat mich, die Kamera aufzustellen.
 In dem von der Sonne beschienenen Teil des Gemaches wurde
 ein gelber Teppich ausgebreitet und ein Stuhl daraufgesetzt. Leider hatte
 er nicht sein bezauberndes Lächeln, als die drei Platten aufgenommen
-wurden, sondern sah ernst aus (Abb. [146](ch032.xhtml#b0320_146), 194) — vielleicht
+wurden, sondern sah ernst aus (Abb. [146](ch032.xhtml#b0320_146), [194](ch039.xhtml#b0404_194)) — vielleicht
 dachte er darüber nach, ob es wohl gefährlich sein könne, sich inmitten seiner
 eigenen Klosterstadt von einem Ungläubigen abkonterfeien zu lassen. Ein langer
 junger Lama mit angenehmem Gesicht verstand sich auch aufs Photographieren
@@ -536,7 +536,7 @@ Wenn man durch die Straßen der Klosterstadt wandert, muß
 man sich vorsehen, denn die Steinplatten, über die seit Jahrhunderten
 Tausende von Mönchen und Pilgern hinschritten, sind blank von der
 Abnutzung und tückisch. Gewöhnlich herrscht lebhafter Verkehr, besonders
-an den Festtagen ([Abb. 153](ch033.xhtml#b0328_153)). Mönche kommen und gehen, 
+an den Festtagen ([Abb. 153](ch033.xhtml#b0328_153)). Mönche kommen und gehen,
 stehen in plaudernden Gruppen an Straßenecken und in den Portalen, gehen zum
 Gottesdienst, kommen von dort zurück oder sind auf dem Weg, um ihre
 Brüder in ihren Zellen zu besuchen. Andere tragen neugenähte Standarten
