@@ -72,7 +72,7 @@ Kaum hatte ich meine neue Wohnung in Leh betreten, als sich
 Muhamed Isa mit einem vergnügten, freundlichen „Salam, Sahib“
 einfand.
 
-„Friede mit dir!‘“, antwortete ich, „du hast dich wenig verändert,
+„Friede mit dir!“, antwortete ich, „du hast dich wenig verändert,
 Muhamed Isa, in all den Jahren, seit denen wir uns in Kaschgar trafen.
 Hast du Lust, mich auf eine zweijährige Reise durch das Hochgebirge zu
 begleiten?“

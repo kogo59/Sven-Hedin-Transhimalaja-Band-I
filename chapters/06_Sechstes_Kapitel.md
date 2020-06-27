@@ -33,7 +33,7 @@ Der Tschamadar Rahman Khan, der 1902 mein Führer gewesen
 und nun schon von Lama-juru mit uns gekommen war, wurde entlassen
 und gut bezahlt, ebenso die beiden Tschaprassis Rasul und Ische. Der
 alte Hiraman wollte uns durchaus noch eine Tagereise weit begleiten,
-während der „Numberdar‘“ von Pobrang und der „Kotidar‘“ von Tankse
+während der „Numberdar“ von Pobrang und der „Kotidar“ von Tankse
 uns, wie gesagt, noch bis auf das Plateau hinauf bringen sollten. Auf
 diese Weise schrumpfte die Gesellschaft allmählich zusammen; zuletzt sollten
 uns die gemieteten Pferde und ihre zehn Führer verlassen.

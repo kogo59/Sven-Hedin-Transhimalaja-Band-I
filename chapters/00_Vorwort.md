@@ -279,7 +279,7 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 ****
 ::::
 
-|           Lord Minto, Vizekönig von Indien  (Titelbild)
+|           [Lord Minto, Vizekönig von Indien](ch001.xhtml#b000)  (Titelbild)
 1. [Die neueste Karte von Tibet.](ch005.xhtml#b029)
 2. [Simla (2159 Meter) mit dem Sommerpalast des Vizekönigs.](ch005.xhtml#b008)
 3. [Palast des Vizekönigs in Simla.](ch005.xhtml#b009)

@@ -58,7 +58,7 @@ ich selbst hatte mich unter ihnen befunden. Betrachtete man
 aber eine Karte, die die Reiserouten durch Tibet wiedergab, so konnte
 man fast den Eindruck haben, als ob wir alle den großen weißen Felder
 sogar auf der kürzlich herausgegebenen englischen Karte ([Abb. 1](#b029)) nur
-das Wort „Unexplored“ („Unerforscht‘“) aufweist, absichtlich vermieden
+das Wort „Unexplored“ („Unerforscht“) aufweist, absichtlich vermieden
 hätten. Daraus durfte man den Schluß ziehen, daß eine Durchquerung
 dieses Landes nicht leicht sein müsse, da sich sonst wohl im Laufe der Zeit
 jemand dorthin verirrt haben würde. In meinem Buch „Im Herzen von
@@ -465,7 +465,7 @@ der Stille, die mich jenseits der in dunkeln Wolkenmassen verschwindenden
 Berge erwarteten! Ich kann mich nicht enthalten, einige Erinnerungen
 aus diesen wunderbar schönen Tagen festzuhalten.
 
-Man begleite mich also zum ersten „Statedinner‘“ am 24. Mai
+Man begleite mich also zum ersten „Statedinner“ am 24. Mai
 1906. An den Wänden eines der großen Salons im Palast des Vizekönigs
 stehen wohl hundert Gäste versammelt, alle im Paradeanzug, in
 vornehmen bunten Uniformen und mit blitzenden Orden. Einer von ihnen
