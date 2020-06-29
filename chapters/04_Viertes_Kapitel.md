@@ -1,7 +1,7 @@
 # Viertes Kapitel.&nbsp;<br />**`Die letzten Vorbereitungen.`**<br /><br /> {#Kapitel_vier .unnumbered}
 
 ::: justified
-**H**auptmann Patterson war jetzt „Joint Commissioner“’, der höchste
+**H**auptmann Patterson war jetzt „Joint Commissioner“, der höchste
 Beamte der indischen Provinz Ladak; er empfing mich vom ersten
 Augenblick an mit der allergrößten Gastfreundschaft und Liebenswürdigkeit
 und war einer der prächtigsten Menschen, mit denen ich je in Berührung
@@ -31,7 +31,8 @@ und von dort nach Gartok hatte er als Aufseher ihrer Gepäckkarawane
 mitgemacht. Während aller dieser Reisen hatte er Erfahrungen
 gesammelt, die meinen Plänen sehr zugute kommen konnten. Ich nahm
 daher Younghusbands Vorschlag mit Dankbarkeit an, um so mehr, als
-auch Hauptmann Patterson, in dessen Dienst Muhamed Isa jetzt stand,
+auch Hauptmann Patterson, in dessen Dienst Muhamed Isa jetzt stand,Kloster Lama-juru^[^0155]^  hin. Noch eine vorstehende Ecke weiter und man
+
 nichts dagegen hatte, ihn mir zur Verfügung zu stellen. Obendrein
 sprach Muhamed Isa fließend Turki, Tibetisch und Hindi und hegte
 selber keinen größeren Wunsch, als den, mich zu begleiten. Ohne zu
@@ -100,7 +101,7 @@ die ich meiner Frau bei der Abreise hierlasse.“
 
 „Gut! Ich nehme dich in meinen Dienst, und mein erster Auftrag
 ist: kaufe etwa sechzig kräftige Pferde, vervollständige den Proviant, so
-daß er drei Monate reiht, und beschaffe für die Karawane die nötige
+daß er drei Monate reicht, und beschaffe für die Karawane die nötige
 Ausrüstung.“
 
 „Ich weiß genau, was wir brauchen, und werde die Karawane in
@@ -118,7 +119,7 @@ ehrliche Leute in meinen Dienst treten.“
 
 „Sie können sich auf mich verlassen“, sagte Muhamed Isa; er wisse
 ja, fügte er hinzu, daß es nur sein eigener Vorteil sei, wenn er mich
-gut bediene.“
+gut bediene.
 
 Die nächsten Tage über war Muhamed Isa unausgesetzt auf den
 Beinen, um Pferde zu besorgen. Sie in Masse zu kaufen, erschien aus
@@ -161,7 +162,7 @@ größten unter den Jarkentpferden. Der Preis schwankte sehr
 bedeutend, zwischen 37 und 96 Rupien; der Durchschnittspreis betrug
 63 Rupien. Ein Pferd zu 95 Rupien fiel nach drei Wochen, ein anderes,
 das genau die Hälfte kostete, trug mich anderthalb Jahre. Die
-Kommission merzte kritisch aus, und Muhamed Jsa prüfte erst jeden
+Kommission merzte kritisch aus, und Muhamed Isa prüfte erst jeden
 vierbeinigen Kandidaten, ehe er zugelassen wurde. Im allgemeinen trugen
 wir kein Bedenken, zehn- oder zwölfjährige Pferde zu nehmen; die erprobten
 waren immerhin sicherer als die jungen, die sich äußerlich oft
@@ -575,7 +576,7 @@ das weite öde Asien noch nicht beendet hatte!
 
 [^0183]: [*Forsyth*:  vergleiche [Thomas Douglas Forsyth](https://en.wikipedia.org/wiki/Thomas_Douglas_Forsyth)]{.footnote}
 
-[^0184]: [*Jakub Bek*:  vergleiche [Kakub Bek](https://de.wikipedia.org/wiki/Jakub_Bek)]{.footnote}
+[^0184]: [*Jakub Bek*:  vergleiche [Jakub Bek](https://de.wikipedia.org/wiki/Jakub_Bek)]{.footnote}
 
 [^0185]: [*Herrnhuter Missionare*:  vergleiche [Herrnhuter Brüdergemeine](https://de.wikipedia.org/wiki/Herrnhuter_Br%C3%BCdergemeine)]{.footnote}
 

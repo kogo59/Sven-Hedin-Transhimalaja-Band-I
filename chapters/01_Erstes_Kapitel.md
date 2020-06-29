@@ -322,8 +322,8 @@ Lord Kitchener, versicherte, daß er mir mit Freuden zwanzig bis an die Zähne
 bewaffnete Gurkhas zur Verfügung stellen werde — nur müsse erst die
 Erlaubnis vom Staatssekretär für Indien, Mr. John Morley,^[^0070]^ da sein.
 Denn dieser war es, der die Schlüssel zur Grenze in Händen hatte; und  von
-ihm allein hing alles ab. Lord Minto, der neue Vizekönig von Indien (Titelbild), tat alles, was in
-seiner Macht stand. Er schrieb lange, ausführliche Gutachten und sandte
+ihm allein hing alles ab. Lord Minto, der neue Vizekönig von Indien ([Titelbild](ch001.xhtml#b000)),
+tat alles, was in seiner Macht stand. Er schrieb lange, ausführliche Gutachten und sandte
 ein Telegramm nach dem anderen. Keine abschlägige Antwort konnte
 ihn entmutigen, er schickte immer wieder eine neue Depesche, die mit den
 Worten begann: „Ich bitte das Ministerium Seiner Majestät, noch
@@ -453,7 +453,7 @@ hatte erschließen sollen, war völlig vergeblich gewesen. Er führte mich jetzt
 Vorbeifahren zu Lord Mintos Privatsekretär, Oberst J. R. Dunlop Smith^[^0010]^ ([Abb. 6](#b013a)),
 in dem ich einen Freund fürs Leben gewann; er ist einer der feinsten, edelsten,
 großherzigsten und erfahrensten Männer, die ich je kennen gelernt habe, er ist ein
-tiefernster, vielseitig gebildeter Mann und gründlicher Kenner Indiens, da-
+tiefernster, vielseitig gebildeter Mann und gründlicher Kenner Indiens, da
 er vierundzwanzig Jahre hier gelebt hat. Wenn man solche  Männer auf
 den verantwortlichsten Posten sieht, begreift man wohl, daß die herrschende
 Rasse, wenn es gilt, noch manch heftigem Sturm unter Indiens dreihundert
@@ -528,7 +528,7 @@ zwischen ihm und seiner Gattin gewechselten Briefe sind noch vorhanden
 und zeugen von einer geradezu idealen Liebe und Treue. Als seine
 Dienstzeit in Indien endlich vorüber war, bestieg er ein Schiff, das ihn
 den weiten Weg in die Heimat führte, und eilte mit der ersten Diligence
-geradeewegs nach Minto. Hier erwartete ihn seine Gattin; mit sehnsüchtigen
+geradewegs nach Minto. Hier erwartete ihn seine Gattin; mit sehnsüchtigen
 Blicken spähte sie die Straße entlang; die festgesetzte Zeit war
 längst verstrichen, aber kein Wagen ließ sich sehen. Schließlich erschien
 statt seiner ein Reiter in einer Staubwolke und brachte die Nachricht:

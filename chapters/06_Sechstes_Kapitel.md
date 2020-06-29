@@ -97,9 +97,9 @@ ihren Feuerbränden zischte der Schnee, der abends fiel und, wie der
 Nachtwächter meldete, erst gegen Morgen aufhörte.
 
 Am Morgen hörte man denn auch den knarrenden Ton, der entsteht
-wenn man auf gefrorenen Schnee tritt; mein Zelt wölbte sich unter seine!
+wenn man auf gefrorenen Schnee tritt; mein Zelt wölbte sich unter seine
 Schneelast nach innen, und die ganze Landschaft verschwand unter der
-winterweißen Decke, während dichte Wolken über allen Kämmen schwebten
+winterweißen Decke, während dichte Wolken über allen Kämmen schwebten.
 Manuel und Ganpat Sing hatten noch nie Schnee fallen sehen; sie
 machten ein überaus erstauntes und neugieriges Gesicht, sahen aber auch
 in ihren Pustins oder Jarkentpelzen recht verfroren aus. Die Hündchen
@@ -118,7 +118,7 @@ konnte uns noch einen letzten Abschied von der warmen Jahreszeit bescheren
 
 Die ganze Karawane war noch da, als ich aus meinem Zelte trat
 und wir brachen daher gemeinsam auf. Der alte Hiraman verabschiedet
-sich und ritt wieder nah seiner Hütte talabwärts. Die Sonne schien
+sich und ritt wieder nach seiner Hütte talabwärts. Die Sonne schien
 und alles wurde daher blendend weiß; sogar die Ladakis mußten ihre
 Augen mit einer Wollzotte hüten, die sie sich vorn unter die Mütze
 steckten, und sahen mit diesem nichts weniger als kleidsamen Stirnschmuck
@@ -274,7 +274,7 @@ Gegen Abend stieg der Fluß ansehnlich; als ich am folgenden
 Mittag seine Wassermenge maß, betrug sie 14 Kubikmeter in der Sekunde,
 und große Streifen des steinigen Bettes waren noch von dem
 mitternächtlichen Hochwasser naß. Im Sommer kann man hier nicht durch
-den Fluß reiten, er wälzt dann gewaltige Fluten nah dem Indus hinab.
+den Fluß reiten, er wälzt dann gewaltige Fluten nach dem Indus hinab.
 Sein Name ist Kograng-sanspo, während Tschang-tschenmo mehr
 das ganze Land ringsumher bezeichnet. Die Ladakis sagten, der Sommer
 werde hierzulande noch zwanzig Tage dauern; von da ab würden die
@@ -398,8 +398,8 @@ den Höhen eines Nebentales, das von oben gesehen einen großartigen,
 beinahe unheimlichen Eindruck macht, aufwärts ziehen. Unten im Talgrund
 rauscht melodisch ein kleiner, klarer Fluß. Nun geht es wieder in
 rotem, weichem Staub und Schutt abwärts. Niedrige alte Steinmale
-bezeichnen den Weg und weisen uns wieder zum Boden des Tales hin-
-unter, das hier nur 20 Meter breit und zwischen steilen, dunkeln Schieferfelsen
+bezeichnen den Weg und weisen uns wieder zum Boden des Tales hinunter,
+das hier nur 20 Meter breit und zwischen steilen, dunkeln Schieferfelsen
 eingezwängt ist. Ein wenig höher hinauf sind die Felswände lotrecht
 und der Fluß in einen dunkeln Gang eingepreßt. Man muß daher
 an der rechten Seite hinaufklettern, um die schwere Stelle zu umgehen,

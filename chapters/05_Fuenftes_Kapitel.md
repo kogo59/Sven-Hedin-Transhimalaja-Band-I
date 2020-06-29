@@ -61,7 +61,7 @@ Winden rundgeschliffen und poliert sind.
 
 Nachdem wir den Fluß aus dem Gesicht verloren haben und durch das
 Dorf geritten sind, wo die Leute unsere Pferde durch Trommeln und Pfeifen
-zu Tode zu erschrecken suchen, werden vor uns das Kloster Tikse^[^0200]^ ([Abb. 37](#b056_37)])
+zu Tode zu erschrecken suchen, werden vor uns das Kloster Tikse^[^0200]^ ([Abb. 37](#b056_37))
 auf seinem dominierenden Felsen und an dessen Fuß das Dorf Tikse^[^0201]^ mit
 seinen Gärten und Feldern sichtbar. In einem Weidengebüsch waren die
 Zelte schon aufgeschlagen. An der Außenseite des Lagers zog sich die große

@@ -28,7 +28,7 @@ gehüllt: jetzt herrschte der Sommer über Tiefen und Höhen.
 
 Bei Kangan schlugen wir unsere Zelte in einem dichten Gehölz auf.
 Diesmal ging das Aufschlagen und Abstecken des Lagers in seine Viertel
-und Straßen ziemlich schnell. Der „Numberdar“' des Dorfes verschaffte
+und Straßen ziemlich schnell. Der „Numberdar“ des Dorfes verschaffte
 uns alles, was wir brauchten — unsere eigenen Vorräte wollten wir
 nicht eher anrühren, als bis jegliche Verproviantierung an Ort und Stelle
 unmöglich war. Die vier Kulis, die das Boot getragen hatten, wurden
@@ -326,8 +326,7 @@ mit Blumen und Früchten entgegen, und jeder bot, der Landessitte
 gemäß, eine Rupie dar, die man indes nur mit der Hand zu berühren
 braucht. Eine Strecke weiter wurde ein erstes Tschorten sichtbar, dem andere
 in langen Reihen folgten; die Mani-Mauern wiesen auf das berühmte
-
-Kloster Lama-juru^[^0155]^  hin. Noch eine vorstehende Ecke weiter und man
+Kloster Lama-juru^[^0155]^ hin. Noch eine vorstehende Ecke weiter und man
 hatte freie Aussicht auf ein kleines Tal zwischen hohen Bergen; hier
 erhob sich senkrecht die Geröllterrasse, auf der das Kloster erbaut ist.
 Nur einige weiße Tempelgebäude hoben sich da oben scharf gegen das

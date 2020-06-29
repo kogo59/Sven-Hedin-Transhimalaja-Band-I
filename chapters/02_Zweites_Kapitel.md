@@ -80,7 +80,7 @@ Nadelholzbäume an den Felswänden. Mein Kutscher, der Persisch spricht,
 zeigt auf einen gewaltigen Steinblock, der in die Brüstung des Weges
 eingebettet liegt; zehn Tage vorher war er herabgestürzt und hatte einen
 Mann und zwei Pferde erschlagen; an gefährlichen Stellen, wo man
-Bergrutsche erwartet , sind weiße Fähnlein aufgepflanzt. Die
+Bergrutsche erwartet, sind weiße Fähnlein aufgepflanzt. Die
 Berglandschaft wird immer wilder, und aus dem tiefen Abendschatten tritt ihr
 scharfes Relief nur deutlicher hervor. Wir erreichen Uri und Rampur^[^0111]^
 und fahren oft durch dichten Wald. Als wir in Baramula^[^0112]^ eintreffen,
@@ -144,7 +144,7 @@ die Träume und Illusionen meiner Seele zu zerlegen und einzeln mit
 Namen zu etikettieren, während mein Leib an der Table d'hôte saß und
 Suppe löffelte. Als wir glücklich beim Kaffee angelangt waren, verschwand
 ich lautlos, und aß von nun an stets auf meinem Zimmer. Meine Lage
-war und blieb tatsählich so, daß ich jegliche Berührung mit Engländern
+war und blieb tatsächlich so, daß ich jegliche Berührung mit Engländern
 vermeiden mußte; sie durften mir keinerlei Dienst erweisen, und ich wollte
 meine wirklichen Pläne keinesfalls verraten. Welch ein Unterschied gegen
 meine früheren Reisen, die ich stets von russischem Gebiet aus unternommen,
@@ -278,7 +278,7 @@ sprühenden Feuerwerke zusah. Zwischen Sonnen und bengalischen
 Flammen stiegen aus Booten, die auf dem Flusse verteilt waren, Raketen und
 Schwärmer in die Luft, und am anderen Ufer las man in roten
 Lampions: „God save the King-Emperor.“ Man hatte es weniger auf
-Geshmack und Eleganz als auf Knalleffekte abgesehen, es knallte und
+Geschmack und Eleganz als auf Knalleffekte abgesehen, es knallte und
 sprühte in allen Ecken und Winkeln, und das Ganze machte den Eindruck
 unentwegter Loyalität. Als wir wieder zum Boote hinuntergingen, lag
 die ganze Gegend in Dunkel gehüllt; nur die Schloßfassade strahlte noch
@@ -525,8 +525,8 @@ Baumstämmen nieder und zünden ein loderndes Signalfeuer
 an. Nach einer Weile taucht wie ein Wegelagerer Bas Ghul im Schein
 der Flammen auf; er führt ein Mauleselpaar, und um zehn Uhr lagern
 auch Robert und Manuel an unserem Feuer. Aber die Zelte und die
-Küche sind noch nicht da. Um elf Uhr wurden wieder Kundschafter aus-
-geschickt, von denen aber vor Mitternacht nichts wieder zu hören und zu sehen
+Küche sind noch nicht da. Um elf Uhr wurden wieder Kundschafter ausgeschickt,
+von denen aber vor Mitternacht nichts wieder zu hören und zu sehen
 war; sie berichteten, die Karawane sei in gutem Zustand und werde bald
 kommen. Als es aber ein Uhr war, mußte wieder ein Späher in der
 Dunkelheit verschwinden, und erst ein Viertel auf drei kamen endlich
@@ -618,7 +618,7 @@ sollten. Würde ich je ermüden? Ja, werde ich dessen jemals überdrüssig werde
 
 [^0113]: [*Srinagar*:  vergleiche [Srinagar](https://de.wikipedia.org/wiki/Srinagar)]{.footnote}
 
-[^0114]: [*Turkestan*:  vergleiche [Srinagar](https://de.wikipedia.org/wiki/Turkestan)]{.footnote}
+[^0114]: [*Turkestan*:  vergleiche [Turkestan](https://de.wikipedia.org/wiki/Turkestan)]{.footnote}
 
 [^0115]: [*Arthur Neve*:  vergleiche [Arthur Neve](https://en.wikipedia.org/wiki/Arthur_Neve)]{.footnote}
 

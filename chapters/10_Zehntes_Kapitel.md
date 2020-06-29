@@ -401,7 +401,7 @@ Pferde hergemacht hatten, einen gehörigen Schmaus zurücklassen.
 ![68. Schmelzen von Schnee zum Trinkwasser für die Tiere.](Transhimalaja_Band_I_116_68.jpg "Transhimalaja_Band_I_116_68.jpg"){#b0116_68}
 ::::
 
-Eine der obersten „Bankreihen“', die etwa 50 Meter über dem
+Eine der obersten „Bankreihen“, die etwa 50 Meter über dem
 Spiegel des Tümpels lag, gab einen vortrefflichen Weg. Ringsumher
 war der Boden kreideweiß von Salz. Zur Rechten hatten wir einen
 niedrigen, braunvioletten Kamm. Bald überholte ich mit meinen gewöhnlichen

@@ -503,7 +503,7 @@ und nach Norden kann ich euch, wie ich jetzt einsehe, nicht zurückbringen.“
 
 „Nein, aber ihr müßt hier warten.“
 
-„Und ihr schickt meinen Brief nach Gyangtse?“'
+„Und ihr schickt meinen Brief nach Gyangtse?“
 
 „Nein, das tue ich nicht; aber ich werde euch nicht hindern, wenn
 ihr auf eigene Verantwortung zwei eurer Leute hinsendet.“

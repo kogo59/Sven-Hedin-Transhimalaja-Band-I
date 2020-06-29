@@ -50,7 +50,7 @@ irgendein Kardinal; sein Gesicht war fein geschnitten, seine Augen
 sprachen von großer Intelligenz. Als ich eintrat, erhob er sich mit höflichem
 Lächeln und bat mich, auf einem Stuhl am Tische Platz zu
 nehmen, worauf die unvermeidlichen Teetassen gebracht wurden. Ebenso
-unumgänglich nötig ist es, „Kadachs“' und Geschenke auszutauschen. Ich
+unumgänglich nötig ist es, „Kadachs“ und Geschenke auszutauschen. Ich
 schenkte ihm einen ziselierten Dolch aus Kaschmir und er mir ein vergoldetes
 Götterbild — da sieht man den Unterschied zwischen weltlichen
 und geistlichen Geschenken! Wohl eine Stunde plauderten wir über dieses
