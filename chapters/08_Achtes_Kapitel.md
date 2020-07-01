@@ -70,7 +70,7 @@ nur durch die geringste Bodenerhebung verdeckt zu werden. Infolge der
 Luftspiegelung schien sie ein wenig über dem Erdboden zu schweben, und
 die Tiere sahen wie phantastisch langbeinige Kamele aus.
 
-An einer Stelle, wo das Gras besonders. gut war, hatte die gemietete
+An einer Stelle, wo das Gras besonders gut war, hatte die gemietete
 Karawanenabteilung haltgemacht; sie hatte noch ein Pferd verloren
 und wollte versuchen, ein paar andere Todeskandidaten zu
 retten. Die Lasten lagen am Boden umhergestreut, die Tiere grasten
@@ -289,7 +289,7 @@ von -18,<small>4</small> Grad, steinhart gefroren da! Ich ließ Muhamed Isa rufe
 Maulesel sind gestorben.“
 
 „Es wäre schlimm, wenn dies Sterben im Tempo der letzten drei
-Tage fortdauern sollte !‘
+Tage fortdauern sollte!“
 
 „Das glaube ich nicht, Sahib, die schwächsten sind krepiert, die
 stärksten haben wir behalten.“

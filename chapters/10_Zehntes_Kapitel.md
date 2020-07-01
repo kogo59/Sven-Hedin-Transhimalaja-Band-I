@@ -360,7 +360,7 @@ Glieder wieder geschmeidig.
 
 Da erscheint in der Ferne Muhamed Isas stattliche Gestalt zu
 Pferde! Er bindet seinem Gaul einen Strick um die Vorderbeine, läßt
-ihn am Anfang des Sumpfes stechen und geht zu Fuß weiter. Als mich
+ihn am Anfang des Sumpfes stehen und geht zu Fuß weiter. Als mich
 am ärgsten fror, hatte ich mir eine tüchtige Gardinenpredigt für ihn
 ausgedacht, sobald wir wieder zusammenträfen. Doch als ich jetzt meinen
 prächtigen Karawanenführer vor mir hatte, vergaß ich alles, denn seine Gründe

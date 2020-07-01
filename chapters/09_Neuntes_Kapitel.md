@@ -120,8 +120,8 @@ Am Fuß der nördlichen Berge zeigten sich sechs wilde Yaks. Der
 See lag betörend still und blank da, nur noch eine langsame, schwache
 Dünung, die letzte Nachwehe der Tätigkeit des sterbenden Nachtwindes,
 ließ ich spüren. Nicht ein Wölkchen, nicht die leiseste Brise, ein doppelter
-Genuß nach den Stürmen der letzten Tage. Gegen die hell türkis-
-blaue Farbe des Himmels glänzte der See, wenn man nach Süden sah,
+Genuß nach den Stürmen der letzten Tage. Gegen die hell türkisblaue
+ Farbe des Himmels glänzte der See, wenn man nach Süden sah,
 so hellgrün wie das zarte Laub der Birken im Frühling.
 
 Noch einige Minuten hörten wir die Glocken der abziehenden Maulesel,
