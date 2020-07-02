@@ -357,7 +357,7 @@ sich unsere Schicksalswege wohl noch einmal im Leben kreuzen würden?
 Dann begleitete ich ihn hinaus nach seinem wartenden Pferd, das schneeweiß
 war, eine karminrote Satteldecke hatte und mit blitzenden Messingverzierungen
 und einem Vorderzeug, woran Glöckchen klingelten, geschmückt
-war. Er stieg in den Sattel, reihte mir zum letzten Lebewohl beide
+war. Er stieg in den Sattel, reichte mir zum letzten Lebewohl beide
 Hände und verschwand mit seiner kleinen Reiterschar hinter den Hügeln
 ([Abb. 93](ch020.xhtml#b0176_93)). Dann kehrte ich wieder zu meinen Briefen zurück,
 fand es aber nun, da der liebenswürdige Statthalter von Naktsang fort war, hier

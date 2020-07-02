@@ -102,7 +102,7 @@ Karawane bald einholen — alle Tiere halten den Kopf in einen Bach,
 sie hatten ja so lange dursten müssen. Das Tal muß von einem Paß
 herabkommen, und wir ziehen in ihm hinauf. Es wird schmäler und ist
 schließlich ein nur vier Meter breiter Gang zwischen Wänden von vertikal
-stehendem Schiefer. Am Bache lag der gebleihte Schädel eines Ammonschafes
+stehendem Schiefer. Am Bache lag der gebleichte Schädel eines Ammonschafes
 mit schönem Gehörn ([Abb. 30, 31](ch007.xhtml#b040_28_31)). Unter dem Fuß einer jähen
 Felswand auf der linken Talseite fanden wir vor dem schneidenden Winde
 Schutz und richteten dort unsere Zeltstangen auf. Muhamed Isa bestieg mit
@@ -330,7 +330,7 @@ selten imstande, mehr als 12 Kilometer täglich zu marschieren! Im Lager
 41 wurden einige entbehrliche Sachen kassiert, um die Lasten zu erleichtern,
 darunter mehrere ausgelesene Bücher nebst Bowers Reisebeschreibung,
 die ihre Rolle in meiner Wanderbibliothek nun ausgespielt
-hatte. Die Zelte waren in- einem geschützten Tal am Fuß eines Felsens
+hatte. Die Zelte waren in einem geschützten Tal am Fuß eines Felsens
 aufgeschlagen worden (Abb. [72](ch015.xhtml#b0121_72), [74](ch015.xhtml#b0128_74)).
 Tundup Sonam war vorausgegangen und hatte einen vierjährigen Yak, der auf einem
 Abhang in der Sonne lag,überrascht. Durch das Terrain gedeckt, hatte der Schütze

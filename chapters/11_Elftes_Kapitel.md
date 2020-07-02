@@ -135,7 +135,7 @@ tauchte ein Reiter mit einigen ledigen Rossen und mehreren Fußgängern
 auf. Es war Muhamed Isa, der uns entgegengekommen war. Jetzt
 sollte Rabsang versuchen, Rehim Ali abzulösen; aber er ging so ungeschickt
 mit den Rudern um, daß ich es vorzog, unseren alten Ruderer
-wieder mitzunehmen. Wir sagten der Rettungsgesellshaft Lebewohl und
+wieder mitzunehmen. Wir sagten der Rettungsgesellschaft Lebewohl und
 steuerten nordwärts über das nördliche Becken des Sees, wo die Tiefe
 höchstens 3&nbsp;Meter betrug. Leider sprang der Wind nun nach Norden um
 und es wurde kalt, so daß wir während der beiden Stunden, die uns
@@ -257,7 +257,7 @@ seien, um sich daran gütlich zu tun.
 
 Das Gelände ist gut, Sand, Staub und feiner Kies; später wird
 der Boden intensiv ziegelrot. Man sieht nicht weit, die Luft ist dunstig
-und der Himmel bewölkt, aber soweit der Blick reiht, sehen wir - nur
+und der Himmel bewölkt, aber soweit der Blick reicht, sehen wir nur
 niedrige Berge. Aus kleinen Nebentälern im Norden kommen ein paar fest
 zugefrorene Bäche. Langsam steigen wir zu einer Paßschwelle (5239&nbsp;Meter)
 hinauf, von deren Höhe das Land nach Osten hin gerade so flach und günstig
@@ -340,7 +340,7 @@ Isa den seligen Manuel verächtlich nannte.
 Die Lamaisten unter meinen Ladakis teilten mir im Vertrauen mit,
 sie beteten allabendlich zu ihren Göttern um glückliche Reise. Sie
 wünschten ebenso eifrig wie ich selber, daß wir Schigatse und das heilige
-Kloster Taschi-lunpo, wo der Taschi-Lama residiert, erreihen möchten.
+Kloster Taschi-lunpo, wo der Taschi-Lama residiert, erreichen möchten.
 Denn dann würden sie einen Ehrentitel erhalten, ebenso wie ein Mohammedaner
 „Hadschi“ wird, wenn er in Mekka war. Gern wollten
 sie ihren Peterspfennig, 7 Rupien zu Butter für die Altarlampen, bezahlen,
@@ -384,7 +384,7 @@ Rot wie Blut stieg an diesem Tag der Vollmond über den Bergen
 im Osten auf. Er wurde schnell bleicher, je höher er stieg; und die
 Schneegebirge leuchteten so weiß wie der hellste Rauch eines Dampfers.
 Der Abend war windstill, und im Lager Nr. 28 ließ das Zelt sich leicht
-erwärmen. Die Kälte sank jedoch bis auf  -22,<small>2</small> Grad —  
+erwärmen. Die Kälte sank jedoch bis auf -22,<small>2</small> Grad —
 und Rabsang wurde noch immer vermißt! Ob ihn Wölfe zerrissen hatten? —
 
 Am folgenden Morgen aber kam er in Begleitung Schukkur Alis
@@ -429,11 +429,11 @@ an den Fuß der Berge führen, wo auch nur spärliches Gras wuchs.
 ::::
 
 :::: {.wrap-100 .break-before }
-![76. Die erlegten Yaks, oben links der Schütze Tundup Sonam.](Transhimalaja_Band_I_128_76.jpg "Transhimalaja_Band_I_128_76.jpg"){#b0128_76}
+![76](Transhimalaja_Band_I_128_76.jpg "Transhimalaja_Band_I_128_76.jpg"){#b0128_76}
 ::::
 
 :::: {.wrap-100 }
-![77. Die erlegten Yaks, oben links der Schütze Tundup Sonam.](Transhimalaja_Band_I_128_77.jpg "Transhimalaja_Band_I_128_77.jpg"){#b0128_77}
+![und 77. Die erlegten Yaks, oben links der Schütze Tundup Sonam.](Transhimalaja_Band_I_128_77.jpg "Transhimalaja_Band_I_128_77.jpg"){#b0128_77}
 ::::
 
 4.&nbsp;Oktober. Wir setzten unseren Zug nach Ostnordost fort und das
@@ -450,7 +450,7 @@ an dessen Südufer Wellby entlang zog, aber noch ist er nicht sichtbar.
 Gelbes Gras tritt wieder auf beiden Seiten auf, und an einem kleinen
 Becken herrlichen Quellwassers wird das Lager errichtet. Sobald die
 Tiere von ihrer Last befreit und losgelassen sind, kann man annehmen,
-aß ein Drittel sofort zu grasen beginnt, das zweite Drittel
+daß ein Drittel sofort zu grasen beginnt, das zweite Drittel
 sich mit herabhängendem Kopf stehend ausruht, das dritte aber sich sofort
 niederlegt. Die ersten sind die besten und kräftigsten Tiere, die
 letzteren die am meisten erschöpften. Unter letzteren befand sich auch das
@@ -546,7 +546,7 @@ südlichen Seeufer abfallen. Jetzt stimmen die Ladakis in schmelzenden,
 weichen Tönen eines ihrer schönsten Marschlieder an; sie sind glücklich, an
 diesem See, von dem ich tagelang geredet habe, angelangt zu sein, und
 denken wie ich, daß wir eine neue Etappe auf dem weiten Weg nach
-dem Dangra-jum-tso erreiht haben. Nach Nordwesten hin imponiert die
+dem Dangra-jum-tso erreicht haben. Nach Nordwesten hin imponiert die
 Landschaft mit dem gewaltigen Hochgebirge voll schneebedeckter Gipfel
 und großer Gletscher. In der westlichen Verlängerung des Sees ist das
 Flachland kreideweiß von Salz, und dort tanzen weiße Tromben wirbelnd
