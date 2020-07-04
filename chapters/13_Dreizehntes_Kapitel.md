@@ -20,7 +20,7 @@ sich in dünenförmigen Wehen, die Spur der Karawane verschwindet, und wir
 sehen nicht mehr, wie weit es noch nach diesem mörderischen Paß ist.
 
 Ein totes Pferd liegt am Wege, augenlos — die bösen Raben
-müssen die Augen immer haben, wenn sie noch warm und weih sind.
+müssen die Augen immer haben, wenn sie noch warm und weich sind.
 Der Wind hat ihm den Schnee an Rücken und Hals hinaufgetrieben,
 wie um dem Toten ein feines, bequemes Lager zu bereiten. Es liegt wie
 auf einem Paradebett in allen Winden des Himmels, mit reinen, weißen
@@ -81,7 +81,7 @@ In aller Frühe brachen wir aus diesem Unglückslager, wo noch
 ein Maulesel auf seinem Posten gefallen war, auf. Die abendlichen
 Spuren im Schnee zwischen den Zelten hatte frisch gefallener Schnee
 schon ausgefüllt, und ein neues Wegesystem war entstanden. Kaum zwei
-Minuten vom Lager lag ein totes. Pferd, das noch gestern seine Last getragen
+Minuten vom Lager lag ein totes Pferd, das noch gestern seine Last getragen
 hatte, die schwarze Leichenwache wieder daneben. Auch eine tote
 Wildente fanden wir im Schnee. Gibt es in der Nähe einen See?
 Nein, die Enten kommen weit her; diese hatte sich wohl verirrt.
@@ -256,7 +256,7 @@ denn Robert und ich waren vor Kälte halbtot.
 
 Unsere Lage war gar zu traurig. Wir wußten nicht, wo die Maulesel
 lagerten, und hatten keine Ahnung, wo die Pferde geblieben waren.
-Die Schafe waren in dieser an Wölfen so reihen Gegend wahrscheinlich
+Die Schafe waren in dieser an Wölfen so reichen Gegend wahrscheinlich
 verloren. Tsering war hinter uns zurückgeblieben und konnte meine Spur
 in dem Schneetreiben leicht verlieren. Wir selber konnten nichts weiter
 tun, als unsere Glieder auftauen. Nachdem wir eine Stunde dagesessen
@@ -413,7 +413,7 @@ auf der Reise zusammen; aber wie wählt sie ihren Führer? Vermutlich
 fliegt die älteste Gans der Schar an der Spitze, denn sie muß ja die
 reichste Erfahrung haben, und wenn sie stirbt, wird die zweitälteste selbstverständlich
 ihre Nachfolgerin. Ich liebe die Wildgänse und bewundere ihre Klugheit und ihren
-ungeheuer feinen Ortskinn.
+ungeheuer feinen Ortsinn.
 
 Im Lager Nr. 48 lagen wir drei ganze Tage still, und der Südwestwind
 heulte unablässig: „Geduld, Geduld!“ Mir vergingen die Tage

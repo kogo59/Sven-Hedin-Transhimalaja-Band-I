@@ -34,7 +34,7 @@ war, beruhigte sie dadurch, daß er in seinem Zelt mit ihnen
 plauderte und scherzte. Dann wurden sie zu mir gebracht, legten ihre
 Geschenke auf den Boden, fielen auf die Knie, streckten die Zunge heraus
 und verbeugten sich tief. Statt eines heiligen Mannes fanden sie einen
-Europäer, schienen aber gar nicht unzufrieden mit diesem Tausch. Muhamcd
+Europäer, schienen aber gar nicht unzufrieden mit diesem Tausch. Muhamed
 Isa fungierte als Dolmetscher. Zuerst mußten sie uns über die Geographie
 der Gegend und die Beschaffenheit des Landes, durch das unser Weg gehen
 sollte, Bericht erstatten. Die Angaben, welche uns die „lady of the
@@ -57,7 +57,7 @@ um unsere Rettung!
 
 „Vier lange oder fünf kurze Tagereisen.“
 
-„Wollt ihr uns führen ?“
+„Wollt ihr uns führen?“
 
 „Ja, wenn wir dafür bezahlt werden.“
 
@@ -210,7 +210,7 @@ gegen den Wind erfolgen muß. Obgleich er in seinem dicken Pelz auf
 die Jagd geht, schleicht der Jäger doch so lautlos und geschmeidig wie
 ein Panther am Boden hin, bis er sich seiner Beute auf Schußweite
 genähert hat. Dann legt er die Flinte auf die Gabel, schlägt mit dem
-Feuerstahl Funken aus dem Feuerstein, fängt sie mit Zunder auf, seht
+Feuerstahl Funken aus dem Feuerstein, fängt sie mit Zunder auf, setzt
 das Ende der Zündschnur in Brand und paßt auf, daß der Hahn das
 Feuer im richtigen Augenblick in das Zündloch bringt. Alles geht so
 ruhig, kaltblütig und vorsichtig zu, daß der Jäger alle Aussicht hat,
@@ -406,7 +406,7 @@ hatten, vermag ihnen nichts anzuhaben. Obgleich sie keine Hufeisen tragen,
 laufen sie die Abhänge gewandt und sicher hinauf und hinunter — und dabei sehen
 die Männer, die auf ihnen reiten, größer aus als die Pferde. Wir beobachten mit
 großer Heiterkeit, wie freundlich sie einander auf jedem Lagerplatz begrüßen.
-Puntsuk, der Muhamed Isaden Weg zeigt, reitet einen kleinen rotbraunen Pony, der
+Puntsuk, der Muhamed Isa den Weg zeigt, reitet einen kleinen rotbraunen Pony, der
 schon grast, wenn wir erst erscheinen. Sobald er seinen grauen Kameraden mit Tsering
 Dava erblickt, wiehert er fröhlich, spitzt die Ohren und läuft zu ihm hin;
 und der graue antwortet ebenso erfreut. Das ist anders, als unsere beiden

@@ -42,7 +42,7 @@ zeigte, also hohes Fieber. Er grübelte, wie er mir später erzählte, darüber
 nach, was er anfangen solle, wenn ich für immer im Lager Nr.&nbsp;51
 bliebe! Schlaf fand ich nicht, aber Robert und Tsering wachten
 abwechselnd an meinem Bett; die ganze Nacht hindurch wurden glühende
-Kohlen gebracht, und im Schuß einer Kiste, wo sie vor Zugluft und
+Kohlen gebracht, und im Schutz einer Kiste, wo sie vor Zugluft und
 Wind geschützt war, stand eine brennende Kerze. Ich phantasierte
 unaufhörlich, und die Männer waren voller Besorgnis, da sie mich
 noch niemals krank gesehen hatten.
