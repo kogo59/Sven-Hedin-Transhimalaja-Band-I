@@ -312,7 +312,7 @@ dem ganzen Weg dorthin Pferde stellen und Proviant verabreichen zu
 lassen. Die Männer, die ihn begleiteten, waren die letzten Nomaden, die
 ihm am Dangra-jum-tso Pferde zur Verfügung gestellt hatten und ihn
 jetzt, da es sicher Trinkgelder geben würde, nicht hatten verlassen wollen.
-Er hatte 18 Tage zu der Reise nach dem Heiligen See gebraucht und mcih
+Er hatte 18 Tage zu der Reise nach dem Heiligen See gebraucht und mich
 dort drei Tage lang gesucht, bis er zufällig erfahren hatte, daß wir am
 Ngangtse-tso lagerten. Dann war er zu mir geeilt, um sich seines
 Auftrags zu entledigen. Aber weshalb hatte er sich so verspätet? Ich hatte
@@ -552,7 +552,7 @@ immer in dem flachen Becken, dessen niedrigsten Teil jener See einnimmt
 und dessen Grenze im Norden, Westen und Osten ganz nahe am See
 liegt, im Süden aber mehrere Tagereisen weit von ihm entfernt ist.
 Der heutige Lagerplatz heißt Kaptschor; nach Osten hin zieht sich ein
-offenes Längstal, durch das eine Straße nach Schansa-dsong^[0336]^ führt;
+offenes Längstal, durch das eine Straße nach Schansa-dsong^[^0336]^ führt;
 auch auf der Nordseite des Ngangtse-tso und des Martschar-tso geht ein
 Weg dorthin, und auf diesem war Hladsche Tsering in zwölf Tagereisen
 nach meinem Lager gekommen. Diese Straße ist durch Nain Sings Reise

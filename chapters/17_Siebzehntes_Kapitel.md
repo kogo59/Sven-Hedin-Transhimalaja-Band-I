@@ -131,10 +131,10 @@ rechten Ärmel auszogen und die Brust an dem wärmenden Feuer entblößten.
 
 Als wir einander genug angesehen und ich erfahren hatte, daß der
 kleine, in der Nähe liegende See Tarmartse-tso heiße, kroch die ganze
-Gesellschaft in Mnhamed Isas Zelt, um ihm ihre Eßwaren zum Kauf
+Gesellschaft in Muhamed Isas Zelt, um ihm ihre Eßwaren zum Kauf
 anzubieten. Dort wurde für ganze 68 Rupien geröstetes Mehl und
 Gerste erstanden; es war eine Freude zu sehen, mit welchem Appetit
-unsere zwölf legten Tiere ihre Gerstenbeutel leerten; sie hatten ja schon
+unsere zwölf letzten Tiere ihre Gerstenbeutel leerten; sie hatten ja schon
 so lange mit dem schlechtesten Gras der Wildnis vorlieb nehmen müssen!
 
 Am folgenden Morgen verabschiedeten wir uns von dem redlichen

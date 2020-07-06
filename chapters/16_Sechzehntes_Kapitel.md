@@ -11,7 +11,7 @@ hatten sie ausgetreten. In der Gegend Kebetschungu, wo Nomaden
 lagerten, kehrten unsere neuen Freunde wieder um. In diesem Teil Tibets
 herrscht nicht dieselbe scharfgezeichnete Anordnung der Berge wie weiter
 östlich, wo Längstäler mit transversalen Bergketten abwechseln. Hier zieht
-man tagaus, tagein zwischen zusammengedrängten, weihen Hügeln umher
+man tagaus, tagein zwischen zusammengedrängten, weichen Hügeln umher
 und findet viel seltener zwischen ihnen eine kleine ebene Fläche. Aus
 diesem Gewirr erheben sich keine hohen, dominierenden Bergstöcke, und
 vergebens sucht der Blick nach den inselartigen Gletscherkuppen, die wir
@@ -61,7 +61,7 @@ zurück, und es zieht nicht mehr so in den Mundwinkeln, wenn man
 lacht, obgleich verwünscht wenig Veranlassung zum Lachen ist! Durch die
 Wärme angelockt, erscheint ein halbes Dutzend unserer letzten Maulesel
 am Feuer. Sonam Tsering will sie forttreiben, aber ich lasse die armen
-Tiere, die so durchfroren sind, dort stehen. Je. weniger ihrer werden,
+Tiere, die so durchfroren sind, dort stehen. Je weniger ihrer werden,
 desto mehr pflegen wir die Überlebenden, und ich hoffe immer noch, daß
 wenigstens einige von ihnen noch freundlichere Gegenden erreichen. Große
 Aussicht ist freilich dazu nicht, Gerste und Mais sind beinahe aufgezehrt,
@@ -381,7 +381,7 @@ Schicksal sich vielleicht schon morgen entscheiden werde. Denn es war
 sonnenklar, daß die Männer nur Spione gewesen sein konnten. Sie
 waren eine Patrouille der vielköpfigen Schar von Eilboten, die auf
 Befehl von Lhasa in alle Täler geschickt wurden, um die Kriegstüchtigen
-zusammenzutrommeln. Bald würden wir diese unbestehlihen Reiter wie
+zusammenzutrommeln. Bald würden wir diese unbestechlichen Reiter wie
 Pilze aus dem Boden aufschießen sehen!
 
 Zu unserer Stimmung, in Erwartung des Schicksals, das uns erwartete,
@@ -394,7 +394,7 @@ die Hunde in einer Ecke zusammengerollt lagen, um einander zu erwärmen.
 
 Am 4. Dezember ließen wir wieder einen Maulesel zurück. Das
 Land lag unter einer Schneedecke, und der Ritt war schrecklich kalt,
-Eiszapfen bildeten sich am Schnurrbart, und mein rehter Fuß wurde gefühllos.
+Eiszapfen bildeten sich am Schnurrbart, und mein rechter Fuß wurde gefühllos.
 Hunderte von Antilopen und Kiangs weideten auf der linken Seite unserer
 Straße; die Hunde stürmten auf sie los, kehrten aber bald wieder
 um, da jene sich nicht von der Stelle rührten. Menschen zeigten sich

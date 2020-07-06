@@ -354,7 +354,7 @@ aus den Staubwolken erst auf, wenn sie nur noch einige Schritt bis an
 das Feuer hatten. Mir war es unbegreiflich, daß sie den Weg in so
 dicker Luft fanden. Vermittelst des Schlittens und dreier Säcke
 Brennstoff bauten sie sich eine Schutzmauer gegen den Wind, und
-da-hinter saßen sie dann an ihrem Feuer, dessen flackernde Flammen ihnen fast
+dahinter saßen sie dann an ihrem Feuer, dessen flackernde Flammen ihnen fast
 das Gesicht versengten. Die Gruppe war in der schwarzen Nacht und
 den spärlichen Mondstrahlen ungewöhnlich malerisch. Und wie wehte es!
 Ich konnte kaum aufrecht stehen, als ich die Thermometer ablas, und

@@ -178,15 +178,15 @@ eine gute Stunde lang vor uns her, der Wind wehte uns heftig entgegen.
 Wolken von Staub und Sand fegten längs des Ufers hin, die Eisdecke
 wurde unsichtbar und die Wildesel verschwanden wie Gespenster im Nebel.
 Die Beleuchtung war seltsam und verwirrend, die Steigung nahm zu,
-und immer neue Hügel tauchten auf aus der dicken Lust, die an
+und immer neue Hügel tauchten auf aus der dicken Luft, die an
 trübes Wasser erinnerte. Manchmal eilt ein kleines Rudel Goagazellen^[^0370]^
 in höhnisch leichten Sprüngen an uns vorbei. Wir sehen das Lager Nr. 107
 erst, als wir unmittelbar davor stehen.
 
 Eine tiefe Erosionsrinne in der Richtung des Sees. Auf ihrer
-rechten Böschung unsere vier Zelte, nach Osten schauend. Ihnen gegen-
-über drei tibetische Zelte. Die Hände in den Taschen, die Pfeife im
-Munde, \steht Muhamed Isa an seinem Feuer. Alle die anderen
+rechten Böschung unsere vier Zelte, nach Osten schauend. Ihnen gegenüber
+drei tibetische Zelte. Die Hände in den Taschen, die Pfeife im
+Munde, steht Muhamed Isa an seinem Feuer. Alle die anderen
 kommen heraus. Die Tibeter gucken aus ihren Zelttüren wie Erdmäuse
 aus den Löchern. Robert erstattet die Meldung: „Alles ruhig auf
 dem Schipkapaß!“ Nur unsere Pferde waren gestern abend, von Wölfen
@@ -312,7 +312,7 @@ Nachdem ich eine Schachtel ägyptischer Zigaretten bereitgestellt und
 Hladsche Tsering sich eine Weile alles, was im Zelte stand, betrachtet
 hatte, sagte er mit ernster, bekümmerter Miene:
 
-„In meiner Eigenschaft als Statthalter von Naktsang fann ich euch
+„In meiner Eigenschaft als Statthalter von Naktsang kann ich euch
 nicht gestatten, von hier nach Schigatse oder irgendeinem anderen Ort
 innerhalb der Grenzen von Naktsang weiterzureisen. Ich habe mich persönlich
 bei euch eingefunden, um euch zu bitten, schleunigst meine Provinz
@@ -462,8 +462,8 @@ Paschminazeug und einem Messer aus Srinagar für den Gouverneur
 und einem ebensolchen Messer nebst einer Turbanbinde für den Sekretär.
 
 Begleitet von Robert und Muhamed Isa machte ich um drei Uhr
-meinen Gegenbesuch. Hladsche Tserings Zelt war groß und hübsch ein-
-gerichtet, und alle seine Sekretäre und Diener ([Abb. 94](ch020.xhtml#b0176_94))
+meinen Gegenbesuch. Hladsche Tserings Zelt war groß und hübsch eingerichtet,
+und alle seine Sekretäre und Diener ([Abb. 94](ch020.xhtml#b0176_94))
 saßen um das Feuer herum, das hoch nach der oberen Zeltöffnung hinaufloderte.
 An den Zeltwänden lagen Säcke Reis und Tsamba und mehrere unzerlegte geschlachtete
 Schafe; alles sah aus, als habe der Alte sich auf längeres Verweilen eingerichtet.
