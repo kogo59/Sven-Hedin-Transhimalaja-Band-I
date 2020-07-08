@@ -248,7 +248,7 @@ Tag wollen wir verlieren, morgen in aller Frühe aufbrechen und weiter
 eilen, solange die Straße noch offen vor uns liegt!
 
 Meine Aufregung näherte sich ihrem Gipfel. Würde es mir nach
-all den schweren Schifsalen und Abenteuern, die wir erlebt hatten, doch
+all den schweren Schicksalen und Abenteuern, die wir erlebt hatten, doch
 noch gelingen, unser Ziel zu erreichen? Spät am Abend sangen die
 Ladakis ihre Taschi-lunpo-Hymne, aber weicher und inniger als je zuvor.
 Als es Mitternacht war, sangen sie noch, und ich hörte aufmerksam zu,

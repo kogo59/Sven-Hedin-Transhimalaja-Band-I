@@ -573,7 +573,7 @@ kleinere Nomadengemeinschaften ihre Winterweideplätze, und dort bewegten
 sich auf den Halden große Yak- und Schafherden umher. Der Name des
 Tales ist Kaji-rung, das Lager 113 hieß Kaji-pangbuk, der
 Distrikt Tova-tova. Nain Sings „Dobo Dobá Cho“, von wo aus
-er den Fluß Párá-sangpo nach dem Kjaring -tso gehen läßt, kannten die
+er den Fluß Párá-sangpo nach dem Kjaring-tso gehen läßt, kannten die
 Einwohner nicht. Der Pundit läßt das Wasser nach Osten abfließen,
 tatsächlich aber strömt es westlich und nordwestlich nach dem Ngangtse-tso
 hin. Dies läßt sich dadurch erklären, daß er nicht selber hier gewesen ist

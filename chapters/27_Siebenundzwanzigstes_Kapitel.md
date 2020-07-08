@@ -128,7 +128,7 @@ Holzrahmen der Scheibe, während noch andere versuchten, sich dadurch aus der
 Affäre zu ziehen, daß sie sich im Sattel umdrehten und, zur großen Gefahr
 der Zuschauer, den Pfeil nach rückwärts abschossen. Der rote Punkt
 in der Mitte ist mit einem roten Pulver gefüllt, das in einer Wolke
-auf-stäubt, wenn das Zentrum getroffen ist
+aufstäubt, wenn das Zentrum getroffen ist
 
 Die Pferde sind klein und lebhaft, einige halbwild und feurig; sie
 sind langhaarig, aber schlecht gestriegelt, zottig und ungepflegt. Während
@@ -153,8 +153,8 @@ erzeugten die rote Wolke, alle die weiße von den Papierstreifen — falls
 nicht der Schuß versagte; denn auch das kam vor, wenn man den Zunder
 nicht im richtigen Moment gegen das Zündloch gehalten hatte. Bei
 einigen Schützen fiel der Schuß ein wenig zu spät, wenn sie die Tafel
-schon passiert hatten, und dann begannen die der Gefahr am meisten aus-
-gesetzten Zuschauer nach allen Seiten davonzustürmen, da sie die berechtigte
+schon passiert hatten, und dann begannen die der Gefahr am meisten ausgesetzten
+Zuschauer nach allen Seiten davonzustürmen, da sie die berechtigte
 Furcht hegten, daß ihnen die Augenbrauen versengt werden könnten.
 Sowie der Schuß gefallen war, wurde der Flintenriemen schnell über die
 Schulter geworfen, und jetzt galt es, in zwei Sekunden den Köcher und

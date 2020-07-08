@@ -325,7 +325,7 @@ schon dämmerig. Wir gingen die schroffen Abhänge zu Fuß hinunter
 und stolperten alle Augenblicke über Schutt und Mauselöcher. Es wurde
 dunkel, aber im Tale zeigte sich ein heller Streifen, das Eis seines
 Flusses. Und der Schein der Lagerfeuer lotste uns aus Dunkelheit und
-Kälte. Doch nichts führt so leiht irre, als wenn man in der Dunkelheit
+Kälte. Doch nichts führt so leicht irre, als wenn man in der Dunkelheit
 einem Feuerschein nachgeht; man geht und geht, aber er vergrößert
 sich nicht. Müde und durchfroren kamen wir jedoch schließlich an und
 setzten uns so nahe wie möglich an die Dungglut, und die Unterhaltung

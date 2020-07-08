@@ -87,7 +87,7 @@ wir dem Beispiel der meisten Pilger folgten und die Geistlichkeit ihrem
 Schicksal überließen.
 
 Am nächsten Tag ging eine andere Zeremonie vor sich, über deren
-Bedeutung ich leider feine ganz zuverlässige Aufklärung erhalten konnte.
+Bedeutung ich leider keine ganz zuverlässige Aufklärung erhalten konnte.
 Auf dem gelbseidenen Thron an der Querseite des Hofes hatte der Taschi-Lama
 in vollem päpstlichem Ornat Platz genommen, als zwei Mönche in
 roten Gewändern und mit hohen, roten, helmähnlichen Kopfbedeckungen
@@ -289,7 +289,7 @@ liegt westlich von Jarkent?“ fragte er.
 
 „Kaukasien.“
 
-„Und wohin kommt man, wenn man immerfort nach Westen weitergeht ?“
+„Und wohin kommt man, wenn man immerfort nach Westen weitergeht?“
 
 „Nach dem Schwarzen Meer, der Türkei, Rußland, Österreich,
 Deutschland, Frankreich und dann nach England, das draußen im Weltmeer liegt.“
@@ -454,7 +454,7 @@ Jener wandernde Lama gehörte zu einer Brüderschaft von neun
 Mönchen, die uns manchmal in unserem Garten besuchten, vor den Zelten
 saßen, ihre Gebetmühlen drehten und sangen ([Abb. 152](ch033.xhtml#b0328_152)).
 Sie hatten freie Wohnung in einem Gebäude Taschi-lunpos, das Hamdung hieß. Ein
-anderes Mitglied war der siebzigjährige Tensin aus Amdoz er hatte vier,
+anderes Mitglied war der siebzigjährige Tensin aus Amdoz er hatte vier
 Monate gebraucht, um von dort nach Taschi-lunpo zu gehen. Alle waren
 des Festes wegen gekommen und wollten über Lhasa und Naktschu nach
 Hause zurückkehren.

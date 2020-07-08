@@ -360,7 +360,7 @@ von Pilgern. Die uns begleitenden Mönche wollten sie fortjagen, aber
 ich erlaubte nicht, daß sie gestört wurden; es war ja auch interessant,
 ihre Andacht eine Weile zu beobachten. „Om mani padme hum“
 murmelnd, stehen sie mit gesenktem Haupt vor dem Grabmonument,
-fallen auf die Knie, lassen die Hände auf dem steinernen Fußboden nah
+fallen auf die Knie, lassen die Hände auf dem steinernen Fußboden nach
 vorn gleiten, bis sie der Länge nach mit der Stirn auf dem Boden liegen;
 dann erheben sie sich wieder und wiederholen diese religiöse Gymnastik
 immer von neuem. Hinterher verbeugen sie sich vor den Götterbildern,
@@ -368,7 +368,7 @@ legen eine Handvoll Reis oder Mehl in die Opferschalen und gehen in
 dem dunkeln Gang um das Monument herum.
 
 In jedem dieser Tschorten ist der Großlama ganz oben in der Pyramide
-hinter seinem eigenen Bilde beseitige. Von der Straße, die sich an
+hinter seinem eigenen Bilde beigesetzt. Von der Straße, die sich an
 der Vorderseite der Mausoleen hinzieht, steigt man einige steinerne Stufen
 hinauf und gelangt durch ein Portal in einen gepflasterten Vorhof, den
 eine auf Holzsäulen ruhende Galerie umgibt. Innerhalb der Säulen sind
