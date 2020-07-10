@@ -28,7 +28,7 @@ brachte mir von ihm einen Brief, der folgenden lakonischen Inhalt hatte:
 :::: fs-s
 |
 |     Übereinkommen zwischen Großbritannien und China, unterzeichnet
-|     in Peking im Jahre 1906, § 2: # EinunddreißigteDie großbritannische Regierung ver-
+|     in Peking im Jahre 1906, § 2: # Die großbritannische Regierung ver-
 |     pflichtet sich, kein tibetisches Territorium zu annektieren und sich nicht in
 |     Tibets Verwaltung zu mischen.
 |
@@ -193,7 +193,7 @@ Da erhielt ich am 5. März einen merkwürdigen Brief von Gaw
 Daloi. „Im größten Vertrauen“ riet er mir, an Chang Yin Tang
 (Tang Darin, „Kaiserlich Chinesischer Oberkommissar in Tibet“) und an
 den Amban Lien Yü in Lhasa zu schreiben und die beiden Exzellenzen
-zn bitten, mir als besondere Gnade die Erlaubnis zu erteilen, über
+zu bitten, mir als besondere Gnade die Erlaubnis zu erteilen, über
 Gyangtse nach Sikkim ziehen zu dürfen; er zweifele nicht daran, daß sie
 damit einverstanden sein würden. Erst hatte er mir geschrieben, daß
 seine Regierung ihm befohlen habe, mich zu verhaften, wenn ich nach
@@ -322,7 +322,7 @@ besitzen, als darauf ausgehen, neue Eroberungen zu machen! Jedenfalls
 zeigten die chinesischen Staatsmänner diesmal wie stets eine
 bewunderungswürdige Klugheit und Achtsamkeit und ernteten den ganzen
 Gewinn der englischen Opfer. Wenn der Dalai-Lama überhaupt mit heiler Haut
-nah Lhasa zurückkehrt (im September 1909 inzwischen geschehen), wird
+nach Lhasa zurückkehrt (im September 1909 inzwischen geschehen), wird
 er sich mit der Anbetung, die ihm als Inkarnation in seinem Palaste
 Potala zuteil wird, begnügen müssen und sich nicht mehr mit politischen
 Angelegenheiten befassen dürfen. Tibet wird ohne Zweifel in Zukunft
@@ -413,7 +413,7 @@ Chinesen mit:
 An liebenswürdiger Verbindlichkeit ließ der Brief nichts zu wünschen
 übrig, dem Inhalt nach war er diplomatisch dunkel. Chinesische und
 eingeborene Behörden in Tschang-tang, wo wir 81 Tage hintereinander
-feine lebende Seele erblickt hatten? Wie Gaw berief er sich auf den
+keine lebende Seele erblickt hatten? Wie Gaw berief er sich auf den
 Vertrag, den England unterzeichnet hatte, um das interessanteste Land der
 Erde jeder Forschung zu versperren.
 

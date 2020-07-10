@@ -369,7 +369,7 @@ liegen, lagerten wir unterhalb des Klosters Lung-gandän-gumpa
 in dessen „Labrang“ wie gewöhnlich ein Prior vom Kanpograde residiert. Wir
 machten einen Besuch, zogen aber die herrliche Aussicht über das Tal
 den in der Dämmerung stehenden Götterbildern vor. Einen Teil ihres
-Unterhaltes bekommen die Brüder ([Abb. 173](ch037.xhtml#b0376_173) vom Taschi-Lama
+Unterhaltes bekommen die Brüder ([Abb. 173](ch037.xhtml#b0376_173)) vom Taschi-Lama
 und leben im übrigen vom Ertrag ihrer Felder, denn das Kloster besitzt ziemlich viel
 Ländereien. Ein Blinder, der nicht zur Brüderschaft gehörte, saß wie
 eine Maschine an der Gebetmühle, um sie für die Mönche zu drehen,

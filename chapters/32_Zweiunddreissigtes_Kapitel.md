@@ -437,7 +437,7 @@ Opferschalen gegossen wird.
 Der Tsokang ist ein höher liegender Saal, der mit schwarzen
 Draperien verhängt ist, die unten weißgestreift sind.
 
-Auf einem kleinen offenen Platz saßen Mönche ([Abb. 172](ch037.xhtml#b0376_172),
+Auf einem kleinen offenen Platz saßen Mönche ([Abb. 172](ch037.xhtml#b0376_172)),
 vor denen eine Masse Kleinigkeiten standen; es war eine Auktion, in der die
 weltliche Habe eines Verstorbenen verkauft wurde. Ich erstand einige
 Holztafeln, mit denen die heiligen Schriften mit der Hand gedruckt werden.

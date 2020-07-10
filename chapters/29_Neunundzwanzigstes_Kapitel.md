@@ -164,7 +164,7 @@ Pergament.
 ![150. Lama mit Teekanne.](Transhimalaja_Band_I_328_150.jpg "Transhimalaja_Band_I_320_150.jpg"){#b0328_150}
 ::::
 
-:::: {.wrap-40 .float-left }
+:::: {.wrap-40 .break-before  .float-left }
 ![151. Der Tee wird zu den Zellen der Mönche gebracht.](Transhimalaja_Band_I_328_151.jpg "Transhimalaja_Band_I_320_151.jpg"){#b0328_151}
 ::::
 
@@ -465,7 +465,7 @@ Angehörigen von dem Toten schon Abschied genommen. Er selbst ist
 dann bereits fort; seine Leiche aber ist vollkommen wertlos, sobald die
 Seele ihre Wanderung fortgesetzt hat; der Körper wird daher der
 brutalen Behandlung der Lagbas ohne die geringsten Bedenken überlassen.
-Keiner geleitet den Toten nah dem Heim der Geier, wenn die Leiche
+Keiner geleitet den Toten nach dem Heim der Geier, wenn die Leiche
 bei Nacht aus dem Hause abgeholt wird, um zerstückelt zu werden, bevor
 die Sonne wieder aufgeht. Das ist jedoch keine gesetzliche Vorschrift,
 denn sind der Leichen mehrere, so ist die Sonne meistens schon

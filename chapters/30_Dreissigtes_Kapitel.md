@@ -163,8 +163,8 @@ und Häcksel, Reis, Korn, Tsamba und Salz verkaufen mehrere Krämer.
 Walnüsse, Rosinen, Süßigkeiten und Rettiche gehören auch zu den Waren,
 die man bei vielen findet. Pferde, Kühe, Esel, Schweine und Schafe
 wurden feilgeboten; für letztere verlangten sie sieben Rupien; wir hatten
-in Tschang-tang, wo man ein Schaf doch schon für zwei Rupien er-
-halten kann, nie mehr als höchstens vier Rupien gegeben. Jede Ware
+in Tschang-tang, wo man ein Schaf doch schon für zwei Rupien erhalten
+kann, nie mehr als höchstens vier Rupien gegeben. Jede Ware
 hatte ihren besonderen Platz, aber soviel ich sehen konnte, waren die
 Verkäufer nur Tibeter, denn die Kaufleute aus Ladak, China und Nepal
 haben ihre Läden in ihren eigenen Häusern.
@@ -186,7 +186,7 @@ aus dem Dsong vorbei. Und unter dem Kundengewimmel sieht man
 jede Art Leute, Geistliche und Pilger, Kinder des Landes und Fremdlinge,
 weiße Turbane aus Ladak und Kaschmir und schwarze Scheitelkäppchen
 aus China. Der Markt ist Schigatses Klatschnest; von dort
-her dringen allerlei mehr oder weniger wahrscheinliche Gerüchte zu uns,
+her dringen allerlei mehr oder weniger wahrscheinliche Gerüchte zu uns.
 Sowie jemand aus Lhasa ankommt, wird er sofort bis zur Bewußtlosigkeit
 ausgefragt, denn alle verfolgen das neue chinesische Regime mit
 gespanntem Interesse. Im Basar wurde erzählt, daß Lamas in Lhasa
@@ -373,7 +373,7 @@ rennen mit ihren klappernden Metallkannen, und Saitenspiel und
 Flöten ertönen unter unsern Bäumen. Wie ein Troubadour nähert sich
 ein Bettler mit einer Laute meinem Zelt und singt ein melodisches Lied.
 Wenn ich nach ihm hinsehe, unterbricht er den Gesang und streckt die
-Zunge heraus. Barhäuptige Jungen, die nicht schwärze aussehen könnten,
+Zunge heraus. Barhäuptige Jungen, die nicht schwärzer aussehen könnten,
 wenn man sie zweimal durch einen Schornstein zöge, laufen mit hellem
 Gelächter umher oder gucken hinter den Bäumen hervor. Drei von ihnen
 zeigen sich auf einem ausgespannten Seil, tanzen wie richtige Seiltänzer

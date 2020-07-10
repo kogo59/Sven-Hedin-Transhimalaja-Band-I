@@ -8,3 +8,11 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 Druck von F. A. Brockhaus, Leipzig.
 ::::
+
+:::: {.wrap-100 .align-center }
+![](cover1.jpg "cover1.jpg"){#cover}
+::::
+
+:::: {.wrap-100  .align-center }
+![](cover2.jpg "cover2.jpg"){#cover2}
+::::
