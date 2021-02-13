@@ -345,19 +345,19 @@ Am Lake Lighten aber zerrissen nun die allerletzten Bande, und
 von dort begann ein Gewaltmarsch unbekannten Geschicken entgegen.
 
 :::: {.wrap-100 .break-before }
-![55. Lager Nr. 15 auf dem Westufer des Lake Lighten.](Transhimalaja_Band_I_96_55.jpg "Transhimalaja_Band_I_96_55.jpg"){#b096_55}
+![55. Lager Nr. 15 auf dem Westufer des Lake Lighten.](Transhimalaja_Band_I_96_55.jpg "55. Lager Nr. 15 auf dem Westufer des Lake Lighten."){#b096_55}
 ::::
 
 :::: {.wrap-100  }
-![56. Im Schnee nordöstlich von Tschang-lung-jogma.](Transhimalaja_Band_I_96_56.jpg "Transhimalaja_Band_I_96_56.jpg"){#b096_56}
+![56. Im Schnee nordöstlich von Tschang-lung-jogma.](Transhimalaja_Band_I_96_56.jpg "56. Im Schnee nordöstlich von Tschang-lung-jogma."){#b096_56}
 ::::
 
 :::: {.wrap-100  }
-![57. Mein Zelt, im Vordergrund Bikom Sing, Manuel und die jungen Hunde.](Transhimalaja_Band_I_96_57.jpg "Transhimalaja_Band_I_96_57.jpg"){#b096_57}
+![57. Mein Zelt, im Vordergrund Bikom Sing, Manuel und die jungen Hunde.](Transhimalaja_Band_I_96_57.jpg "57. Mein Zelt, im Vordergrund Bikom Sing, Manuel und die jungen Hunde."){#b096_57}
 ::::
 
 :::: {.wrap-100  }
-![58. Eine schauerliche Nacht auf dem Lake Ligthen.](Transhimalaja_Band_I_96_58.jpg "Transhimalaja_Band_I_96_58.jpg"){#b096_58}
+![58. Eine schauerliche Nacht auf dem Lake Ligthen.](Transhimalaja_Band_I_96_58.jpg "58. Eine schauerliche Nacht auf dem Lake Ligthen."){#b096_58}
 ::::
 
 :::

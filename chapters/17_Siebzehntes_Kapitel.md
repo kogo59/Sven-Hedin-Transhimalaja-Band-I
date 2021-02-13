@@ -175,19 +175,19 @@ parallellaufenden Längstal weiter und lagerten an der Mündung eines
 Quertales, das zu dem südlichen Gebirge gehört und Kung-lung heißt.
 
 :::: {.wrap-100 .break-before }
-![100. Haus und Garten des Taschi-Lama in Tanak.](Transhimalaja_Band_I_192_100.jpg "Transhimalaja_Band_I_192_100.jpg"){#b0192_100}
+![100. Haus und Garten des Taschi-Lama in Tanak.](Transhimalaja_Band_I_192_100.jpg "100. Haus und Garten des Taschi-Lama in Tanak."){#b0192_100}
 ::::
 
 :::: {.wrap-100 }
-![101. Der Tsangpo mit Eisgang, östlich von Tanak.](Transhimalaja_Band_I_192_101.jpg "Transhimalaja_Band_I_192_101.jpg"){#b0192_101}
+![101. Der Tsangpo mit Eisgang, östlich von Tanak.](Transhimalaja_Band_I_192_101.jpg "101. Der Tsangpo mit Eisgang, östlich von Tanak."){#b0192_101}
 ::::
 
 :::: {.wrap-100 }
-![102. Fellboote auf dem Tsangpo.](Transhimalaja_Band_I_192_102.jpg "Transhimalaja_Band_I_192_102.jpg"){#b0192_102}
+![102. Fellboote auf dem Tsangpo.](Transhimalaja_Band_I_192_102.jpg "102. Fellboote auf dem Tsangpo."){#b0192_102}
 ::::
 
 :::: {.wrap-100 }
-![103. Pilger auf der Reise nach Taschi-lunpo.](Transhimalaja_Band_I_192_103.jpg "Transhimalaja_Band_I_192_103.jpg"){#b0192_103}
+![103. Pilger auf der Reise nach Taschi-lunpo.](Transhimalaja_Band_I_192_103.jpg "103. Pilger auf der Reise nach Taschi-lunpo."){#b0192_103}
 ::::
 
 Überall sieht man zugefrorene Quellen — je weiter wir nach Süden gelangen,

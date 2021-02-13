@@ -271,19 +271,19 @@ geführt, die anderen Tibeter stellten sich zu Fuß auf, und dann setzte sich
 der Zug langsam nach unsern Zelten hin in Bewegung!
 
 :::: {.wrap-100 .break-before }
-![108. Lamas in Taschi-lunpo.](Transhimalaja_Band_I_216_108.jpg "Transhimalaja_Band_I_216_108.jpg"){#b0216_108}
+![108. Lamas in Taschi-lunpo.](Transhimalaja_Band_I_216_108.jpg "108. Lamas in Taschi-lunpo."){#b0216_108}
 ::::
 
 :::: {.wrap-100  }
-![109. Hof der religiösen Festspiele in Taschi-lunpo.](Transhimalaja_Band_I_216_109.jpg "Transhimalaja_Band_I_216_109.jpg"){#b0216_109}
+![109. Hof der religiösen Festspiele in Taschi-lunpo.](Transhimalaja_Band_I_216_109.jpg "109. Hof der religiösen Festspiele in Taschi-lunpo."){#b0216_109}
 ::::
 
 :::: {.wrap-100  }
-![110. „Profanum volgus“ beim Neujahrsfest in Schigatse.](Transhimalaja_Band_I_216_110.jpg "Transhimalaja_Band_I_216_110.jpg"){#b0216_110}
+![110. „Profanum volgus“ beim Neujahrsfest in Schigatse.](Transhimalaja_Band_I_216_110.jpg "110. „Profanum volgus“ beim Neujahrsfest in Schigatse."){#b0216_110}
 ::::
 
 :::: {.wrap-100  }
-![111. „Profanum volgus“ beim Neujahrsfest in Schigatse.](Transhimalaja_Band_I_216_111.jpg "Transhimalaja_Band_I_216_111.jpg"){#b0216_111}
+![111. „Profanum volgus“ beim Neujahrsfest in Schigatse.](Transhimalaja_Band_I_216_111.jpg "111. „Profanum volgus“ beim Neujahrsfest in Schigatse."){#b0216_111}
 ::::
 
 Hladsche Tsering, denn es war wirklich mein alter Freund, kam

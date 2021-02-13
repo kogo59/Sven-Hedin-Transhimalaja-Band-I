@@ -131,14 +131,14 @@ zurück, der nicht weiter gekonnt hatte. Wir hatten also zwei Todeskandidaten
 bei uns.
 
 :::: {.wrap-100 .break-before }
-![80. Rettungslos verloren.](Transhimalaja_Band_I_144_80.jpg "Transhimalaja_Band_I_144_80.jpg"){#b0144_80}
+![80. Rettungslos verloren.](Transhimalaja_Band_I_144_80.jpg "80. Rettungslos verloren."){#b0144_80}
 ::::
 
 :::: {.wrap-100 }
-![81. Puntsuk und Tjsering Dava, die ersten Tibeter.](Transhimalaja_Band_I_144_81.jpg "Transhimalaja_Band_I_144_81.jpg"){#b0144_81}
+![81. Puntsuk und Tjsering Dava, die ersten Tibeter.](Transhimalaja_Band_I_144_81.jpg "81. Puntsuk und Tjsering Dava, die ersten Tibeter."){#b0144_81}
 ::::
 :::: {.wrap-100  }
-![82. Puntsuk und Tjsering Dava, die ersten Tibeter.](Transhimalaja_Band_I_144_82.jpg "Transhimalaja_Band_I_144_82.jpg"){#b0144_82}
+![82. Puntsuk und Tjsering Dava, die ersten Tibeter.](Transhimalaja_Band_I_144_82.jpg "82. Puntsuk und Tjsering Dava, die ersten Tibeter."){#b0144_82}
 ::::
 
 Und nun kam die Nacht. Die Luft war klar und still, die Sterne
@@ -475,15 +475,15 @@ finden, nachdem sie über endlose Strecken unbekannten Landes hingeflogen?
 Sicherlich hat selten ein Buch „eine so weite Verbreitung gefunden!“
 
 :::: {.wrap-100 .break-before }
-![83. Muhamed Isa vor seinem Zelt.](Transhimalaja_Band_I_152_83.jpg "Transhimalaja_Band_I_152_83.jpg"){#b0152_83}
+![83. Muhamed Isa vor seinem Zelt.](Transhimalaja_Band_I_152_83.jpg "83. Muhamed Isa vor seinem Zelt."){#b0152_83}
 ::::
 
 :::: {.wrap-100 }
-![84. Die von den ersten Tibetern gekauften Yaks.](Transhimalaja_Band_I_152_84.jpg "Transhimalaja_Band_I_152_84.jpg"){#b0152_84}
+![84. Die von den ersten Tibetern gekauften Yaks.](Transhimalaja_Band_I_152_84.jpg "84. Die von den ersten Tibetern gekauften Yaks."){#b0152_84}
 ::::
 
 :::: {.wrap-70 .break-before }
-![85. Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“.](Transhimalaja_Band_I_152_85.jpg "Transhimalaja_Band_I_152_85.jpg"){#b0152_85}
+![85. Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“.](Transhimalaja_Band_I_152_85.jpg "85. Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“."){#b0152_85}
 ::::
 
 Zwischen niedrigen Bergen folgten wir in einem offenen flachen Tal

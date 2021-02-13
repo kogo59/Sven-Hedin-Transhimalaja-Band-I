@@ -288,27 +288,27 @@ der Mond zog goldene Schlangenlinien in den Wellen des Flusses, und
 über den Gebirgen am Horizont zuckten ununterbrochen bläuliche Blitze.
 
 :::: {.wrap-40 .float-left .break-before }
-![11. Meine drei jungen Hunde.](Transhimalaja_Band_I_24_11.jpg "Transhimalaja_Band_I_24_11.jpg"){#b024_11}
+![11. Meine drei jungen Hunde.](Transhimalaja_Band_I_24_11.jpg "11. Meine drei jungen Hunde."){#b024_11}
 ::::
 
 :::: {.wrap-50 .float-right  }
-![12. Manuel der Koch.](Transhimalaja_Band_I_24_12.jpg "Transhimalaja_Band_I_24_12.jpg"){#b024_12}
+![12. Manuel der Koch.](Transhimalaja_Band_I_24_12.jpg "12. Manuel der Koch."){#b024_12}
 ::::
 
 :::: {.wrap-40 .float-left  }
-![13. Ganpat Sing der Radschput.](Transhimalaja_Band_I_24_13.jpg "Transhimalaja_Band_I_24_13.jpg"){#b024_13}
+![13. Ganpat Sing der Radschput.](Transhimalaja_Band_I_24_13.jpg "13. Ganpat Sing der Radschput."){#b024_13}
 ::::
 
 :::: {.wrap-50 .float-right  }
-![14. Robert der Eurasier.](Transhimalaja_Band_I_24_14.jpg "Transhimalaja_Band_I_24_14.jpg"){#b024_14}
+![14. Robert der Eurasier.](Transhimalaja_Band_I_24_14.jpg "14. Robert der Eurasier."){#b024_14}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![15. Meine Schutztruppe.<small>Stehend Bas Ghul und Kairullah Khan, sitzend  Ganpat Sing und Bikom Sing.</small>](Transhimalaja_Band_I_24_15.jpg "Transhimalaja_Band_I_24_14.jpg"){#b024_15}
+![15. Meine Schutztruppe.<small>Stehend Bas Ghul und Kairullah Khan, sitzend  Ganpat Sing und Bikom Sing.</small>](Transhimalaja_Band_I_24_15.jpg "15. Meine Schutztruppe.Stehend Bas Ghul und Kairullah Khan, sitzend  Ganpat Sing und Bikom Sing."){#b024_15}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![16.  Aufbruch von Ganderbal.](Transhimalaja_Band_I_24_16.jpg "Transhimalaja_Band_I_24_14.jpg"){#b024_16}
+![16.  Aufbruch von Ganderbal.](Transhimalaja_Band_I_24_16.jpg "16.  Aufbruch von Ganderbal."){#b024_16}
 ::::
 
 Der Pundit Daya Kischen Kaul war wirklich in seinen Freundschaftsdiensten

@@ -279,16 +279,16 @@ frische neue Gras hervorzaubert und wie endlich die Regengüsse des
 Frühherbstes die Berghalden reinspülen und die Flüsse anschwellen.
 
 :::: {.break-before .wrap-100 }
-![184. Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](Transhimalaja_Band_I_392_184.jpg "Transhimalaja_Band_I_392_184.jpg"){#b0392_184}
+![184. Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](Transhimalaja_Band_I_392_184.jpg "184. Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit."){#b0392_184}
 ::::
 
 :::: {.wrap-100}
-![185. Tibeter im Dorf Tong.](Transhimalaja_Band_I_392_185.jpg "Transhimalaja_Band_I_392_185.jpg"){#b0392_185}
+![185. Tibeter im Dorf Tong.](Transhimalaja_Band_I_392_185.jpg "185. Tibeter im Dorf Tong."){#b0392_185}
 ::::
 
 
 :::: {.break-before .wrap-70 }
-![186. Wandernder Musikant und Tänzerin.](Transhimalaja_Band_I_392_186.jpg "Transhimalaja_Band_I_392_186.jpg"){#b0392_186}
+![186. Wandernder Musikant und Tänzerin.](Transhimalaja_Band_I_392_186.jpg "186. Wandernder Musikant und Tänzerin."){#b0392_186}
 ::::
 
 Jetzt gehen wir in die Vorhalle des Pesutempels, zwei steile,

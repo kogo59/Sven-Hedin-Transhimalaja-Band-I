@@ -53,23 +53,23 @@ und schnauben vor Vergnügen, wenn ihre langen, schwarzen Seitenfransen
 in den Windstößen flattern.
 
 :::: {.wrap-100 .break-before }
-![69. Die Leute von Tankse, die mich verließen.](Transhimalaja_Band_I_121_69.jpg "Transhimalaja_Band_I_121_69.jpg"){#b0121_69}
+![69. Die Leute von Tankse, die mich verließen.](Transhimalaja_Band_I_121_69.jpg "69. Die Leute von Tankse, die mich verließen."){#b0121_69}
 ::::
 
 :::: {.wrap-100 .break-before }
-![70. Namgjal mit einem Sack gesammelten Yakdungs.](Transhimalaja_Band_I_121_70.jpg "Transhimalaja_Band_I_121_70.jpg"){#b0121_70}
+![70. Namgjal mit einem Sack gesammelten Yakdungs.](Transhimalaja_Band_I_121_70.jpg "70. Namgjal mit einem Sack gesammelten Yakdungs."){#b0121_70}
 ::::
 
 :::: {.wrap-100 .break-before }
-![71. Schutzmauer von Proviantsäcken.](Transhimalaja_Band_I_121_71.jpg "Transhimalaja_Band_I_121_71.jpg"){#b0121_71}
+![71. Schutzmauer von Proviantsäcken.](Transhimalaja_Band_I_121_71.jpg "71. Schutzmauer von Proviantsäcken."){#b0121_71}
 ::::
 
 :::: {.wrap-100 }
-![72. Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.](Transhimalaja_Band_I_121_72.jpg "Transhimalaja_Band_I_121_72.jpg"){#b0121_72}
+![72. Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.](Transhimalaja_Band_I_121_72.jpg "72. Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt."){#b0121_72}
 ::::
 
 :::: {.wrap-100 }
-![73. Muhamed Isa und Robert am Feuer.](Transhimalaja_Band_I_121_73.jpg "Transhimalaja_Band_I_121_73.jpg"){#b0121_73}
+![73. Muhamed Isa und Robert am Feuer.](Transhimalaja_Band_I_121_73.jpg "73. Muhamed Isa und Robert am Feuer."){#b0121_73}
 ::::
 
 Der 28. September brach jedoch klar an, der Sturm war auf seinem
@@ -421,19 +421,19 @@ Lager Nr.&nbsp;29 gab es leider keine Weide, und so mußten wir die Tiere
 an den Fuß der Berge führen, wo auch nur spärliches Gras wuchs.
 
 :::: {.wrap-100 .break-before }
-![74. Vorbereitung zum Diner im Lager Nr. 41.](Transhimalaja_Band_I_128_74.jpg "Transhimalaja_Band_I_128_74.jpg"){#b0128_74}
+![74. Vorbereitung zum Diner im Lager Nr. 41.](Transhimalaja_Band_I_128_74.jpg "74. Vorbereitung zum Diner im Lager Nr. 41."){#b0128_74}
 ::::
 
 :::: {.wrap-100 }
-![75. Das große scheckige Jarkentpferd.](Transhimalaja_Band_I_128_75.jpg "Transhimalaja_Band_I_128_75.jpg"){#b0128_75}
+![75. Das große scheckige Jarkentpferd.](Transhimalaja_Band_I_128_75.jpg "75. Das große scheckige Jarkentpferd."){#b0128_75}
 ::::
 
 :::: {.wrap-100 .break-before }
-![76](Transhimalaja_Band_I_128_76.jpg "Transhimalaja_Band_I_128_76.jpg"){#b0128_76}
+![76](Transhimalaja_Band_I_128_76.jpg "76"){#b0128_76}
 ::::
 
 :::: {.wrap-100 }
-![und 77. Die erlegten Yaks, oben links der Schütze Tundup Sonam.](Transhimalaja_Band_I_128_77.jpg "Transhimalaja_Band_I_128_77.jpg"){#b0128_77}
+![und 77. Die erlegten Yaks, oben links der Schütze Tundup Sonam.](Transhimalaja_Band_I_128_77.jpg "und 77. Die erlegten Yaks, oben links der Schütze Tundup Sonam."){#b0128_77}
 ::::
 
 4.&nbsp;Oktober. Wir setzten unseren Zug nach Ostnordost fort und das

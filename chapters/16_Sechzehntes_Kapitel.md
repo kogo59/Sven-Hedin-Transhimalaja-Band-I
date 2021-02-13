@@ -34,19 +34,19 @@ auf. Die Lippen sind geschwollen und gesprungen, und an den Nägeln
 plagt die Haut, so daß die Fingerspitzen bluten!
 
 :::: {.wrap-100 .break-before }
-![92. Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär.](Transhimalaja_Band_I_176_92.jpg "Transhimalaja_Band_I_176_92.jpg"){#b0176_92}
+![92. Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär.](Transhimalaja_Band_I_176_92.jpg "92. Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär."){#b0176_92}
 ::::
 
 :::: {.wrap-100  }
-![93. Hladsche Tsering beim Aufbruch.](Transhimalaja_Band_I_176_93.jpg "Transhimalaja_Band_I_176_93.jpg"){#b0176_93}
+![93. Hladsche Tsering beim Aufbruch.](Transhimalaja_Band_I_176_93.jpg "93. Hladsche Tsering beim Aufbruch."){#b0176_93}
 ::::
 
 :::: {.wrap-100  }
-![94. Hladsche Tserings Gefolge.](Transhimalaja_Band_I_176_94.jpg "Transhimalaja_Band_I_176_94.jpg"){#b0176_94}
+![94. Hladsche Tserings Gefolge.](Transhimalaja_Band_I_176_94.jpg "94. Hladsche Tserings Gefolge."){#b0176_94}
 ::::
 
 :::: {.wrap-100  }
-![95. Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.](Transhimalaja_Band_I_176_95.jpg "Transhimalaja_Band_I_176_95.jpg"){#b0176_95}
+![95. Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.](Transhimalaja_Band_I_176_95.jpg "95. Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat."){#b0176_95}
 ::::
 
 Endlich erreiche ich, mehr tot als lebendig, das Lager, wo die
@@ -429,19 +429,19 @@ Lasttiere ihr habt und wohin ihr wollt.“
 sonst schneidet er mir den Hals ab!“
 
 :::: {.wrap-100 .break-before }
-![96. Der Paß von La-rock. Manis mit flatternden Gebeten.](Transhimalaja_Band_I_184_96.jpg "Transhimalaja_Band_I_184_96.jpg"){#b0184_96}
+![96. Der Paß von La-rock. Manis mit flatternden Gebeten.](Transhimalaja_Band_I_184_96.jpg "96. Der Paß von La-rock. Manis mit flatternden Gebeten."){#b0184_96}
 ::::
 
 :::: {.wrap-100 }
-![97. Am Ufer des Brahmaputra bei Lamo-tang.](Transhimalaja_Band_I_184_97.jpg "Transhimalaja_Band_I_184_97.jpg"){#b0184_97}
+![97. Am Ufer des Brahmaputra bei Lamo-tang.](Transhimalaja_Band_I_184_97.jpg "97. Am Ufer des Brahmaputra bei Lamo-tang."){#b0184_97}
 ::::
 
 :::: {.wrap-100 }
-![98. Ein Haus im Dorf Rungma.](Transhimalaja_Band_I_184_98.jpg "Transhimalaja_Band_I_184_98.jpg"){#b0184_98}
+![98. Ein Haus im Dorf Rungma.](Transhimalaja_Band_I_184_98.jpg "98. Ein Haus im Dorf Rungma."){#b0184_98}
 ::::
 
 :::: {.wrap-100 }
-![99. Das Tal des Tsangpo westlich von Lamo-tang.](Transhimalaja_Band_I_184_99.jpg "Transhimalaja_Band_I_184_99.jpg"){#b0184_99}
+![99. Das Tal des Tsangpo westlich von Lamo-tang.](Transhimalaja_Band_I_184_99.jpg "99. Das Tal des Tsangpo westlich von Lamo-tang."){#b0184_99}
 ::::
 
 Er erhielt die gewünschte Auskunft und fragte dann:

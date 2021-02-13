@@ -176,19 +176,19 @@ nicht parierte, mußten sie das Boot füllen und zum sinken bringen;
 wir mußten ihnen also direkt entgegensegeln.
 
 :::: {.wrap-100 .break-before }
-![61. Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen.](Transhimalaja_Band_I_112_61.jpg "Transhimalaja_Band_I_112_61.jpg"){#b0112_61}
+![61. Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen.](Transhimalaja_Band_I_112_61.jpg "61. Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen."){#b0112_61}
 ::::
 
 :::: {.wrap-100 }
-![62. Am Westufer des Jeschil-köl.](Transhimalaja_Band_I_112_62.jpg "Transhimalaja_Band_I_112_62.jpg"){#b0112_62}
+![62. Am Westufer des Jeschil-köl.](Transhimalaja_Band_I_112_62.jpg "62. Am Westufer des Jeschil-köl."){#b0112_62}
 ::::
 
 :::: {.wrap-100 }
-![63. Süßwassersee Pul-tso von Westen.](Transhimalaja_Band_I_112_63.jpg "Transhimalaja_Band_I_112_63.jpg"){#b0112_63}
+![63. Süßwassersee Pul-tso von Westen.](Transhimalaja_Band_I_112_63.jpg "63. Süßwassersee Pul-tso von Westen."){#b0112_63}
 ::::
 
 :::: {.wrap-100 }
-![64. Pferde und Maultiere in unfruchtbarem Lande.](Transhimalaja_Band_I_112_64.jpg "Transhimalaja_Band_I_112_64.jpg"){#b0112_64}
+![64. Pferde und Maultiere in unfruchtbarem Lande.](Transhimalaja_Band_I_112_64.jpg "64. Pferde und Maultiere in unfruchtbarem Lande."){#b0112_64}
 ::::
 
 Die Situation war nicht wenig aufregend, aber noch ging alles
@@ -386,19 +386,19 @@ Willen im letzten Lager, wo sich gleich sechs Raben über die gefallenen
 Pferde hergemacht hatten, einen gehörigen Schmaus zurücklassen.
 
 :::: {.wrap-100 .break-before }
-![65. Nächtlicher Sturm auf dem Jeschil-köl.](Transhimalaja_Band_I_116_65.jpg "Transhimalaja_Band_I_116_65.jpg"){#b0116_65}
+![65. Nächtlicher Sturm auf dem Jeschil-köl.](Transhimalaja_Band_I_116_65.jpg "65. Nächtlicher Sturm auf dem Jeschil-köl."){#b0116_65}
 ::::
 
 :::: {.wrap-100 }
-![66. Ausgrabungen im Lager von Deasy.](Transhimalaja_Band_I_116_66.jpg "Transhimalaja_Band_I_116_66.jpg"){#b0116_66}
+![66. Ausgrabungen im Lager von Deasy.](Transhimalaja_Band_I_116_66.jpg "66. Ausgrabungen im Lager von Deasy."){#b0116_66}
 ::::
 
 :::: {.wrap-100 }
-![67. Nachmittagstee im Freien.](Transhimalaja_Band_I_116_67.jpg "Transhimalaja_Band_I_116_67.jpg"){#b0116_67}
+![67. Nachmittagstee im Freien.](Transhimalaja_Band_I_116_67.jpg "67. Nachmittagstee im Freien."){#b0116_67}
 ::::
 
 :::: {.wrap-100 }
-![68. Schmelzen von Schnee zum Trinkwasser für die Tiere.](Transhimalaja_Band_I_116_68.jpg "Transhimalaja_Band_I_116_68.jpg"){#b0116_68}
+![68. Schmelzen von Schnee zum Trinkwasser für die Tiere.](Transhimalaja_Band_I_116_68.jpg "68. Schmelzen von Schnee zum Trinkwasser für die Tiere."){#b0116_68}
 ::::
 
 Eine der obersten „Bankreihen“, die etwa 50 Meter über dem

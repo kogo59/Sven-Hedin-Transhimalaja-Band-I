@@ -74,11 +74,11 @@ liegt, hinauf. Dies ist der Ta-la, der „Pferdepaß“; seine absolute
 Höhe ist 5436 Meter.
 
 :::: {.wrap-60 .break-before }
-![123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](Transhimalaja_Band_I_248_123.jpg "Transhimalaja_Band_I_248_123.jpg"){#b0248_123}
+![123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](Transhimalaja_Band_I_248_123.jpg "123. Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen."){#b0248_123}
 ::::
 
 :::: {.wrap-100 }
-![124. Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](Transhimalaja_Band_I_248_124.jpg "Transhimalaja_Band_I_248_124.jpg"){#b0248_124}
+![124. Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](Transhimalaja_Band_I_248_124.jpg "124. Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo."){#b0248_124}
 ::::
 
 War der Ausstieg zwischen den Steinkegeln beschwerlich und akrobatenhafte
@@ -424,15 +424,15 @@ Dihong, und erst, wenn er aus dem Gebirge herausgetreten ist, um die
 Ebenen Assams^[^0401]^ zu bewässern, nimmt er den Namen Brahmaputra an.
 
 :::: {.wrap-100 .break-before }
-![125. Fassade des Mausoleums des ersten Taschi-Lama.<small>Im Vordergrund der Festspielhof.</small>](Transhimalaja_Band_I_256_125.jpg "Transhimalaja_Band_I_256_125.jpg"){#b0256_125}
+![125. Fassade des Mausoleums des ersten Taschi-Lama.<small>Im Vordergrund der Festspielhof.</small>](Transhimalaja_Band_I_256_125.jpg "125. Fassade des Mausoleums des ersten Taschi-Lama.Im Vordergrund der Festspielhof."){#b0256_125}
 ::::
 
 :::: {.wrap-70 }
-![126. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](Transhimalaja_Band_I_256_126.jpg "Transhimalaja_Band_I_256_126.jpg"){#b0256_126}
+![126. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](Transhimalaja_Band_I_256_126.jpg "126. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo."){#b0256_126}
 ::::
 
 :::: {.wrap-70 .break-before }
-![127. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_256_127.jpg "Transhimalaja_Band_I_256_127.jpg"){#b0256_127}
+![127. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_256_127.jpg "127. Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo. Skizzen des Verfassers."){#b0256_127}
 ::::
 
 :::

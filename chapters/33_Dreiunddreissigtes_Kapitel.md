@@ -83,19 +83,19 @@ ganz Gewöhnliches; an ihrer dem Wind abgewandten Steilseite, der
 
 
 :::: {.break-before .w-40 .float-left }
-![172. Ein junger Lama.](Transhimalaja_Band_I_376_172.jpg "Transhimalaja_Band_I_376_172.jpg"){#b0376_172}
+![172. Ein junger Lama.](Transhimalaja_Band_I_376_172.jpg "172. Ein junger Lama."){#b0376_172}
 ::::
 
 :::: {.w-40 .float-right }
-![173. Lama in Tong. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_376_173.jpg "Transhimalaja_Band_I_376_173.jpg"){#b0376_173}
+![173. Lama in Tong. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_376_173.jpg "173. Lama in Tong. Skizzen des Verfassers"){#b0376_173}
 ::::
 
 :::: {.wrap-100 .break-before }
-![174. Aussicht vom Ta-la (5436 Meter) nach Südosten. Im Hintergrund das Brahmaputratal mit dem Himalaja. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_376_174.jpg "Transhimalaja_Band_I_376_174.jpg"){#b0376_174}
+![174. Aussicht vom Ta-la (5436 Meter) nach Südosten. Im Hintergrund das Brahmaputratal mit dem Himalaja. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_376_174.jpg "174. Aussicht vom Ta-la (5436 Meter) nach Südosten. Im Hintergrund das Brahmaputratal mit dem Himalaja. Skizze des Verfassers"){#b0376_174}
 ::::
 
 :::: {.wrap-100 }
-![175. Kettenbrücke über den Brahmaputra zum Kloster Pinsoling (rechts).](Transhimalaja_Band_I_376_175.jpg "Transhimalaja_Band_I_376_175.jpg"){#b0376_175}
+![175. Kettenbrücke über den Brahmaputra zum Kloster Pinsoling (rechts).](Transhimalaja_Band_I_376_175.jpg "175. Kettenbrücke über den Brahmaputra zum Kloster Pinsoling (rechts)."){#b0376_175}
 ::::
 
 Im Südwesten öffnet sich ein mächtiges Taltor, in dessen Hintergrund
@@ -443,35 +443,35 @@ zu haben wie die vier Geisterkönige und die gemalten wilden Tiere,
 nämlich böse Geistermächte fern zu halten.
 
 :::: {.break-before .w-40 .float-left}
-![176. Tarting-gumpa.](Transhimalaja_Band_I_384_176.jpg "Transhimalaja_Band_I_384_176.jpg"){#b0384_176}
+![176. Tarting-gumpa.](Transhimalaja_Band_I_384_176.jpg "176. Tarting-gumpa."){#b0384_176}
 ::::
 
 :::: {.w-40 .float-left}
-![177. Tarting-gumpa.](Transhimalaja_Band_I_384_177.jpg "Transhimalaja_Band_I_376_177.jpg"){#b0384_177}
+![177. Tarting-gumpa.](Transhimalaja_Band_I_384_177.jpg "177. Tarting-gumpa."){#b0384_177}
 ::::
 
 :::: {.wrap-100}
-![178. Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.](Transhimalaja_Band_I_384_178.jpg "Transhimalaja_Band_I_384_178.jpg"){#b0384_178}
+![178. Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.](Transhimalaja_Band_I_384_178.jpg "178. Inschrift und Buddhabild in Granit eingemeißelt bei Lingö."){#b0384_178}
 ::::
 
 :::: {.wrap-100}
-![179. Lung-gandän-gumpa bei Tong.](Transhimalaja_Band_I_384_179.jpg "Transhimalaja_Band_I_376_179.jpg"){#b0384_179}
+![179. Lung-gandän-gumpa bei Tong.](Transhimalaja_Band_I_384_179.jpg "179. Lung-gandän-gumpa bei Tong."){#b0384_179}
 ::::
 
 :::: {.wrap-100}
-![180. Linga-gumpa von oben. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_384_180.jpg "Transhimalaja_Band_I_384_180.jpg"){#b0384_180}
+![180. Linga-gumpa von oben. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_384_180.jpg "180. Linga-gumpa von oben. Skizzen des Verfassers"){#b0384_180}
 ::::
 
 :::: {.break-before .w-40 .float-left}
-![181. Bettler in Taschi-gembe.](Transhimalaja_Band_I_384_181.jpg "Transhimalaja_Band_I_384_181.jpg"){#b0384_181}
+![181. Bettler in Taschi-gembe.](Transhimalaja_Band_I_384_181.jpg "181. Bettler in Taschi-gembe."){#b0384_181}
 ::::
 
 :::: {.w-40 .float-right}
-![182. Wandernder Lama, in der Hand einen hölzernen Handschuh, wie sie gebraucht werden, um die Hände bei der Niederfall-Wanderung um den heiligen Berg Kailas zu schützen.](Transhimalaja_Band_I_384_182.jpg "Transhimalaja_Band_I_384_182.jpg"){#b0384_182}
+![182. Wandernder Lama, in der Hand einen hölzernen Handschuh, wie sie gebraucht werden, um die Hände bei der Niederfall-Wanderung um den heiligen Berg Kailas zu schützen.](Transhimalaja_Band_I_384_182.jpg "182. Wandernder Lama, in der Hand einen hölzernen Handschuh, wie sie gebraucht werden, um die Hände bei der Niederfall-Wanderung um den heiligen Berg Kailas zu schützen."){#b0384_182}
 ::::
 
 :::: {.wrap-50 }
-![183. Tibeter. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_384_183.jpg "Transhimalaja_Band_I_384_183.jpg"){#b0384_183}
+![183. Tibeter. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_384_183.jpg "183. Tibeter. Skizzen des Verfassers."){#b0384_183}
 ::::
 
 Unterhalb des Klosters stehen ganz dicht nebeneinander 24 Manis

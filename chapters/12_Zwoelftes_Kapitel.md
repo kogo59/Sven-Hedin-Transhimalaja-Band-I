@@ -217,11 +217,11 @@ Geschäfte.
 
 
 :::: {.wrap-100 .break-before }
-![78. .... Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten.](Transhimalaja_Band_I_136_78.jpg "Transhimalaja_Band_I_136_78.jpg"){#b0136_78}
+![78. .... Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten.](Transhimalaja_Band_I_136_78.jpg "78. .... Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten."){#b0136_78}
 ::::
 
 :::: {.wrap-100 }
-![79. Der wütende Yak stürzte sich auf Rehim Ali.](Transhimalaja_Band_I_136_79.jpg "Transhimalaja_Band_I_136_79.jpg"){#b0136_79}
+![79. Der wütende Yak stürzte sich auf Rehim Ali.](Transhimalaja_Band_I_136_79.jpg "79. Der wütende Yak stürzte sich auf Rehim Ali."){#b0136_79}
 ::::
 
 „Kannst du dich denn so lange auf die Treue deiner Frau verlassen?“ fragte ich ihn.

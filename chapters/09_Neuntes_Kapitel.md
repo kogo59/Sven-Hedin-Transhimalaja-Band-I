@@ -348,11 +348,11 @@ Schreck! Ich meinerseits packe meine Aufzeichnungen und Skizzenbücher
 in eine kleine Tasche.
 
 :::: {.wrap-60 .break-before }
-![59. Rehim Ali aus Ladak.](Transhimalaja_Band_I_104_59.jpg "Transhimalaja_Band_I_104_59.jpg"){#b0104_59}
+![59. Rehim Ali aus Ladak.](Transhimalaja_Band_I_104_59.jpg "59. Rehim Ali aus Ladak."){#b0104_59}
 ::::
 
 :::: {.wrap-50 .break-before }
-![60. Robert.](Transhimalaja_Band_I_104_60.jpg "Transhimalaja_Band_I_104_60.jpg"){#b0104_60}
+![60. Robert.](Transhimalaja_Band_I_104_60.jpg "60. Robert."){#b0104_60}
 ::::
 
 Aber, was ist das? Ich höre ein donnerndes Brausen, das das

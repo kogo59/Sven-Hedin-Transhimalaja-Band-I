@@ -135,11 +135,11 @@ aufbrechen wolle, aber nach Nordwesten, wenn Gaw mir eine genügend
 große Karawane besorgen könne!
 
 :::: {.wrap-70 .break-before }
-![164. Der Herzog Kung Guschuk, Bruder des Taschi-Lama.](Transhimalaja_Band_I_352_164.jpg "Transhimalaja_Band_I_352_164.jpg"){#b0352_164}
+![164. Der Herzog Kung Guschuk, Bruder des Taschi-Lama.](Transhimalaja_Band_I_352_164.jpg "164. Der Herzog Kung Guschuk, Bruder des Taschi-Lama."){#b0352_164}
 ::::
 
 :::: {.wrap-70 .break-before }
-![165. Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](Transhimalaja_Band_I_352_165.jpg "Transhimalaja_Band_I_352_165.jpg"){#b0352_165}
+![165. Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](Transhimalaja_Band_I_352_165.jpg "165. Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama."){#b0352_165}
 ::::
 
 Am 1. März besuchte mich Ma. Er war ganz außer sich. Der
@@ -501,11 +501,11 @@ Mutter wie die Kleinen befanden sich den Umständen nach wohl“, wie
 es in vornehmeren Bulletins heißt.
 
 :::: {.wrap-100 .break-before }
-![166. Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](Transhimalaja_Band_I_360_166.jpg "Transhimalaja_Band_I_360_166.jpg"){#b0360_166}
+![166. Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](Transhimalaja_Band_I_360_166.jpg "166. Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend)."){#b0360_166}
 ::::
 
 :::: {.wrap-70 .break-before }
-![167. Der jüngste Bruder des Taschi-Lama mit einem Diener.](Transhimalaja_Band_I_360_167.jpg "Transhimalaja_Band_I_360_167.jpg"){#b0360_167}
+![167. Der jüngste Bruder des Taschi-Lama mit einem Diener.](Transhimalaja_Band_I_360_167.jpg "167. Der jüngste Bruder des Taschi-Lama mit einem Diener."){#b0360_167}
 ::::
 
 Währenddessen herrschte auf unserem Hofe ein fürchterlich eifriges

@@ -267,19 +267,19 @@ danach, wo die Gebeine der Toten bleichen, denn da hausen böse
 Geister.
 
 :::: {.wrap-100 .break-before }
-![88. Der improvisierte Schlitten auf dem Ngangtse-tso.](Transhimalaja_Band_I_168_88.jpg "Transhimalaja_Band_I_168_88.jpg"){#b0168_88}
+![88. Der improvisierte Schlitten auf dem Ngangtse-tso.](Transhimalaja_Band_I_168_88.jpg "88. Der improvisierte Schlitten auf dem Ngangtse-tso."){#b0168_88}
 ::::
 
 :::: {.wrap-100 }
-![89. Transport über den See.](Transhimalaja_Band_I_168_89.jpg "Transhimalaja_Band_I_168_89.jpg"){#b0168_89}
+![89. Transport über den See.](Transhimalaja_Band_I_168_89.jpg "89. Transport über den See."){#b0168_89}
 ::::
 
 :::: {.wrap-100 }
-![90. Rast auf dem Eise.](Transhimalaja_Band_I_168_90.jpg "Transhimalaja_Band_I_168_90.jpg"){#b0168_90}
+![90. Rast auf dem Eise.](Transhimalaja_Band_I_168_90.jpg "90. Rast auf dem Eise."){#b0168_90}
 ::::
 
 :::: {.wrap-70 .break-before }
-![91. Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngangtse-tso.](Transhimalaja_Band_I_168_91.jpg "Transhimalaja_Band_I_168_91.jpg"){#b0168_91}
+![91. Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngangtse-tso.](Transhimalaja_Band_I_168_91.jpg "91. Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngangtse-tso."){#b0168_91}
 ::::
 
 14.&nbsp;November. Windstille! Allerdings hatten wir über Nacht wieder

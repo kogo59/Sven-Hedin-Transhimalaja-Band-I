@@ -258,19 +258,19 @@ eröffnet; aber solange ich in seiner Zelle verweilte, geschahen keine
 unheimlichen Wunder und Zeichen.
 
 :::: {.wrap-100 .break-before }
-![168. Wandernde Nonne mit Tanka, eine religiöse Legende darstellend. Sie singt die erklärenden Worte dazu. (In meinem Garten in Schigatse.)](Transhimalaja_Band_I_368_168.jpg "Transhimalaja_Band_I_368_168.jpg"){#b0368_168}
+![168. Wandernde Nonne mit Tanka, eine religiöse Legende darstellend. Sie singt die erklärenden Worte dazu. (In meinem Garten in Schigatse.)](Transhimalaja_Band_I_368_168.jpg "168. Wandernde Nonne mit Tanka, eine religiöse Legende darstellend. Sie singt die erklärenden Worte dazu. (In meinem Garten in Schigatse.)"){#b0368_168}
 ::::
 
 :::: {.wrap-100 }
-![169. Tarting-gumpa.](Transhimalaja_Band_I_368_169.jpg "Transhimalaja_Band_I_368_169.jpg"){#b0368_169}
+![169. Tarting-gumpa.](Transhimalaja_Band_I_368_169.jpg "169. Tarting-gumpa."){#b0368_169}
 ::::
 
 :::: {.wrap-100 .break-before }
-![170. Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.<small>Skizze des Verfassers</small>](Transhimalaja_Band_I_368_170.jpg "Transhimalaja_Band_I_368_170.jpg"){#b0368_170}
+![170. Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.<small>Skizze des Verfassers</small>](Transhimalaja_Band_I_368_170.jpg "170. Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.Skizze des Verfassers"){#b0368_170}
 ::::
 
 :::: {.wrap-100 }
-![171. Das Nonnenkloster von Gandän-tschöding.](Transhimalaja_Band_I_368_171.jpg "Transhimalaja_Band_I_368_171.jpg"){#b0368_171}
+![171. Das Nonnenkloster von Gandän-tschöding.](Transhimalaja_Band_I_368_171.jpg "171. Das Nonnenkloster von Gandän-tschöding."){#b0368_171}
 ::::
 
 Ich selber dachte des wunderlichen Menschenschicksals, das gestern

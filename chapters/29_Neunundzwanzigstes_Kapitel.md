@@ -157,23 +157,23 @@ kurzgeschorenes weißes Haar und war dürr wie altes, gelbes, zerknittertes
 Pergament.
 
 :::: {.wrap-40 .break-before .float-left }
-![149. Pilgerin aus Nam-tso.](Transhimalaja_Band_I_328_149.jpg "Transhimalaja_Band_I_320_149.jpg"){#b0328_149}
+![149. Pilgerin aus Nam-tso.](Transhimalaja_Band_I_328_149.jpg "149. Pilgerin aus Nam-tso."){#b0328_149}
 ::::
 
 :::: {.wrap-40 .float-right }
-![150. Lama mit Teekanne.](Transhimalaja_Band_I_328_150.jpg "Transhimalaja_Band_I_320_150.jpg"){#b0328_150}
+![150. Lama mit Teekanne.](Transhimalaja_Band_I_328_150.jpg "150. Lama mit Teekanne."){#b0328_150}
 ::::
 
 :::: {.wrap-40 .break-before  .float-left }
-![151. Der Tee wird zu den Zellen der Mönche gebracht.](Transhimalaja_Band_I_328_151.jpg "Transhimalaja_Band_I_320_151.jpg"){#b0328_151}
+![151. Der Tee wird zu den Zellen der Mönche gebracht.](Transhimalaja_Band_I_328_151.jpg "151. Der Tee wird zu den Zellen der Mönche gebracht."){#b0328_151}
 ::::
 
 :::: {.wrap-40 .float-right .break-after}
-![152. Bettelnder Lama. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_328_152.jpg "Transhimalaja_Band_I_320_152.jpg"){#b0328_152}
+![152. Bettelnder Lama. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_328_152.jpg "152. Bettelnder Lama. Skizzen des Verfassers."){#b0328_152}
 ::::
 
 :::: {.wrap-70 }
-![153. Straße mit Lamas in Taschi-lunpo.](Transhimalaja_Band_I_328_153.jpg "Transhimalaja_Band_I_320_143.jpg"){#b0328_153}
+![153. Straße mit Lamas in Taschi-lunpo.](Transhimalaja_Band_I_328_153.jpg "153. Straße mit Lamas in Taschi-lunpo."){#b0328_153}
 ::::
 
 Beim Eintreten hat man zur Rechten an der Querwand ein Bücherregal
@@ -508,15 +508,15 @@ von Pietät für seinen toten Leib und nicht mehr Abscheu vor dem Messer
 des Totenzerstücklers als wir vor dem des Arztes am Seziertisch.
 
 :::: {.wrap-100 .break-before }
-![154. Tschorten in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_336_154.jpg "Transhimalaja_Band_I_336_154.jpg"){#b0336_154}
+![154. Tschorten in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_336_154.jpg "154. Tschorten in Taschi-lunpo. Skizze des Verfassers."){#b0336_154}
 ::::
 
 :::: {.wrap-100 .break-before }
-![155. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](Transhimalaja_Band_I_336_155.jpg "Transhimalaja_Band_I_336_155.jpg"){#b0336_155}
+![155. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](Transhimalaja_Band_I_336_155.jpg "155. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa)."){#b0336_155}
 ::::
 
 :::: {.wrap-100 }
-![156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa). <small>In 156 rechts ein Miniaturtschorten, heilige Bücher, Tempelgefäße, an beiden Seiten des kleinen Altartisches Holzmatrizen, mit welchen die heiligen Bücher gedruckt werden.</small>](Transhimalaja_Band_I_336_156.jpg "Transhimalaja_Band_I_336_156.jpg"){#b0336_156}
+![156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa). <small>In 156 rechts ein Miniaturtschorten, heilige Bücher, Tempelgefäße, an beiden Seiten des kleinen Altartisches Holzmatrizen, mit welchen die heiligen Bücher gedruckt werden.</small>](Transhimalaja_Band_I_336_156.jpg "156. Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa). In 156 rechts ein Miniaturtschorten, heilige Bücher, Tempelgefäße, an beiden Seiten des kleinen Altartisches Holzmatrizen, mit welchen die heiligen Bücher gedruckt werden."){#b0336_156}
 ::::
 
 :::

@@ -134,11 +134,11 @@ seinen Stand geführt. Im anderen Falle konnte der Verkäufer seiner
 Wege gehen, kam aber gewöhnlich schon am nächsten Tage wieder.
 
 :::: {.wrap-60  .break-before }
-![32. Muhamed Isa, mein unvergeßlicher Karawanenführer; gest. in Saka-dsong, 1. Juni 1907.](Transhimalaja_Band_I_44_32.jpg "Transhimalaja_Band_I_44_32.jpg"){#b044_32}
+![32. Muhamed Isa, mein unvergeßlicher Karawanenführer; gest. in Saka-dsong, 1. Juni 1907.](Transhimalaja_Band_I_44_32.jpg "32. Muhamed Isa, mein unvergeßlicher Karawanenführer; gest. in Saka-dsong, 1. Juni 1907."){#b044_32}
 ::::
 
 :::: {.wrap-60  .break-before }
-![33. Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte.](Transhimalaja_Band_I_44_33.jpg "Transhimalaja_Band_I_44_33.jpg"){#b044_33}
+![33. Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte.](Transhimalaja_Band_I_44_33.jpg "33. Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte."){#b044_33}
 ::::
 
 Im ganzen wurden 58 Pferde gekauft, und Robert machte ein
@@ -338,15 +338,15 @@ mit Rat und Tat. Er starb ein Jahr darauf in Leh nach einem der
 leidenden Menschheit geweihten Leben.
 
 :::: {.wrap-100  .break-before }
-![34. Palast der alten Könige von Ladak in Leh. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_48_34.jpg "Transhimalaja_Band_I_48_34.jpg"){#b048_34}
+![34. Palast der alten Könige von Ladak in Leh. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_48_34.jpg "34. Palast der alten Könige von Ladak in Leh. Skizzen des Verfassers."){#b048_34}
 ::::
 
 :::: {.wrap-100  }
-![35. Palast der alten Könige von Ladak in Leh. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_48_35.jpg "Transhimalaja_Band_I_48_35.jpg"){#b048_35}
+![35. Palast der alten Könige von Ladak in Leh. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_48_35.jpg "35. Palast der alten Könige von Ladak in Leh. Skizzen des Verfassers."){#b048_35}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![36. Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh.](Transhimalaja_Band_I_48_36.jpg "Transhimalaja_Band_I_48_36.jpg"){#b048_36}
+![36. Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh.](Transhimalaja_Band_I_48_36.jpg "36. Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh."){#b048_36}
 ::::
 
 Viele meiner schönsten Erinnerungen aus den langen, in Asien verlebten

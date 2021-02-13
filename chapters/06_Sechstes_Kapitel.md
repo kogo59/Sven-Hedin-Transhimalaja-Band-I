@@ -299,19 +299,19 @@ Begleitern, Robert, Rehim Ali, einem unserer Mohammedaner,
 und den beiden Führern aus Tankse und Pobrang aufbrach.
 
 :::: {.wrap-100 .break-before  }
-![45. Lunkar mit dem Weg zum Marsimik-la.](Transhimalaja_Band_I_72_45.jpg "Transhimalaja_Band_I_72_45.jpg"){#b072_45}
+![45. Lunkar mit dem Weg zum Marsimik-la.](Transhimalaja_Band_I_72_45.jpg "45. Lunkar mit dem Weg zum Marsimik-la."){#b072_45}
 ::::
 
 :::: {.wrap-100   .break-before}
-![46. Lagerfeuer im Spanglung-Tal.](Transhimalaja_Band_I_72_46.jpg "Transhimalaja_Band_I_72_46.jpg"){#b072_46}
+![46. Lagerfeuer im Spanglung-Tal.](Transhimalaja_Band_I_72_46.jpg "46. Lagerfeuer im Spanglung-Tal."){#b072_46}
 ::::
 
 :::: {.wrap-100   .break-before}
-![47. Spanglung-Tal.](Transhimalaja_Band_I_72_47.jpg "Transhimalaja_Band_I_72_47.jpg"){#b072_47}
+![47. Spanglung-Tal.](Transhimalaja_Band_I_72_47.jpg "47. Spanglung-Tal."){#b072_47}
 ::::
 
 :::: {.wrap-100   .break-before}
-![48. Meine Pferde im Kara-korum-Gebirge.](Transhimalaja_Band_I_72_48.jpg "Transhimalaja_Band_I_72_48.jpg"){#b072_48}
+![48. Meine Pferde im Kara-korum-Gebirge.](Transhimalaja_Band_I_72_48.jpg "48. Meine Pferde im Kara-korum-Gebirge."){#b072_48}
 ::::
 
 Die linke Uferterrasse, auf der wir reiten, wird von einem Arm

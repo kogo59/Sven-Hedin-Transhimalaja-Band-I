@@ -1,7 +1,7 @@
 # {epub:type=afterword}          
 
 :::: {.wrap-90 }
-![](Transhimalaja_Band_I_Uebersichtskarte.jpg "Transhimalaja_Band_I_Uebersichtskarte.jpg"){#b0405 .portrait }
+![](Transhimalaja_Band_I_Uebersichtskarte.jpg ""){#b0405 .portrait }
 ::::
 
 :::: { .break-before .fs-xxs .align-center  }
@@ -10,9 +10,9 @@ Druck von F. A. Brockhaus, Leipzig.
 ::::
 
 :::: {.wrap-100 .align-center }
-![](cover1.jpg "cover1.jpg"){#cover}
+![](cover1.jpg ""){#cover}
 ::::
 
 :::: {.wrap-100  .align-center }
-![](cover2.jpg "cover2.jpg"){#cover2}
+![](cover2.jpg ""){#cover2}
 ::::

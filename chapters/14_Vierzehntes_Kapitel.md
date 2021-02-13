@@ -298,11 +298,11 @@ die Leute, die ihre Spur verfolgten, sie bei Tagesanbruch eine gute
 Tagereise von unserem Lager entfernt wieder.
 
 :::: {.wrap-100 .break-before }
-![86. Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_160_86.jpg "Transhimalaja_Band_I_160_86.jpg"){#b0160_86}
+![86. Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_160_86.jpg "86. Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso. Skizze des Verfassers"){#b0160_86}
 ::::
 
 :::: {.wrap-100 }
-![87. Tibetischer Gruß.](Transhimalaja_Band_I_160_87.jpg "Transhimalaja_Band_I_160_87.jpg"){#b0160_87}
+![87. Tibetischer Gruß.](Transhimalaja_Band_I_160_87.jpg "87. Tibetischer Gruß."){#b0160_87}
 ::::
 
 Am 10. November hatten wir wieder gutes Terrain und sahen in

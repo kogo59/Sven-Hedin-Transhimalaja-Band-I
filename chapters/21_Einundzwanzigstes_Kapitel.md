@@ -203,11 +203,11 @@ hatte. Wir konnten ihnen über die Gesellschaft, der wir gestern begegnet
 waren, Auskunft geben, und sie ritten sehr dankbar talaufwärts weiter.
 
 :::: {.wrap-100 .break-before }
-![121. Audienzzimmer des Tashi-Lama.](Transhimalaja_Band_I_240_121.jpg "Transhimalaja_Band_I_240_121.jpg"){#b0240_121}
+![121. Audienzzimmer des Tashi-Lama.](Transhimalaja_Band_I_240_121.jpg "121. Audienzzimmer des Tashi-Lama."){#b0240_121}
 ::::
 
 :::: {.wrap-100 }
-![122. Ansicht von Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_240_122.jpg "Transhimalaja_Band_I_240_122.jpg"){#b0240_122}
+![122. Ansicht von Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_240_122.jpg "122. Ansicht von Taschi-lunpo. Skizze des Verfassers."){#b0240_122}
 ::::
 
 30.&nbsp;Januar. Morgens fanden sich unsere neuen Freunde mit ihren

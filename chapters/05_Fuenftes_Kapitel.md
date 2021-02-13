@@ -73,15 +73,15 @@ an, mein Zelt zu bewachen, wo sie wütend kläffen, sobald sie etwas
 Verdächtiges wittern.
 
 :::: {.wrap-100 .break-before  }
-![37. Tikse-gumpa, Männerkloster in Ladak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_37.jpg "Transhimalaja_Band_I_56_37.jpg"){#b056_37}
+![37. Tikse-gumpa, Männerkloster in Ladak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_37.jpg "37. Tikse-gumpa, Männerkloster in Ladak. Skizze des Verfassers."){#b056_37}
 ::::
 
 :::: {.wrap-70   }
-![38. Vornehmer Lama. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_38.jpg "Transhimalaja_Band_I_56_38.jpg"){#b056_38}
+![38. Vornehmer Lama. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_38.jpg "38. Vornehmer Lama. Skizze des Verfassers."){#b056_38}
 ::::
 
 :::: {.wrap-70   }
-![39. Der Radscha von Stogh, letzter Exkönig von Ladak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_39.jpg "Transhimalaja_Band_I_56_39.jpg"){#b056_39}
+![39. Der Radscha von Stogh, letzter Exkönig von Ladak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_56_39.jpg "39. Der Radscha von Stogh, letzter Exkönig von Ladak. Skizze des Verfassers."){#b056_39}
 ::::
 
 Kaum eine halbe Stunde, nachdem das Lager in Ordnung ist,
@@ -438,23 +438,23 @@ werden wieder fortgespült, sobald die Frühlingsflut einsetzt.
 
 
 :::: {.wrap-100 .break-before  }
-![40. Von Singrul nach dem Passe Tschang-la. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_40.jpg "Transhimalaja_Band_I_64_40.jpg"){#b064_40}
+![40. Von Singrul nach dem Passe Tschang-la. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_40.jpg "40. Von Singrul nach dem Passe Tschang-la. Skizze des Verfassers."){#b064_40}
 ::::
 
 :::: {.wrap-100 }
-![41. Aussicht von Soltak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_41.jpg "Transhimalaja_Band_I_64_41.jpg"){#b064_41}
+![41. Aussicht von Soltak. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_41.jpg "41. Aussicht von Soltak. Skizze des Verfassers."){#b064_41}
 ::::
 
 :::: {.wrap-100  }
-![42. Drugub. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_42.jpg "Transhimalaja_Band_I_64_42.jpg"){#b064_42}
+![42. Drugub. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_64_42.jpg "42. Drugub. Skizze des Verfassers."){#b064_42}
 ::::
 
 :::: {.wrap-70 .break-before  }
-![43. Mein alter Freund Hiraman aus Ladak.](Transhimalaja_Band_I_64_43.jpg "Transhimalaja_Band_I_64_43.jpg"){#b064_43}
+![43. Mein alter Freund Hiraman aus Ladak.](Transhimalaja_Band_I_64_43.jpg "43. Mein alter Freund Hiraman aus Ladak."){#b064_43}
 ::::
 
 :::: {.wrap-70 .break-before  }
-![44. Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse.](Transhimalaja_Band_I_64_44.jpg "Transhimalaja_Band_I_64_44.jpg"){#b064_44}
+![44. Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse.](Transhimalaja_Band_I_64_44.jpg "44. Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse."){#b064_44}
 ::::
 
 Lukkong^[^0216]^ ist ein kleines Dorf mit ein paar Steinhütten, einem Gerstenfeld,

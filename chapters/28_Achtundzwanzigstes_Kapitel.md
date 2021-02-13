@@ -37,11 +37,11 @@ uns den üblichen Imbiß vor. Es ist ein alter Lama, der nach vorbereitenden
 Studien im Kloster Tösang-ling schon 30 Jahre in Taschi-lunpo dient.
 
 :::: {.wrap-100 .break-before }
-![144. Die große rote Galerie von Taschi-lunpo von außen.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_312_144.jpg "Transhimalaja_Band_I_312_144.jpg"){#b0312_144}
+![144. Die große rote Galerie von Taschi-lunpo von außen.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_312_144.jpg "144. Die große rote Galerie von Taschi-lunpo von außen.Skizze des Verfassers."){#b0312_144}
 ::::
 
 :::: {.wrap-100 }
-![145. Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_312_145.jpg "Transhimalaja_Band_I_312_145.jpg"){#b0312_145}
+![145. Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_312_145.jpg "145. Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.Skizze des Verfassers."){#b0312_145}
 ::::
 
 Von unserem Aussichtspunkt aus sehen wir mehrere kleinere,
@@ -400,15 +400,15 @@ umwickelt ist. Mit seiner Hand segnet er bloß vornehme Leute und
 Mönche.
 
 :::: {.wrap-70 .break-before }
-![146. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](Transhimalaja_Band_I_320_146.jpg "Transhimalaja_Band_I_320_146.jpg"){#b0320_146}
+![146. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](Transhimalaja_Band_I_320_146.jpg "146. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama."){#b0320_146}
 ::::
 
 :::: {.wrap-100  }
-![147. Pilger in einem Portal in Taschi-lunpo.](Transhimalaja_Band_I_320_147.jpg "Transhimalaja_Band_I_320_147.jpg"){#b0320_147}
+![147. Pilger in einem Portal in Taschi-lunpo.](Transhimalaja_Band_I_320_147.jpg "147. Pilger in einem Portal in Taschi-lunpo."){#b0320_147}
 ::::
 
 :::: {.wrap-100  }
-![148. Eine Klosterküche in Taschi-lunpo. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_320_148.jpg "Transhimalaja_Band_I_320_148.jpg"){#b0320_148}
+![148. Eine Klosterküche in Taschi-lunpo. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_320_148.jpg "148. Eine Klosterküche in Taschi-lunpo. Skizze des Verfassers"){#b0320_148}
 ::::
 
 Unter den Pilgern sah man sowohl Laien als Geistliche. Ich

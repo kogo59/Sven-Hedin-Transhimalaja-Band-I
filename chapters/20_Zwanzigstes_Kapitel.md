@@ -124,19 +124,19 @@ man euch behandeln wird, weiß ich nicht; ich selber bin um unserer alten
 Freundschaft willen soweit gegangen, wie es mir möglich war.“
 
 :::: {.wrap-100 .break-before }
-![112. Lama mit Muscheltrompete.](Transhimalaja_Band_I_224_112.jpg "Transhimalaja_Band_I_224_112.jpg"){#b0224_112}
+![112. Lama mit Muscheltrompete.](Transhimalaja_Band_I_224_112.jpg "112. Lama mit Muscheltrompete."){#b0224_112}
 ::::
 
 :::: {.wrap-100 }
-![113. Lama mit Flöte. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_224_113.jpg "Transhimalaja_Band_I_224_113.jpg"){#b0224_113}
+![113. Lama mit Flöte. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_224_113.jpg "113. Lama mit Flöte. Skizzen des Verfassers."){#b0224_113}
 ::::
 
 :::: {.wrap-70 .break-before }
-![114. Lama mit Tempeltrommel.](Transhimalaja_Band_I_224_114.jpg "Transhimalaja_Band_I_224_114.jpg"){#b0224_114}
+![114. Lama mit Tempeltrommel.](Transhimalaja_Band_I_224_114.jpg "114. Lama mit Tempeltrommel."){#b0224_114}
 ::::
 
 :::: {.wrap-70 }
-![115. Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_224_115.jpg "Transhimalaja_Band_I_224_115.jpg"){#b0224_115}
+![115. Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_224_115.jpg "115. Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke). Skizzen des Verfassers."){#b0224_115}
 ::::
 
 Darauf machte ich ihm wieder einen Gegenbesuch. Einige der
@@ -500,23 +500,23 @@ Beständige Stürme und ungeheure Wolkenmassen mit Schnee oder ohne
 Schnee — das war das charakteristische Wetter im Januar.
 
 :::: {.wrap-100 .break-before }
-![116. Maskierte Lamas (in Hemi-gumpa, Ladak).](Transhimalaja_Band_I_232_116.jpg "Transhimalaja_Band_I_232_116.jpg"){#b0232_116}
+![116. Maskierte Lamas (in Hemi-gumpa, Ladak).](Transhimalaja_Band_I_232_116.jpg "116. Maskierte Lamas (in Hemi-gumpa, Ladak)."){#b0232_116}
 ::::
 
 :::: { .wrap-100 }
-![117. Maskierte Lamas (in Hemi-gumpa, Ladak).](Transhimalaja_Band_I_232_117.jpg "Transhimalaja_Band_I_232_117.jpg"){#b0232_117}
+![117. Maskierte Lamas (in Hemi-gumpa, Ladak).](Transhimalaja_Band_I_232_117.jpg "117. Maskierte Lamas (in Hemi-gumpa, Ladak)."){#b0232_117}
 ::::
 
 :::: { .wrap-50 .break-before }
-![118. Lamas in Tanzmasken.](Transhimalaja_Band_I_232_118.jpg "Transhimalaja_Band_I_232_118.jpg"){#b0232_118}
+![118. Lamas in Tanzmasken.](Transhimalaja_Band_I_232_118.jpg "118. Lamas in Tanzmasken."){#b0232_118}
 ::::
 
 :::: { .wrap-50 }
-![119. Lamas in Tanzmasken.](Transhimalaja_Band_I_232_119.jpg "Transhimalaja_Band_I_232_119.jpg"){#b0232_119}
+![119. Lamas in Tanzmasken.](Transhimalaja_Band_I_232_119.jpg "119. Lamas in Tanzmasken."){#b0232_119}
 ::::
 
 :::: { .wrap-50 }
-![120. Lamas in Tanzmasken. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_232_120.jpg "Transhimalaja_Band_I_232_120.jpg"){#b0232_120}
+![120. Lamas in Tanzmasken. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_232_120.jpg "120. Lamas in Tanzmasken. Skizzen des Verfassers."){#b0232_120}
 ::::
 
 Der Pongtschen-la (5371 Meter) ist eine flache Paßschwelle und

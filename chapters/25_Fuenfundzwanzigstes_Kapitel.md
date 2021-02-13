@@ -212,15 +212,15 @@ Taschi-Lama auch den Hauptmann Fitzgerald, Lord Kitcheners Adjutanten,
 und Herrn David Fraser.
 
 :::: {.wrap-100 .break-before }
-![135. Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.](Transhimalaja_Band_I_288_135.jpg "Transhimalaja_Band_I_288_135.jpg"){#b0288_135}
+![135. Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.](Transhimalaja_Band_I_288_135.jpg "135. Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten."){#b0288_135}
 ::::
 
 :::: {.wrap-100 .break-before}
-![136. Lama in Taschi-lunpo. 137. Bürger in Schigatse.](Transhimalaja_Band_I_288_136_137.jpg "Transhimalaja_Band_I_288_136_137.jpg"){#b0288_136_137}
+![136. Lama in Taschi-lunpo. 137. Bürger in Schigatse.](Transhimalaja_Band_I_288_136_137.jpg "136. Lama in Taschi-lunpo. 137. Bürger in Schigatse."){#b0288_136_137}
 ::::
 
 :::: {.wrap-100 }
-![138. Chinesischer Kaufmann in Schigatse. 139. Pförtner im Tempel des Tsongkapa. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_288_138_139.jpg "Transhimalaja_Band_I_288_138_139.jpg"){#b0288_138_139}
+![138. Chinesischer Kaufmann in Schigatse. 139. Pförtner im Tempel des Tsongkapa. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_I_288_138_139.jpg "138. Chinesischer Kaufmann in Schigatse. 139. Pförtner im Tempel des Tsongkapa. Skizzen des Verfassers"){#b0288_138_139}
 ::::
 
 Von den beiden Oberpriestern der Gelbmützen sagt Koeppen^[^0453]^: „Von

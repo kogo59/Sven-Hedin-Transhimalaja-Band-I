@@ -128,7 +128,7 @@ Simla^[^0054]^, Palast des Vizekönigs, 6. Juli 1905.
 |         Ich kann nicht voraussagen, was für eine Haltung die tibetische
 |     Regierung zur Zeit Ihres Eintreffens in Indien annehmen wird; sollte
 |     sie dauernd eine freundliche bleiben, werde ich natürlich versuchen, Ihnen
-|     die notwendige Erlaubnis, einen Paß und sicheres Geleit zu verschaffen.
+|     die notwendige Erlaubnis, einen Paß und sicheresg Geleit zu verschaffen.
 |         Mit der Versicherung, daß es mir die größte Freude bereitet, Ihre
 |     Pläne auf jede Weise zu unterstützen, bin ich
 |                                              Ihr ergebener
@@ -376,11 +376,11 @@ nur erst Mr. John Morley unterkriegen — mit Tibet wollte ich dann
 schon so oder so fertig werden!
 
 :::: {.wrap-100 .break-before }
-![2. Simla (2159&nbsp;m) mit dem Sommerpalast des Vizekönigs.](Transhimalaja_Band_I_8.jpg "Transhimalaja_Band_I_8.jpg"){#b008}
+![2. Simla (2159&nbsp;m) mit dem Sommerpalast des Vizekönigs.](Transhimalaja_Band_I_8.jpg "2. Simla (2159"2. Simla (2159"Transhimalaja_Band_I_8.jpg"nbsp;m) mit dem Sommerpalast des Vizekönigs."nbsp;m) mit dem Sommerpalast des Vizekönigs."){#b008}
 ::::
 
 :::: {.wrap-100 .break-before}
-![3. Palast des Vizekönigs in Simla.](Transhimalaja_Band_I_9.jpg "Transhimalaja_Band_I_9.jpg"){#b009}
+![3. Palast des Vizekönigs in Simla.](Transhimalaja_Band_I_9.jpg "3. Palast des Vizekönigs in Simla."){#b009}
 ::::
 
 Die Hoffnung ist das letzte, was man aufgibt, und so hoffte ich
@@ -538,15 +538,15 @@ Worten: „Poor fools!“ („Arme Teufel!“) Die Hand der ersten Lady
 Minto hat sie geschrieben.
 
 :::: {.wrap-60 .break-before }
-![4. Herbert Viscount Kitchener of Khartoum, <small>Oberbefehlshaber des indischen Heeres.</small>](Transhimalaja_Band_I_12.jpg "Transhimalaja_Band_I_12.jpg"){#b012}
+![4. Herbert Viscount Kitchener of Khartoum, <small>Oberbefehlshaber des indischen Heeres.</small>](Transhimalaja_Band_I_12.jpg "4. Herbert Viscount Kitchener of Khartoum, Oberbefehlshaber des indischen Heeres."){#b012}
 ::::
 
 :::: {.wrap-60 .break-before }
-![5. Oberst Sir Francis Younghusband.](Transhimalaja_Band_I_13b.jpg "Transhimalaja_Band_I_13b.jpg"){#b013b}
+![5. Oberst Sir Francis Younghusband.](Transhimalaja_Band_I_13b.jpg "5. Oberst Sir Francis Younghusband."){#b013b}
 ::::
 
 :::: {.wrap-60 .break-before }
-![6.  Oberst J. R. Dunlop Smith, Chef der englischen Tibetexpedition, Resident in Kaschmir. Privatsekretär des Vizekönigs.](Transhimalaja_Band_I_13a.jpg "Transhimalaja_Band_I_13a.jpg"){#b013a}
+![6.  Oberst J. R. Dunlop Smith, Chef der englischen Tibetexpedition, Resident in Kaschmir. Privatsekretär des Vizekönigs.](Transhimalaja_Band_I_13a.jpg "6.  Oberst J. R. Dunlop Smith, Chef der englischen Tibetexpedition, Resident in Kaschmir. Privatsekretär des Vizekönigs."){#b013a}
 ::::
 
 Nun aber blüht das Leben in einer neuen Familie Minto. Behaglichkeit,
@@ -719,10 +719,10 @@ knarren auf dem Sande des Hofes, die elektrischen Lichter erlöschen, und
 es wird wieder still im Palast.
 
 :::: {.wrap-100 .break-before }
-![7. Lady Minto und der Verfasser auf der Terrasse des vizeköniglichen Palastes.](Transhimalaja_Band_I_16.jpg "Transhimalaja_Band_I_16.jpg"){#b016}
+![7. Lady Minto und der Verfasser auf der Terrasse des vizeköniglichen Palastes.](Transhimalaja_Band_I_16.jpg "7. Lady Minto und der Verfasser auf der Terrasse des vizeköniglichen Palastes."){#b016}
 ::::
 :::: {.wrap-60 .break-before }
-![8. Seine Hoheit Sir Pratab Sing, Maharadscha von Kaschmir und Dschamu.^[^0085]^](Transhimalaja_Band_I_17.jpg "Transhimalaja_Band_I_17.jpg"){#b017}
+![8. Seine Hoheit Sir Pratab Sing, Maharadscha von Kaschmir und Dschamu.^[^0085]^](Transhimalaja_Band_I_17.jpg "8. Seine Hoheit Sir Pratab Sing, Maharadscha von Kaschmir und Dschamu."){#b017}
 ::::
 
 Lord Kitcheners Residenz liegt am Ende der Stadt Simla und
@@ -808,10 +808,10 @@ zerronnenen Hoffnungen.
 ::::
 
 :::: {.wrap-100 .break-before }
-![9. Am Dschihlam in Srinagar.](Transhimalaja_Band_I_18.jpg "Transhimalaja_Band_I_18.jpg"){#b018}
+![9. Am Dschihlam in Srinagar.](Transhimalaja_Band_I_18.jpg "9. Am Dschihlam in Srinagar."){#b018}
 ::::
 :::: {.wrap-100 .break-before }
-![10. Palast Sr. Hoheit des Maharadscha von Kaschmir und Dschamu in Srinagar.](Transhimalaja_Band_I_19.jpg "Transhimalaja_Band_I_19.jpg"){#b019}
+![10. Palast Sr. Hoheit des Maharadscha von Kaschmir und Dschamu in Srinagar.](Transhimalaja_Band_I_19.jpg "10. Palast Sr. Hoheit des Maharadscha von Kaschmir und Dschamu in Srinagar."){#b019}
 ::::
 
 

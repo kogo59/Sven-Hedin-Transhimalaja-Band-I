@@ -348,15 +348,15 @@ zeichnen, Typen und Volkstrachten studieren, und doch immer neue Motive
 finden; man trauert bei dem Gedanken an den baldigen Aufbruch.
 
 :::: {.wrap-100 .break-before }
-![157. Vorlesung für Novizen in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_344_157.jpg "Transhimalaja_Band_I_344_157.jpg"){#b0344_157}
+![157. Vorlesung für Novizen in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_344_157.jpg "157. Vorlesung für Novizen in Taschi-lunpo. Skizze des Verfassers."){#b0344_157}
 ::::
 
 :::: {.wrap-100 .break-before }
-![158. Pilger aus Kamba-dsong.](Transhimalaja_Band_I_344_158.jpg "Transhimalaja_Band_I_344_158.jpg"){#b0344_158}
+![158. Pilger aus Kamba-dsong.](Transhimalaja_Band_I_344_158.jpg "158. Pilger aus Kamba-dsong."){#b0344_158}
 ::::
 
 :::: {.wrap-100 }
-![159. Pilgerinnen aus Nam-tso. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_344_159.jpg "Transhimalaja_Band_I_344_159.jpg"){#b0344_159}
+![159. Pilgerinnen aus Nam-tso. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_344_159.jpg "159. Pilgerinnen aus Nam-tso. Skizzen des Verfassers."){#b0344_159}
 ::::
 
 Nachmittags erschien oft eine Gesellschaft Tänzer und Tänzerinnen
@@ -520,19 +520,19 @@ Taschi-Lama ([Abb. 167](ch035.xhtml#b0360_167)). Sie selber tranken Buttertee,
 setzten ihn mir aber nicht vor, was die Visite bedeutend angenehmer machte.
 
 :::: {.wrap-40 .break-before .float-left }
-![160. Frau Taschi Buti in Schigatse.](Transhimalaja_Band_I_348_160.jpg "Transhimalaja_Band_I_348_160.jpg"){#b0348_160}
+![160. Frau Taschi Buti in Schigatse.](Transhimalaja_Band_I_348_160.jpg "160. Frau Taschi Buti in Schigatse."){#b0348_160}
 ::::
 
 :::: {.wrap-40 .float-right }
-![161. Junge Dame in Schigatse.](Transhimalaja_Band_I_348_161.jpg "Transhimalaja_Band_I_348_161.jpg"){#b0348_161}
+![161. Junge Dame in Schigatse.](Transhimalaja_Band_I_348_161.jpg "161. Junge Dame in Schigatse."){#b0348_161}
 ::::
 
 :::: {.wrap-50 .break-before }
-![162. Bürgerfrau in Schigatse. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_348_162.jpg "Transhimalaja_Band_I_348_162.jpg"){#b0348_162}
+![162. Bürgerfrau in Schigatse. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_348_162.jpg "162. Bürgerfrau in Schigatse. Skizzen des Verfassers."){#b0348_162}
 ::::
 
 :::: {.wrap-100 .break-before }
-![163. Tanzende Knaben mit Trommeln. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_348_163.jpg "Transhimalaja_Band_I_348_163.jpg"){#b0348_163}
+![163. Tanzende Knaben mit Trommeln. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_348_163.jpg "163. Tanzende Knaben mit Trommeln. Skizze des Verfassers."){#b0348_163}
 ::::
 
 Dann besahen wir die übrigen Zimmer, die auch an sonnigen Tagen

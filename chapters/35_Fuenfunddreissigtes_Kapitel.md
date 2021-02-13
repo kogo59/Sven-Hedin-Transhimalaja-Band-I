@@ -278,15 +278,15 @@ einer Ecke ein.
 
 
 :::: {.break-before .wrap-70 }
-![187. Die hübsche Frau Putön in Sirtschung.](Transhimalaja_Band_I_400_187.jpg "Transhimalaja_Band_I_400_187.jpg"){#b0400_187}
+![187. Die hübsche Frau Putön in Sirtschung.](Transhimalaja_Band_I_400_187.jpg "187. Die hübsche Frau Putön in Sirtschung."){#b0400_187}
 ::::
 
 :::: { .wrap-100 }
-![188. Gruppe von tibetischen Weibern.](Transhimalaja_Band_I_400_188.jpg "Transhimalaja_Band_I_400_188.jpg"){#b0400_188}
+![188. Gruppe von tibetischen Weibern.](Transhimalaja_Band_I_400_188.jpg "188. Gruppe von tibetischen Weibern."){#b0400_188}
 ::::
 
 :::: { .wrap-100 }
-![189. Dorf und Kloster Linga.](Transhimalaja_Band_I_400_189.jpg "Transhimalaja_Band_I_400_189.jpg"){#b0400_189}
+![189. Dorf und Kloster Linga.](Transhimalaja_Band_I_400_189.jpg "189. Dorf und Kloster Linga."){#b0400_189}
 ::::
 
 Wenn er wieder erwacht, verspürt er Hunger, kriecht nach der
@@ -450,11 +450,11 @@ dafür einzustehen, daß die Habe des Toten ihnen als Eigentum
 überliefert wird. —
 
 :::: {.break-before .wrap-90 }
-![190. 191. Knaben. 192. Altes Weib. 193. Junger Lama. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_404_190_191_192_193.jpg "Transhimalaja_Band_I_404_190_191_192_193.jpg"){#b0404_190}
+![190. 191. Knaben. 192. Altes Weib. 193. Junger Lama. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_I_404_190_191_192_193.jpg "190. 191. Knaben. 192. Altes Weib. 193. Junger Lama. Skizzen des Verfassers."){#b0404_190}
 ::::
 
 :::: {.break-before .wrap-90 }
-![194. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](Transhimalaja_Band_I_404_194.jpg "Transhimalaja_Band_I_404_194.jpg"){#b0404_194}
+![194. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](Transhimalaja_Band_I_404_194.jpg "194. Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama."){#b0404_194}
 ::::
 
 Tage und Wochen lang konnte ich das Bild, das ich mir vom Lama

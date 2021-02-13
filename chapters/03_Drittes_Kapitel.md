@@ -36,18 +36,18 @@ von vier anderen abgelöst, die es bis nach Gunt hinauf weitertragen
 sollten.
 
 :::: {.wrap-100 .break-before  }
-![17. Vor Nedous Hotel in Srinagar.](Transhimalaja_Band_I_32_17.jpg "Transhimalaja_Band_I_32_17.jpg"){#b032_17}
+![17. Vor Nedous Hotel in Srinagar.](Transhimalaja_Band_I_32_17.jpg "17. Vor Nedous Hotel in Srinagar."){#b032_17}
 ::::
 :::: {.wrap-100 .break-before  .align-center }
-![18. Die beladenen Maultiere.](Transhimalaja_Band_I_32_18.jpg "Transhimalaja_Band_I_32_18.jpg"){#b032_18}
+![18. Die beladenen Maultiere.](Transhimalaja_Band_I_32_18.jpg "18. Die beladenen Maultiere."){#b032_18}
 ::::
 
 :::: {.wrap-100 .align-center }
-![19. Eine Amateuraufnahme in Srinagar.](Transhimalaja_Band_I_32_19.jpg "Transhimalaja_Band_I_32_19.jpg"){#b032_19}
+![19. Eine Amateuraufnahme in Srinagar.](Transhimalaja_Band_I_32_19.jpg "19. Eine Amateuraufnahme in Srinagar."){#b032_19}
 ::::
 
 :::: {.wrap-60  .break-before .align-center}
-![20. Der Weg nach Baltal.](Transhimalaja_Band_I_32_20.jpg "Transhimalaja_Band_I_32_20.jpg"){#b032_20}
+![20. Der Weg nach Baltal.](Transhimalaja_Band_I_32_20.jpg "20. Der Weg nach Baltal."){#b032_20}
 ::::
 
 So hatten wir wieder eine Tagereise hinter uns; alle freuten sich
@@ -220,19 +220,19 @@ umfaßte nach orientalischer Sitte meinen Fuß im Steigbügel.
 „Willst du mit auf die lange Reise?“ fragte ich ihn.
 
 :::: {.wrap-100 .align-center .break-before }
-![21. Kargil.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_21.jpg "Transhimalaja_Band_I_36_21.jpg"){#b036_21}
+![21. Kargil. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_21.jpg "21. Kargil. Skizze des Verfassers."){#b036_21}
 ::::
 
 :::: {.wrap-100 .align-center .break-before }
-![22. Tschorten im Kloster von Lama-juru.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_22.jpg "Transhimalaja_Band_I_36_22.jpg"){#b036_22}
+![22. Tschorten im Kloster von Lama-juru. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_22.jpg "22. Tschorten im Kloster von Lama-juru. Skizze des Verfassers."){#b036_22}
 ::::
 
 :::: {.wrap-100 .align-center .break-before }
-![23. 24. Mönche.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_23_24.jpg "Transhimalaja_Band_I_36_23_24.jpg"){#b036_23_24}
+![23. 24. Mönche. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_23_24.jpg "23. 24. Mönche. Skizze des Verfassers."){#b036_23_24}
 ::::
 
 :::: {.wrap-100 .align-center .break-before}
-![25. Kirchenmusik in Lama-juru.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_25.jpg "Transhimalaja_Band_I_36_25.jpg"){#b036_25}
+![25. Kirchenmusik in Lama-juru. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_36_25.jpg "25. Kirchenmusik in Lama-juru. Skizze des Verfassers."){#b036_25}
 ::::
 
 „Ja, ich will euch folgen bis ans Ende der Welt, wenn nur der
@@ -418,15 +418,15 @@ padme hum“ („Oh das Kleinod im Lotos! Amen“) eingehauen, und
 Eidechsen, grün wie der Stein, huschen über die ewigen Wahrheiten hin.
 
 :::: {.wrap-100 .align-center .break-before }
-![26. Sumto-Tal unterhalb von Lama-juru.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_26.jpg "Transhimalaja_Band_I_40_26.jpg"){#b040_26}
+![26. Sumto-Tal unterhalb von Lama-juru.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_26.jpg "26. Sumto-Tal unterhalb von Lama-juru.Skizze des Verfassers."){#b040_26}
 ::::
 
 :::: {.wrap-100 .align-center .break-before }
-![27. Indus-Brücke bei Altschi.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_27.jpg "Transhimalaja_Band_I_40_27.jpg"){#b040_27}
+![27. Indus-Brücke bei Altschi.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_27.jpg "27. Indus-Brücke bei Altschi.Skizze des Verfassers."){#b040_27}
 ::::
 
 :::: {.wrap-100 .align-center .break-before }
-![28 und 29. Kopf der Pantholops-Antilope. 30 und 31. Kopf des Ammonschafes.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_28_31.jpg "Transhimalaja_Band_I_40_28_31.jpg"){#b040_28_31}
+![28 und 29. Kopf der Pantholops-Antilope. 30 und 31. Kopf des Ammonschafes.<small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_40_28_31.jpg "28 und 29. Kopf der Pantholops-Antilope. 30 und 31. Kopf des Ammonschafes.Skizze des Verfassers."){#b040_28_31}
 ::::
 
 Der 1. August war der letzte Tag auf dem Wege nach Leh. Ein

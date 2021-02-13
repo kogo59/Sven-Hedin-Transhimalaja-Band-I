@@ -33,11 +33,11 @@ davon auf, daß die Mäuse unter dem Bett rumorten und quiekten und
 sich sehr darüber wunderten, daß sie nicht aus ihrer Haustür konnten.
 
 :::: {.wrap-100 .break-before }
-![104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](Transhimalaja_Band_I_200_104.jpg "Transhimalaja_Band_I_200_104.jpg"){#b0200_104}
+![104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](Transhimalaja_Band_I_200_104.jpg "104. Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter."){#b0200_104}
 ::::
 
 ::: {.wrap-100 .brek-before }
-![105. Die Burg (Dsong) von Schigatse. <small>Skizze des Verfassers</small>.](Transhimalaja_Band_I_200_105.jpg "Transhimalaja_Band_I_200_105.jpg"){#b0200_105}
+![105. Die Burg (Dsong) von Schigatse. <small>Skizze des Verfassers</small>.](Transhimalaja_Band_I_200_105.jpg "105. Die Burg (Dsong) von Schigatse. Skizze des Verfassers."){#b0200_105}
 ::::
 
 Die Nomaden der Gegend waren uns freundlich gesinnt und verkauften
@@ -409,11 +409,11 @@ wieder auf die Beine und zog uns nun mit heiler Haut wieder nach
 der Wake zurück.
 
 :::: {.wrap-100 .break-before }
-![106. Der Labrang, Palast des Tashi-Lama.<small>Hinter den Draperien in der Mitte der Sitz des Taschi-Lama während der Festspiele.</small>](Transhimalaja_Band_I_208_106.jpg "Transhimalaja_Band_I_208_106.jpg"){#b0208_106}
+![106. Der Labrang, Palast des Tashi-Lama.<small>Hinter den Draperien in der Mitte der Sitz des Taschi-Lama während der Festspiele.</small>](Transhimalaja_Band_I_208_106.jpg "106. Der Labrang, Palast des Tashi-Lama.Hinter den Draperien in der Mitte der Sitz des Taschi-Lama während der Festspiele."){#b0208_106}
 ::::
 
 :::: {.wrap-100 }
-![107. Der obere Altan am Hof der Festspiele in Taschi-lunpo.<small>Hinter der Draperie in der Mitte mein Platz während der Festspiele.</small>](Transhimalaja_Band_I_208_107.jpg "Transhimalaja_Band_I_208_107.jpg"){#b0208_107}
+![107. Der obere Altan am Hof der Festspiele in Taschi-lunpo.<small>Hinter der Draperie in der Mitte mein Platz während der Festspiele.</small>](Transhimalaja_Band_I_208_107.jpg "107. Der obere Altan am Hof der Festspiele in Taschi-lunpo.Hinter der Draperie in der Mitte mein Platz während der Festspiele."){#b0208_107}
 ::::
 
 Wir sahen aus, daß wir uns voreinander hätten fürchten können.

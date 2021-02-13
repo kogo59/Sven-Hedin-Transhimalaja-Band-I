@@ -173,19 +173,19 @@ der europäischen Pioniere her, die vor vielen Jahren zwischen Ostturkestan
 und Indien hin und her gereist sind.
 
 :::: {.wrap-100 .break-before  }
-![49. Lager bei Pamsal.](Transhimalaja_Band_I_80_49.jpg "Transhimalaja_Band_I_80_49.jpg"){#b080_49}
+![49. Lager bei Pamsal.](Transhimalaja_Band_I_80_49.jpg "49. Lager bei Pamsal."){#b080_49}
 ::::
 
 :::: {.wrap-100  }
-![50. Passierung des Tschang-tshenmo auf dem Weg nach Gogra.](Transhimalaja_Band_I_80_50.jpg "Transhimalaja_Band_I_80_50.jpg"){#b080_50}
+![50. Passierung des Tschang-tshenmo auf dem Weg nach Gogra.](Transhimalaja_Band_I_80_50.jpg "50. Passierung des Tschang-tshenmo auf dem Weg nach Gogra."){#b080_50}
 ::::
 
 :::: {.wrap-100  }
-![51. Rabsang, Adul, Tsering und Muhamed Isa.](Transhimalaja_Band_I_80_51.jpg "Transhimalaja_Band_I_80_51.jpg"){#b080_51}
+![51. Rabsang, Adul, Tsering und Muhamed Isa.](Transhimalaja_Band_I_80_51.jpg "51. Rabsang, Adul, Tsering und Muhamed Isa."){#b080_51}
 ::::
 
 :::: {.wrap-100  }
-![52. Muhamed Isa mit Tsering und Adul in einer Furt des Tschang-tshenmo bei Panal.](Transhimalaja_Band_I_80_52.jpg "Transhimalaja_Band_I_80_52.jpg"){#b080_52}
+![52. Muhamed Isa mit Tsering und Adul in einer Furt des Tschang-tshenmo bei Panal.](Transhimalaja_Band_I_80_52.jpg "52. Muhamed Isa mit Tsering und Adul in einer Furt des Tschang-tshenmo bei Panal."){#b080_52}
 ::::
 
 Das Wetter war echt tibetisch. Eine Hagelbö nach der anderen
@@ -530,11 +530,11 @@ warm zu halten. Außer uns gab es keine Menschen in diesen öden
 Gegenden.
 
 :::: {.wrap-100 .break-before  }
-![53. Eine Schlucht bei Lager Nr. 8.](Transhimalaja_Band_I_88_53.jpg "Transhimalaja_Band_I_88_53.jpg"){#b088_53}
+![53. Eine Schlucht bei Lager Nr. 8.](Transhimalaja_Band_I_88_53.jpg "53. Eine Schlucht bei Lager Nr. 8."){#b088_53}
 ::::
 
 :::: {.wrap-100 .break-before }
-![54. Tod im Wolfsrachen — oder Schiffbruch.](Transhimalaja_Band_I_88_54.jpg "Transhimalaja_Band_I_88_54.jpg"){#b088_54}
+![54. Tod im Wolfsrachen — oder Schiffbruch.](Transhimalaja_Band_I_88_54.jpg "54. Tod im Wolfsrachen — oder Schiffbruch."){#b088_54}
 ::::
 
 :::

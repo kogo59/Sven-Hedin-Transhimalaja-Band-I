@@ -125,11 +125,11 @@ den Seiten die eine Etage hoch liegenden Galerien und den unter ihnen
 befindlichen Hofraum.
 
 :::: {.wrap-100 .break-before }
-![](Transhimalaja_Band_I_272_000.jpg "Transhimalaja_Band_I_272_000.jpg"){#b0272_000}
+![](Transhimalaja_Band_I_272_000.jpg ""){#b0272_000}
 ::::
 
 :::: {.wrap-100 }
-![Festkleidung und Schmuck tibetischer Frauen aus Kjangrang im Transhimalaja. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_I_272_001.jpg "Transhimalaja_Band_I_272_001.jpg"){#b0272_001}
+![Festkleidung und Schmuck tibetischer Frauen aus Kjangrang im Transhimalaja. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_I_272_001.jpg "Festkleidung und Schmuck tibetischer Frauen aus Kjangrang im Transhimalaja. Aquarelle des Verfassers."){#b0272_001}
 ::::
 
 Überall, auf allen Altanen und Dächern, auf allen Vorsprüngen
@@ -364,15 +364,15 @@ von irgend etwas, das man vulgär nennen könnte.
 
 
 :::: {.wrap-100 .break-before }
-![130.Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_276_130.jpg "Transhimalaja_Band_I_276_130.jpg"){#b0276_130}
+![130.Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_I_276_130.jpg "130.Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo. Skizze des Verfassers."){#b0276_130}
 ::::
 
 :::: {.wrap-100  }
-![131. Schigatse.](Transhimalaja_Band_I_276_131.jpg "Transhimalaja_Band_I_276_131.jpg"){#b0276_131}
+![131. Schigatse.](Transhimalaja_Band_I_276_131.jpg "131. Schigatse."){#b0276_131}
 ::::
 
 :::: {.wrap-100  }
-![132. Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](Transhimalaja_Band_I_276_132.jpg "Transhimalaja_Band_I_276_132.jpg"){#b0276_132}
+![132. Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](Transhimalaja_Band_I_276_132.jpg "132. Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten."){#b0276_132}
 ::::
 
 
@@ -535,11 +535,11 @@ Hof. Dies sind Opferspenden an den Tempel, die den Tauben und den
 Sperlingen zugute kommen.
 
 :::: {.wrap-70 .break-before }
-![133. Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse.](Transhimalaja_Band_I_280_133.jpg "Transhimalaja_Band_I_280_133.jpg"){#b0280_133}
+![133. Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse.](Transhimalaja_Band_I_280_133.jpg "133. Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse."){#b0280_133}
 ::::
 
 :::: {.wrap-100  }
-![134. Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](Transhimalaja_Band_I_280_134.jpg "Transhimalaja_Band_I_280_134.jpg"){#b0280_134}
+![134. Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](Transhimalaja_Band_I_280_134.jpg "134. Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden."){#b0280_134}
 ::::
 
 

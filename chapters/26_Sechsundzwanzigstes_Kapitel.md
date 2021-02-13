@@ -70,19 +70,19 @@ und solide gebaut und darauf eingerichtet, sowohl der Zeit als dem rauhen
 Klima Tibets Trotz zu bieten.
 
 :::: {.wrap-100 .break-before }
-![140. Chinesen mit Drachen und Papierlaternen.](Transhimalaja_Band_I_296_140.jpg "Transhimalaja_Band_I_296_140.jpg"){#b0296_140}
+![140. Chinesen mit Drachen und Papierlaternen.](Transhimalaja_Band_I_296_140.jpg "140. Chinesen mit Drachen und Papierlaternen."){#b0296_140}
 ::::
 
 :::: {.wrap-100 }
-![141. Grabkapelle zweier Taschi-Lamas. Auf dem Dach des davorliegenden Hauses Zierraten zur Beschwörung der bösen Geister.](Transhimalaja_Band_I_296_141.jpg "Transhimalaja_Band_I_296_141.jpg"){#b0296_141}
+![141. Grabkapelle zweier Taschi-Lamas. Auf dem Dach des davorliegenden Hauses Zierraten zur Beschwörung der bösen Geister.](Transhimalaja_Band_I_296_141.jpg "141. Grabkapelle zweier Taschi-Lamas. Auf dem Dach des davorliegenden Hauses Zierraten zur Beschwörung der bösen Geister."){#b0296_141}
 ::::
 
 :::: {.wrap-100  }
-![142. Inneres der großen roten Galerie von Taschi-lunpo. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_296_142.jpg "Transhimalaja_Band_I_296_142.jpg"){#b0296_142}
+![142. Inneres der großen roten Galerie von Taschi-lunpo. <small>Skizze des Verfassers</small>](Transhimalaja_Band_I_296_142.jpg "142. Inneres der großen roten Galerie von Taschi-lunpo. Skizze des Verfassers"){#b0296_142}
 ::::
 
 :::: {.wrap-100  }
-![143. Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](Transhimalaja_Band_I_296_143.jpg "Transhimalaja_Band_I_296_143.jpg"){#b0296_143}
+![143. Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](Transhimalaja_Band_I_296_143.jpg "143. Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück."){#b0296_143}
 ::::
 
 Taschi-lunpo wurde im Jahre 1445 n. Chr. von Ge-dun-dup^[^0461]^, dem
@@ -251,7 +251,7 @@ erkundigen, sobald ich auf dem Wege von oder nach den westlichen Gebäuden
 Taschi-lunpos an dem Tempel des Tsongkapa vorbeigehe.
 
 :::: {.wrap-70 .break-before }
-![Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_I_300_000.jpg "Transhimalaja_Band_I_300_000.jpg"){#b0300_000}
+![Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_I_300_000.jpg "Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo. Aquarell des Verfassers."){#b0300_000}
 ::::
 
 Tsongkapas Name ist in der lamaistischen Kirche ebenso berühmt
@@ -418,7 +418,7 @@ wieder zum Unwetter zusammen, und noch ehe wir zu Hause ankamen,
 hatten wir es über uns.
 
 :::: {.wrap-100 .break-before }
-![Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_I_304_000.jpg "Transhimalaja_Band_I_304_000.jpg"){#b0304_000}
+![Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_I_304_000.jpg "Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo. Aquarell des Verfassers."){#b0304_000}
 ::::
 
 :::
