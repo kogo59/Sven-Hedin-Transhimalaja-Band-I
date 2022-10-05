@@ -23,20 +23,17 @@ Politik und Diplomaten hieß, dahin, wo der Pfeffer wächst!
 
 An diesem Tag erschien also der junge Chinese Duan Suän im
 Auftrag Gaw Dalois, des politischen Agenten Chinas in Gyangtse. Er
-brachte mir von ihm einen Brief, der folgenden lakonischen Inhalt hatte:
+brachte mir von ihm einen Brief, der folgenden lakonischen Inhalt hatte:<br /><br />
 
-:::: fs-s
-|
-|     Übereinkommen zwischen Großbritannien und China, unterzeichnet
-|     in Peking im Jahre 1906, § 2: # Die großbritannische Regierung ver-
-|     pflichtet sich, kein tibetisches Territorium zu annektieren und sich nicht in
-|     Tibets Verwaltung zu mischen.
-|
-|     Vertrag, abgeschlossen am 7. September 1904, § 9b: Keine Vertreter
-|     oder Agenten irgendeiner fremden Macht sollen Erlaubnis erhalten,
-|     Tibet zu besuchen.
-|
-|
+:::: { .fs-s .margin-left-m}
+Übereinkommen zwischen Großbritannien und China, unterzeichnet in Peking im
+Jahre 1906, § 2: # Die großbritannische Regierung verpflichtet sich, kein
+tibetisches Territorium zu annektieren und sich nicht in Tibets Verwaltung zu
+mischen.<br />
+
+Vertrag, abgeschlossen am 7. September 1904, § 9b: Keine Vertreter
+oder Agenten irgendeiner fremden Macht sollen Erlaubnis erhalten,
+Tibet zu besuchen.<br /><br />
 ::::
 
 Duan Suän bestellte mir außerdem noch mündlich von Gaw Daloi,
@@ -363,46 +360,47 @@ Am 20. trat Ma durch unser Tor, schwenkte triumphierend einen
 Brief mit großem rotem Siegel und rief schon von weitem: „Vom Tang
 Darin!“ Der Brief war vom 15. März aus Lhasa datiert, und ich
 teile ihn hier als Probe der diplomatischen Briefschreibekunst der
-Chinesen mit:
+Chinesen mit:<br /><br />
+   
+   
+:::: { .fs-s .margin-left-m}
 
-:::: fs-s
-|
 |               Lieber Doktor Sven Hedin!
-|     
-|     Es hat mich sehr gefreut, Ihren Brief vom 5. dieses Monats zu
-|     erhalten und zu hören, daß Sie nach Schigatse gekommen sind, um die
-|     Geographie der unbekannten Teile dieses Landes zu erforschen. Ich weiß,
-|     daß Sie einer der berühmten Geographen Europas sind und daß Sie hier
-|     im Lande umherziehen, ohne sich in Tibets politische oder sonstige Angelegen-
-|     heiten einzumischen, und einzig und allein geographische Arbeiten ausführen.
-|     
-|     Ich habe große Achtung vor Ihnen als Mann der Wissenschaft, der
-|     sich ernstlich um das Fortschreiten der Erdkunde bemüht. Solche Männer
-|     schätze ich immer hoch und erweise ihnen die größte Ehrerbietung.
-|     
-|     Zu meinem Bedauern aber muß ich Ihnen sagen, daß der letzte
-|     Vertrag zwischen China und Großbritannien über Tibet einen Paragraphen
-|     enthält, der besagt, daß keine Fremden, seien es nun Engländer oder
-|     Russen, Amerikaner oder Europäer, berechtigt sind, Tibet zu besuchen,
-|     die drei Handelsplätze Gyangtse, Jatung und Gartok ausgenommen. Sie
-|     sind es also nicht allein, dem ich das Land verbiete.
-|     
-|     Ich wünsche daher, daß Sie auf demselben Weg, auf dem Sie
-|     gekommen sind, wieder abziehen, und Sie würden mich dadurch
-|     außerordentlich verbinden.
-|     
-|     China und Schweden sind in Wahrheit befreundete Mächte, und die
-|     beiden Völker sind wirklich Brüder.
-|     
-|     Ich hoffe, daß Sie mich nicht falsch beurteilen werden, wenn ich Ihnen
-|     nicht erlaube, weiterzureisen, denn ich bin durch den Vertrag gebunden.
-|     
-|     Ich habe den chinesischen und den eingeborenen Behörden auf Ihrer
-|     Route bereits Befehl erteilt, daß sie Ihnen alle Erleichterungen, die sich
-|     möglicherweise erreichen lassen, verschaffen sollen.
-|     
-|     Ihnen eine glückliche Rückreise wünschend, bin ich
-|     
+     
+Es hat mich sehr gefreut, Ihren Brief vom 5. dieses Monats zu
+erhalten und zu hören, daß Sie nach Schigatse gekommen sind, um die
+Geographie der unbekannten Teile dieses Landes zu erforschen. Ich weiß,
+daß Sie einer der berühmten Geographen Europas sind und daß Sie hier
+im Lande umherziehen, ohne sich in Tibets politische oder sonstige Angelegen-
+heiten einzumischen, und einzig und allein geographische Arbeiten ausführen.<br />
+   
+Ich habe große Achtung vor Ihnen als Mann der Wissenschaft, der
+sich ernstlich um das Fortschreiten der Erdkunde bemüht. Solche Männer
+schätze ich immer hoch und erweise ihnen die größte Ehrerbietung.<br />
+  
+Zu meinem Bedauern aber muß ich Ihnen sagen, daß der letzte
+Vertrag zwischen China und Großbritannien über Tibet einen Paragraphen
+enthält, der besagt, daß keine Fremden, seien es nun Engländer oder
+Russen, Amerikaner oder Europäer, berechtigt sind, Tibet zu besuchen,
+die drei Handelsplätze Gyangtse, Jatung und Gartok ausgenommen. Sie
+sind es also nicht allein, dem ich das Land verbiete.<br />
+     
+Ich wünsche daher, daß Sie auf demselben Weg, auf dem Sie
+gekommen sind, wieder abziehen, und Sie würden mich dadurch
+außerordentlich verbinden.<br />
+
+China und Schweden sind in Wahrheit befreundete Mächte, und die
+beiden Völker sind wirklich Brüder.<br />
+     
+Ich hoffe, daß Sie mich nicht falsch beurteilen werden, wenn ich Ihnen
+nicht erlaube, weiterzureisen, denn ich bin durch den Vertrag gebunden.<br />
+     
+Ich habe den chinesischen und den eingeborenen Behörden auf Ihrer
+Route bereits Befehl erteilt, daß sie Ihnen alle Erleichterungen, die sich
+möglicherweise erreichen lassen, verschaffen sollen.<br />
+    
+Ihnen eine glückliche Rückreise wünschend, bin ich<br />
+   
 |                                     Ihr ergebener
 |     
 |                                         Chang Yin Tang.
@@ -410,6 +408,7 @@ Chinesen mit:
 |     
 ::::
 
+<br />
 An liebenswürdiger Verbindlichkeit ließ der Brief nichts zu wünschen
 übrig, dem Inhalt nach war er diplomatisch dunkel. Chinesische und
 eingeborene Behörden in Tschang-tang, wo wir 81 Tage hintereinander

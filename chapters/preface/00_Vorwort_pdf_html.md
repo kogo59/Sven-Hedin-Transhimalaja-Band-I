@@ -279,211 +279,210 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 ****
 ::::
 
-|           [Lord Minto, Vizekönig von Indien](ch001.xhtml#b000)  (Titelbild)
-1. [Die neueste Karte von Tibet.](ch005.xhtml#b029)
-2. [Simla (2159 Meter) mit dem Sommerpalast des Vizekönigs.](ch005.xhtml#b008)
-3. [Palast des Vizekönigs in Simla.](ch005.xhtml#b009)
-4. [Herbert Viscount Kitchener of Khartoum.](ch005.xhtml#b012)
-5. [Oberst Sir Francis Younghusband.](ch005.xhtml#b013b)
-6. [Oberst J. R. Dunlop Smith.](ch005.xhtml#b013a)
-7. [Lady Minto und der Verfasser auf der Terrasse des vizeköniglichen Palastes.](ch005.xhtml#b016)
-8. [Seine Hoheit Sir Pratab Sing, Maharadscha von Kaschmir und Dschamu.](ch005.xhtml#b017)
-9. [Am Dschihlam in Srinagar.](ch005.xhtml#b018)
-10. [Palast Sr. Hoheit des Maharadscha von Kashmir und Dschamu in Srinagar.](ch005.xhtml#b019)
-11. [Meine drei jungen Hunde.](ch006.xhtml#b024_11)
-12. [Manuel, der Koch.](ch006.xhtml#b024_12)
-13. [Ganpat Sing, der Radschput.](ch006.xhtml#b024_13)
-14. [Robert, der Eurasier.](ch006.xhtml#b024_14)
-15. [Meine Schutztruppe.](ch006.xhtml#b024_15)
-16. [Aufbruch von Ganderball.](ch006.xhtml#b024_16)
-17. [Vor Nedous Hotel in Srinagar.](ch007.xhtml#b032_17)
-18. [Die beladenen Maultiere.](ch007.xhtml#b032_18)
-19. [Eine Amateuraufnahme in Srinagar.](ch007.xhtml#b032_19)
-20. [Der Weg nach Baltal.](ch007.xhtml#b032_20)
-21. [Kargil.](ch007.xhtml#b036_21)
-22. [Tschorten im Kloster von Lama-juru.](ch007.xhtml#b036_22) Skizzen des Verfassers.
-23. [Mönche.](ch007.xhtml#b036_23_24)
-24. [Mönche.](ch007.xhtml#b036_23_24)
-25. [Kirchenmusik in Lama-juru.](ch007.xhtml#b036_25) Skizzen des Verfassers.
-26. [Sumto-Tal unterhalb von Lama-juru.](ch007.xhtml#b040_26)
-27. [Indus-Brücke bei Altschi.](ch007.xhtml#b040_27) Skizzen des Verfassers.
-28. [Kopf der Pantholops-Antilope.](ch007.xhtml#b040_28_31)
-29. [Kopf der Pantholops-Antilope.](ch007.xhtml#b040_28_31)
-30. [Kopf des Ammonschafes.](ch007.xhtml#b040_28_31) Skizzen des Verfassers.
-31. [Kopf des Ammonschafes.](ch007.xhtml#b040_28_31) Skizzen des Verfassers.
-32. [Muhamed Isa, mein unvergeßlicher Karawanenführer.](ch008.xhtml#b044_32)
-33. [Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte.](ch008.xhtml#b044_33)
-34. [Palast der alten Könige von Ladak in Leh.](ch008.xhtml#b048_34) Skizzen des Verfassers.
-35. [Palast der alten Könige von Ladak in Leh.](ch008.xhtml#b048_35) Skizzen des Verfassers.
-36. [Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh.](ch008.xhtml#b048_36)
-37. [Tikse-gumpa, Männerkloster in Ladak.](ch009.xhtml#b056_37) Skizze des Verfassers.
-38. [Vornehmer Lama.](ch009.xhtml#b056_38)
-39. [Der Radscha von Stogh, letzter Exkönig von Ladak.](ch009.xhtml#b056_39) Skizzen des Verfassers.
-40. [Von Singrul nach dem Passe Tschang-la.](ch009.xhtml#b064_40)
-41. [Aussicht von Soltak.](ch009.xhtml#b064_41)
-42. [Drugub.](ch009.xhtml#b064_42) Skizzen des Verfassers.
-43. [Mein alter Freund Hiraman aus Ladak.](ch009.xhtml#b064_43)
-44. [Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse.](ch009.xhtml#b064_43)
-45. [Lunkar mit dem Weg zum Marsimik-la.](ch010.xhtml#b072_45)
-46. [Lagerfeuer im Spanglung-Tal.](ch010.xhtml#b072_46)
-47. [Spanglung-Tal.](ch010.xhtml#b072_47)
-48. [Meine Pferde im Kara-korum-Gebirge.](ch010.xhtml#b072_48)
-49. [Lager bei Pamsal.](ch011.xhtml#b080_49)
-50. [Passierung des Tschang-tshenmo auf dem Weg nach Gogra.](ch011.xhtml#b080_50)
-51. [Rabsang, Adul, Tsering und Muhamed Isa.](ch011.xhtml#b080_51)
-52. [Muhamed Isa mit Tsering und Adul in einer Furt des Tschang-tshenmo bei Panal.](ch011.xhtml#b080_52)
-53. [Eine Schlucht bei Lager Nr. 8.](ch011.xhtml#b088_53)
-54. [Tod im Wolfsrachen — oder Schiffbruch.](ch011.xhtml#b088_54)
-55. [Lager Nr. 15 auf dem Westufer des Lake Lighten.](ch012.xhtml#b096_55)
-56. [Im Schnee nordöstlich von Tschang-lung-jogma.](ch012.xhtml#b096_56)
-57. [Mein Zelt, im Vordergrund Bikom Sing, Manuel und die jungen Hunde.](ch012.xhtml#b096_57)
-58. [Eine schauerliche Nacht auf dem Lake Ligthen.](ch012.xhtml#b096_58)
-59. [Rehim Ali aus Ladak.](ch013.xhtml#b0104_59)
-60. [Robert.](ch013.xhtml#b0104_60)
-61. [Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen. Zeichnung von T. Macfarlane.](ch014.xhtml#b0112_61)
-62. [Am Westufer des Jeschil-köl.](ch014.xhtml#b0112_62)
-63. [Süßwassersee Pul-tso von Westen.](ch014.xhtml#b0112_63)
-64. [Pferde und Maultiere in unfruchtbarem Lande.](ch014.xhtml#b0112_64)
-65. [Nächtlicher Sturm auf dem Jeschil-köl. Zeichnung von T. Macfarlane.](ch014.xhtml#b0116_65)
-66. [Ausgrabungen im Lager von Deasy.](ch014.xhtml#b0116_66)
-67. [Nachmittagstee im Freien.](ch014.xhtml#b0116_67)
-68. [Schmelzen von Schnee zum Trinkwasser für die Tiere.](ch014.xhtml#b0116_68)
-69. [Die Leute von Tankse, die mich verließen.](ch015.xhtml#b0121_69)
-70. [Namgjal mit einem Sack gesammelten Yakdungs.](ch015.xhtml#b0121_70)
-71. [Schutzmauer von Proviantsäcken.](ch015.xhtml#b0121_71)
-72. [Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.](ch015.xhtml#b0121_72)
-73. [Muhamed Isa und Robert am Feuer.](ch015.xhtml#b0121_73)
-74. [Vorbereitung zum Diner im Lager Nr. 41.](ch015.xhtml#b0128_74)
-75. [Das große scheckige Jarkentpferd.](ch015.xhtml#b0128_75)
-76. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_76)
-77. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](ch015.xhtml#b0128_77)
-78. [Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten. Zeichnung von de Haenen.](ch016.xhtml#b0136_78)
-79. [Der wütende Yak stürzte sich auf Rehim Ali. Zeichnung von de Haenen.](ch016.xhtml#b0136_79)
-80. [Rettungslos verloren. Zeichnung von T. Macfarlane.](ch017.xhtml#b0144_80)
-81. [Puntsuk und Tjsering Dava, die ersten Tibeter.](ch017.xhtml#b0144_81)
-82. [Puntsuk und Tjsering Dava, die ersten Tibeter.](ch017.xhtml#b0144_82)
-83. [Muhamed Isa vor seinem Zelt.](ch017.xhtml#b0152_83)
-84. [Die von den ersten Tibetern gekauften Yaks.](ch017.xhtml#b0152_84)
-85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](ch017.xhtml#b0152_85)
-86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso.](ch018.xhtml#b0160_86) Skizze des Verfassers.
-87. [Tibetischer Gruß.](ch018.xhtml#b0160_87)
-88. [Der improvisierte Schlitten auf dem Ngangtse-tso.](ch019.xhtml#b0168_88)
-89. [Transport über den See.](ch019.xhtml#b0168_89)
-90. [Rast auf dem Eise.](ch019.xhtml#b0168_90)
-91. [Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngang-tsetso. Zeichnung von de Haenen.](ch019.xhtml#b0168_91)
-92. [Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär.](ch020.xhtml#b0176_92)
-93. [Hladsche Tsering beim Aufbruch.](ch020.xhtml#b0176_93)
-94. [Hladsche Tserings Gefolge.](ch020.xhtml#b0176_94)
-95. [Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.](ch020.xhtml#b0176_95)
-96. [Der Paß von La-rock. Manis mit flatternden Gebeten.](ch020.xhtml#b0184_96)
-97. [Am Ufer des Brahmaputra bei Lamo-tang.](ch020.xhtml#b0184_97)
-98. [Ein Haus im Dorf Rungma.](ch020.xhtml#b0184_98)
-99. [Das Tal des Tsangpo westlich von Lamo-tang.](ch020.xhtml#b0184_99)
-100. [Haus und Garten des Taschi-Lama in Tanak.](ch021.xhtml#b0192_100)
-101. [Der Tsangpo mit Eisgang, östlich von Tanak.](ch021.xhtml#b0192_101)
-102. [Fellboote auf dem Tschangpo.](ch021.xhtml#b0192_102)
-103. [Pilger auf der Reise nach Taschi-lunpo.](ch021.xhtml#b0192_103)
-104. [Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](ch022.xhtml#b0200_104)
-105. [Die Burg (Dsong) von Schigatse.](ch022.xhtml#b0200_105) Skizze des Verfassers.
-106. [Der Labrang, Palast des Tashi-Lama.](ch022.xhtml#b0208_106)
-107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](ch022.xhtml#b0208_107)
-108. [Lamas in Taschi-lunpo.](ch023.xhtml#b0216_108)
-109. [Hof der religiösen Festspiele in Taschi-lunpo.](ch023.xhtml#b0216_109)
-110. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_110)
-111. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](ch023.xhtml#b0216_111)
-112. [Lama mit Muscheltrompete.](ch024.xhtml#b0224_112)
-113. [Lama mit Flöte.](ch024.xhtml#b0224_113) Skizzen des Verfassers.
-114. [Lama mit Tempeltrommel.](ch024.xhtml#b0224_114)
-115. [Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke).](ch024.xhtml#b0224_115) Skizzen des Verfassers.
-116. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_116)
-117. [Maskierte Lamas (in Hemi-gumpa, Ladak).](ch024.xhtml#b0232_117)
-118. [Lamas in Tanzmasken.](ch024.xhtml#b0232_118)
-119. [Lamas in Tanzmasken.](ch024.xhtml#b0232_119)
-120. [Lamas in Tanzmasken.](ch024.xhtml#b0232_120) Skizzen des Verfassers.
-121. [Audienzzimmer des Tashi-Lama.](ch025.xhtml#b0240_121)
-122. [Ansicht von Taschi-lunpo.](ch025.xhtml#b0240_122) Skizze des Verfassers.
-123. [Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](ch026.xhtml#b0248_123)
-124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](ch026.xhtml#b0248_124)
-125. [Fassade des Mausoleums des ersten Taschi-Lama.](ch026.xhtml#b0256_125)
-126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_126)
-127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](ch026.xhtml#b0256_127) Skizzen des Verfassers.
-128. [Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo.](ch027.xhtml#b0264_128) Skizze des Verfassers.
-129. [Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo.](ch027.xhtml#b0264_129) Skizze des Verfassers.     
+|           [Lord Minto, Vizekönig von Indien](#b000)  (Titelbild)
+1. [Die neueste Karte von Tibet.](#b029)
+2. [Simla (2159 Meter) mit dem Sommerpalast des Vizekönigs.](#b008)
+3. [Palast des Vizekönigs in Simla.](#b009)
+4. [Herbert Viscount Kitchener of Khartoum.](#b012)
+5. [Oberst Sir Francis Younghusband.](#b013b)
+6. [Oberst J. R. Dunlop Smith.](#b013a)
+7. [Lady Minto und der Verfasser auf der Terrasse des vizeköniglichen Palastes.](#b016)
+8. [Seine Hoheit Sir Pratab Sing, Maharadscha von Kaschmir und Dschamu.](#b017)
+9. [Am Dschihlam in Srinagar.](#b018)
+10. [Palast Sr. Hoheit des Maharadscha von Kashmir und Dschamu in Srinagar.](#b019)
+11. [Meine drei jungen Hunde.](#b024_11)
+12. [Manuel, der Koch.](#b024_12)
+13. [Ganpat Sing, der Radschput.](#b024_13)
+14. [Robert, der Eurasier.](#b024_14)
+15. [Meine Schutztruppe.](#b024_15)
+16. [Aufbruch von Ganderball.](#b024_16)
+17. [Vor Nedous Hotel in Srinagar.](#b032_17)
+18. [Die beladenen Maultiere.](#b032_18)
+19. [Eine Amateuraufnahme in Srinagar.](#b032_19)
+20. [Der Weg nach Baltal.](#b032_20)
+21. [Kargil.](#b036_21)
+22. [Tschorten im Kloster von Lama-juru.](#b036_22) Skizzen des Verfassers.
+23. [Mönche.](#b036_23_24)
+24. [Mönche.](#b036_23_24)
+25. [Kirchenmusik in Lama-juru.](#b036_25) Skizzen des Verfassers.
+26. [Sumto-Tal unterhalb von Lama-juru.](#b040_26)
+27. [Indus-Brücke bei Altschi.](#b040_27) Skizzen des Verfassers.
+28. [Kopf der Pantholops-Antilope.](#b040_28_31)
+29. [Kopf der Pantholops-Antilope.](#b040_28_31)
+30. [Kopf des Ammonschafes.](#b040_28_31) Skizzen des Verfassers.
+31. [Kopf des Ammonschafes.](#b040_28_31) Skizzen des Verfassers.
+32. [Muhamed Isa, mein unvergeßlicher Karawanenführer.](l#b044_32)
+33. [Der Mohammedaner Guffaru, der sein Leichentuch stets mit sich führte.](#b044_33)
+34. [Palast der alten Könige von Ladak in Leh.](#b048_34) Skizzen des Verfassers.
+35. [Palast der alten Könige von Ladak in Leh.](l#b048_35) Skizzen des Verfassers.
+36. [Die Grabmäler der Forschungsreisenden Stoliczka und Dalgleish in Leh.](#b048_36)
+37. [Tikse-gumpa, Männerkloster in Ladak.](#b056_37) Skizze des Verfassers.
+38. [Vornehmer Lama.](#b056_38)
+39. [Der Radscha von Stogh, letzter Exkönig von Ladak.](#b056_39) Skizzen des Verfassers.
+40. [Von Singrul nach dem Passe Tschang-la.](#b064_40)
+41. [Aussicht von Soltak.](#b064_41)
+42. [Drugub.](#b064_42) Skizzen des Verfassers.
+43. [Mein alter Freund Hiraman aus Ladak.](#b064_43)
+44. [Sampul und Tschenmo, die Dorfältesten von Pobrang und Tankse.](#b064_43)
+45. [Lunkar mit dem Weg zum Marsimik-la.](#b072_45)
+46. [Lagerfeuer im Spanglung-Tal.](#b072_46)
+47. [Spanglung-Tal.](#b072_47)
+48. [Meine Pferde im Kara-korum-Gebirge.](#b072_48)
+49. [Lager bei Pamsal.](#b080_49)
+50. [Passierung des Tschang-tshenmo auf dem Weg nach Gogra.](#b080_50)
+51. [Rabsang, Adul, Tsering und Muhamed Isa.](#b080_51)
+52. [Muhamed Isa mit Tsering und Adul in einer Furt des Tschang-tshenmo bei Panal.](#b080_52)
+53. [Eine Schlucht bei Lager Nr. 8.](#b088_53)
+54. [Tod im Wolfsrachen — oder Schiffbruch.](#b088_54)
+55. [Lager Nr. 15 auf dem Westufer des Lake Lighten.](#b096_55)
+56. [Im Schnee nordöstlich von Tschang-lung-jogma.](#b096_56)
+57. [Mein Zelt, im Vordergrund Bikom Sing, Manuel und die jungen Hunde.](#b096_57)
+58. [Eine schauerliche Nacht auf dem Lake Ligthen.](#b096_58)
+59. [Rehim Ali aus Ladak.](#b0104_59)
+60. [Robert.](#b0104_60)
+61. [Rehim Ali hilft mir das Boot aus der Brandung ans Ufer ziehen. Zeichnung von T. Macfarlane.](#b0112_61)
+62. [Am Westufer des Jeschil-köl.](#b0112_62)
+63. [Süßwassersee Pul-tso von Westen.](#b0112_63)
+64. [Pferde und Maultiere in unfruchtbarem Lande.](#b0112_64)
+65. [Nächtlicher Sturm auf dem Jeschil-köl. Zeichnung von T. Macfarlane.](#b0116_65)
+66. [Ausgrabungen im Lager von Deasy.](#b0116_66)
+67. [Nachmittagstee im Freien.](#b0116_67)
+68. [Schmelzen von Schnee zum Trinkwasser für die Tiere.](#b0116_68)
+69. [Die Leute von Tankse, die mich verließen.](#b0121_69)
+70. [Namgjal mit einem Sack gesammelten Yakdungs.](#b0121_70)
+71. [Schutzmauer von Proviantsäcken.](#b0121_71)
+72. [Mein Zelt im Lager Nr. 41, rechts Robert vor seinem Zelt.](#b0121_72)
+73. [Muhamed Isa und Robert am Feuer.](#b0121_73)
+74. [Vorbereitung zum Diner im Lager Nr. 41.](#b0128_74)
+75. [Das große scheckige Jarkentpferd.](#b0128_75)
+76. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](#b0128_76)
+77. [Die erlegten Yaks, oben links der Schütze Tundup Sonam.](#b0128_77)
+78. [Ich riß den roten Baschlik ab und schwenkte ihn rückwärts, um den Yak durch den Anblick aufzuhalten. Zeichnung von de Haenen.](#b0136_78)
+79. [Der wütende Yak stürzte sich auf Rehim Ali. Zeichnung von de Haenen.](#b0136_79)
+80. [Rettungslos verloren. Zeichnung von T. Macfarlane.](#b0144_80)
+81. [Puntsuk und Tjsering Dava, die ersten Tibeter.](#b0144_81)
+82. [Puntsuk und Tjsering Dava, die ersten Tibeter.](#b0144_82)
+83. [Muhamed Isa vor seinem Zelt.](#b0152_83)
+84. [Die von den ersten Tibetern gekauften Yaks.](#b0152_84)
+85. [Kurz und dreist fragte ein grober Kerl: „Was seid ihr für Leute?“ (Zeichnung von T. Macfarlane).](#b0152_85)
+86. [Aussicht vom Paß La-ghjanjak (5161 Meter) in der Nähe des Dangrajum-tso.](#b0160_86) Skizze des Verfassers.
+87. [Tibetischer Gruß.](#b0160_87)
+88. [Der improvisierte Schlitten auf dem Ngangtse-tso.](#b0168_88)
+89. [Transport über den See.](#b0168_89)
+90. [Rast auf dem Eise.](#b0168_90)
+91. [Rabsang und Taschi ziehen mich im Schneesturm über das Eis des Ngang-tsetso. Zeichnung von de Haenen.](#b0168_91)
+92. [Seine Exzellenz der Gouverneur Hladsche Tsering und sein Sekretär.](#b0176_92)
+93. [Hladsche Tsering beim Aufbruch.](#b0176_93)
+94. [Hladsche Tserings Gefolge.](#b0176_94)
+95. [Der Eilbote Ngurbu Tundup mit den letzten Briefen in die Heimat.](#b0176_95)
+96. [Der Paß von La-rock. Manis mit flatternden Gebeten.](#b0184_96)
+97. [Am Ufer des Brahmaputra bei Lamo-tang.](#b0184_97)
+98. [Ein Haus im Dorf Rungma.](#b0184_98)
+99. [Das Tal des Tsangpo westlich von Lamo-tang.](#b0184_99)
+100. [Haus und Garten des Taschi-Lama in Tanak.](#b0192_100)
+101. [Der Tsangpo mit Eisgang, östlich von Tanak.](#b0192_101)
+102. [Fellboote auf dem Tschangpo.](#b0192_102)
+103. [Pilger auf der Reise nach Taschi-lunpo.](#b0192_103)
+104. [Schigatse, Hauptstadt der Provinz Tsang, 3871 Meter.](#b0200_104)
+105. [Die Burg (Dsong) von Schigatse.](#b0200_105) Skizze des Verfassers.
+106. [Der Labrang, Palast des Tashi-Lama.](#b0208_106)
+107. [Der obere Altan am Hof der Festspiele in Taschi-lunpo.](#b0208_107)
+108. [Lamas in Taschi-lunpo.](#b0216_108)
+109. [Hof der religiösen Festspiele in Taschi-lunpo.](#b0216_109)
+110. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](#b0216_110)
+111. [„Profanum volgus“ beim Neujahrsfest in Schigatse.](#b0216_111)
+112. [Lama mit Muscheltrompete.](#b0224_112)
+113. [Lama mit Flöte.](#b0224_113) Skizzen des Verfassers.
+114. [Lama mit Tempeltrommel.](#b0224_114)
+115. [Lesender Lama mit Dortsche (Donnerkeil) und Drilbu (Gebetglocke).](#b0224_115) Skizzen des Verfassers.
+116. [Maskierte Lamas (in Hemi-gumpa, Ladak).](#b0232_116)
+117. [Maskierte Lamas (in Hemi-gumpa, Ladak).](#b0232_117)
+118. [Lamas in Tanzmasken.](#b0232_118)
+119. [Lamas in Tanzmasken.](#b0232_119)
+120. [Lamas in Tanzmasken.](#b0232_120) Skizzen des Verfassers.
+121. [Audienzzimmer des Tashi-Lama.](#b0240_121)
+122. [Ansicht von Taschi-lunpo.](#b0240_122) Skizze des Verfassers.
+123. [Klostergasse in Taschi-lunpo, links ein Haus mit Mönchszellen.](#b0248_123)
+124. [Fassade des Mausoleums eines Taschi-Lama in Taschi-lunpo.](#b0248_124)
+125. [Fassade des Mausoleums des ersten Taschi-Lama.](#b0256_125)
+126. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](#b0256_126)
+127. [Inneres der Mausoleen zweier Taschi-Lamas in Taschi-lunpo.](#b0256_127) Skizzen des Verfassers.
+128. [Studierstunde in der Bibliothek Kandschur-lhakang in Taschi-lunpo.](#b0264_128) Skizze des Verfassers.
+129. [Portal zum Mausoleum des dritten Taschi-Lama in Taschi-lunpo.](#b0264_129) Skizze des Verfassers.     
 *Bunte Tafel.* [Festkleidung und Schmuck tibetischer Frauen aus Kjangrang
-im Transhimalaja.](ch028.xhtml#b0272_000) Aquarelle des Verfassers.
-130. [Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo.](ch028.xhtml#b0276_130) Skizze des Verfassers.
-131. [Schigatse.](ch028.xhtml#b0276_131)
-132. [Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](ch028.xhtml#b0276_132)
-133. [Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse. Zeichnung von de Haenen.](ch028.xhtml#b0280_133)
-134. [Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](ch028.xhtml#b0280_134)
-135. [Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.](ch029.xhtml#b0288_135)
-136. [Lama in Taschi-lunpo.](ch029.xhtml#b0288_136_137)
-137. [Bürger in Schigatse.](ch029.xhtml#b0288_136_137)
-138. [Chinesischer Kaufmann in Schigatse.](ch029.xhtml#b0288_138_139)
-139. [Pförtner im Tempel des Tsongkapa.](ch029.xhtml#b0288_138_139) Skizzen des Verfassers.
-140. [Chinesen mit Drachen und Papierlaternen.](ch030.xhtml#b0296_140)
-141. [Grabkapelle zweier Taschi-Lamas.](ch030.xhtml#b0296_141)
-142. [Inneres der großen roten Galerie von Taschi-lunpo.](ch030.xhtml#b0296_142) Skizze des Verfassers.
-143. [Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](ch030.xhtml#b0296_143)    
-*Bunte Tafel.* [Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo.](ch030.xhtml#b0300_000) Aquarell des Verfassers.    
-*Bunte Tafel.* [Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo.](ch030.xhtml#b0304_000) Aquarell des Verfassers.
-144. [Die große rote Galerie von Taschi-lunpo von außen.](ch032.xhtml#b0312_144) Skizze des Verfassers.
-145. [Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.](ch032.xhtml#b0312_145) Skizze des Verfassers.
-146. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](ch032.xhtml#b0320_146)
-147. [Pilger in einem Portal in Taschi-lunpo.](ch032.xhtml#b0320_147)
-148. [Eine Klosterküche in Taschi-lunpo.](ch032.xhtml#b0320_147) Skizze des Verfassers.
-149. [Pilgerin aus Nam-tso.](ch033.xhtml#b0328_149)
-150. [Lama mit Teekanne.](ch033.xhtml#b0328_150)
-151. [Der Tee wird zu den Zellen der Mönche gebracht.](ch033.xhtml#b0328_151)
-152. [Bettelnder Lama.](ch033.xhtml#b0328_152) Skizzen des Verfassers.
-153. [Straße mit Lamas in Taschi-lunpo.](ch033.xhtml#b0328_153)
-154. [Tschorten in Taschi-lunpo.](ch033.xhtml#b0336_154) Skizze des Verfassers.
-155. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_155)
-156. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](ch033.xhtml#b0336_156)
-157. [Vorlesung für Novizen in Taschi-lunpo.](ch034.xhtml#b0344_157) Skizze des Verfassers.
-158. [Pilger aus Kamba-dsong.](ch034.xhtml#b0344_158)
-159. [Pilgerinnen aus Nam-tso.](ch034.xhtml#b0344_159) Skizzen des Verfassers.
-160. [Frau Taschi Buti in Schigatse.](ch034.xhtml#b0348_160)
-161. [Junge Dame in Schigatse.](ch034.xhtml#b0348_161)
-162. [Bürgerfrau in Schigatse.](ch034.xhtml#b0348_162) Skizzen des Verfassers.
-163. [Tanzende Knaben mit Trommeln.](ch034.xhtml#b0348_163) Skizze des Verfassers.
-164. [Der Herzog Kung Guschuk, Bruder des Taschi-Lama.](ch035.xhtml#b0352_164)
-165. [Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](ch035.xhtml#b0352_165)
-166. [Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](ch035.xhtml#b0360_166) Zeichnung von T. Macfarlane
-167. [Der jüngste Bruder des Taschi-Lama mit einem Diener.](ch035.xhtml#b0360_167)
-168. [Wandernde Nonne mit Tanka, eine religiöse Legende darstellend.](ch036.xhtml#b0368_168)
-169. [Tarting-gumpa.](ch036.xhtml#b0368_169)
-170. [Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.](ch036.xhtml#b0368_170) Skizze des Verfassers.
-171. [Das Nonnenkloster von Gandän-tschöding.](ch036.xhtml#b0368_171)
-172. [Ein junger Lama.](ch037.xhtml#b0376_172)
-173. [Lama in Tong.](ch037.xhtml#b0376_173) Skizzen des Verfassers.
-174. [Aussicht vom Ta-la (5436 Meter) nach Südosten.](ch037.xhtml#b0376_174) Skizze des Verfassers.
-175. [Kettenbrücke über den Brahmaputra zum Kloster Pinsoling.](ch037.xhtml#b0376_175)
-176. [Tarting-gumpa.](ch037.xhtml#b0384_176)
-177. [Tarting-gumpa.](ch037.xhtml#b0384_177)
-178. [Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.](ch037.xhtml#b0384_178)
-179. [Lung-gandän-gumpa bei Tong.](ch037.xhtml#b0384_179)
-180. [Linga-gumpa von oben.](ch037.xhtml#b0384_180) Skizzen des Verfassers.
-181. [Bettler in Taschi-gembe.](ch037.xhtml#b0384_181)
-182. [Wandernder Lama.](ch037.xhtml#b0384_182)
-183. [Tibeter.](ch037.xhtml#b0384_183) Skizzen des Verfassers.
-184. [Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](ch038.xhtml#b0392_184)
-185. [Tibeter im Dorf Tong.](ch038.xhtml#b0392_185)
-186. [Wandernder Musikant und Tänzerin.](ch038.xhtml#b0392_186)
-187. [Die hübsche Frau Putön in Sirtschung.](ch039.xhtml#b0400_187)
-188. [Gruppe von tibetischen Weibern.](ch039.xhtml#b0400_188)
-189. [Dorf und Kloster Linga.](ch039.xhtml#b0400_189)
-190. [Knaben.](ch039.xhtml#b0404_190)
-191. [Knaben.](ch039.xhtml#b0404_190)
-192. [Altes Weib.](ch039.xhtml#b0404_190)
-193. [Junger Lama.](ch039.xhtml#b0404_190) Skizzen des Verfassers
-194. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](ch039.xhtml#b0404_194)
+im Transhimalaja.](#b0272_000) Aquarelle des Verfassers.
+130. [Treppe zum Mausoleum des fünften Taschi-Lama in Taschi-lunpo.](#b0276_130) Skizze des Verfassers.
+131. [Schigatse.](#b0276_131)
+132. [Am Wettrennen beteiligte Reiter auf Besuch in meinem Garten.](#b0276_132)
+133. [Wettschießen zu Pferd beim Volksfest in der Nähe von Schigatse. Zeichnung von de Haenen.](#b0280_133)
+134. [Papierpferde, die bei nächtlichem Tanz von innen beleuchtet werden.](#b0280_134)
+135. [Tanzende Gaukler aus Nepal bei der Neujahrsfeier in meinem Garten.](#b0288_135)
+136. [Lama in Taschi-lunpo.](#b0288_136_137)
+137. [Bürger in Schigatse.](#b0288_136_137)
+138. [Chinesischer Kaufmann in Schigatse.](#b0288_138_139)
+139. [Pförtner im Tempel des Tsongkapa.](#b0288_138_139) Skizzen des Verfassers.
+140. [Chinesen mit Drachen und Papierlaternen.](#b0296_140)
+141. [Grabkapelle zweier Taschi-Lamas.](#b0296_141)
+142. [Inneres der großen roten Galerie von Taschi-lunpo.](#b0296_142) Skizze des Verfassers.
+143. [Der Taschi-Lama kehrt von einer Zeremonie nach dem Labrang zurück.](#b0296_143)    
+*Bunte Tafel.* [Namgjal-lhakang mit Tsongkapas Bild in Taschi-lunpo.](#b0300_000) Aquarell des Verfassers.    
+*Bunte Tafel.* [Eingang zum Grab des fünften Taschi-Lama in Taschi-lunpo.](#b0304_000) Aquarell des Verfassers.
+144. [Die große rote Galerie von Taschi-lunpo von außen.](#b0312_144) Skizze des Verfassers.
+145. [Der Taschi-Lama bei einer religiösen Disputation auf dem Festspielhof in Taschi-lunpo.](#b0312_145) Skizze des Verfassers.
+146. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](#b0320_146)
+147. [Pilger in einem Portal in Taschi-lunpo.](#b0320_147)
+148. [Eine Klosterküche in Taschi-lunpo.](#b0320_147) Skizze des Verfassers.
+149. [Pilgerin aus Nam-tso.](#b0328_149)
+150. [Lama mit Teekanne.](#b0328_150)
+151. [Der Tee wird zu den Zellen der Mönche gebracht.](#b0328_151)
+152. [Bettelnder Lama.](#b0328_152) Skizzen des Verfassers.
+153. [Straße mit Lamas in Taschi-lunpo.](#b0328_153)
+154. [Tschorten in Taschi-lunpo.](#b0336_154) Skizze des Verfassers.
+155. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](#b0336_155)
+156. [Religiöse Gegenstände und Götterbilder (in Sanskar-gumpa).](#b0336_156)
+157. [Vorlesung für Novizen in Taschi-lunpo.](#b0344_157) Skizze des Verfassers.
+158. [Pilger aus Kamba-dsong.](#b0344_158)
+159. [Pilgerinnen aus Nam-tso.](#b0344_159) Skizzen des Verfassers.
+160. [Frau Taschi Buti in Schigatse.](#b0348_160)
+161. [Junge Dame in Schigatse.](#b0348_161)
+162. [Bürgerfrau in Schigatse.](#b0348_162) Skizzen des Verfassers.
+163. [Tanzende Knaben mit Trommeln.](#b0348_163) Skizze des Verfassers.
+164. [Der Herzog Kung Guschuk, Bruder des Taschi-Lama.](#b0352_164)
+165. [Die Herzogin Kung Guschuk und fünf ihrer Dienerinnen mit dem jüngsten Bruder des Tashi-Lama.](#b0352_165)
+166. [Der Verfasser zeichnet die Herzogin Kung Guschuk (Muhamed Isa stehend).](#b0360_166) Zeichnung von T. Macfarlane
+167. [Der jüngste Bruder des Taschi-Lama mit einem Diener.](#b0360_167)
+168. [Wandernde Nonne mit Tanka, eine religiöse Legende darstellend.](#b0368_168)
+169. [Tarting-gumpa.](#b0368_169)
+170. [Motiv vom Sego-tshummo-lhakang in Tarting-gumpa.](#b0368_170) Skizze des Verfassers.
+171. [Das Nonnenkloster von Gandän-tschöding.](#b0368_171)
+172. [Ein junger Lama.](#b0376_172)
+173. [Lama in Tong.](#b0376_173) Skizzen des Verfassers.
+174. [Aussicht vom Ta-la (5436 Meter) nach Südosten.](#b0376_174) Skizze des Verfassers.
+175. [Kettenbrücke über den Brahmaputra zum Kloster Pinsoling.](#b0376_175)
+176. [Tarting-gumpa.](#b0384_176)
+177. [Tarting-gumpa.](#b0384_177)
+178. [Inschrift und Buddhabild in Granit eingemeißelt bei Lingö.](#b0384_178)
+179. [Lung-gandän-gumpa bei Tong.](#b0384_179)
+180. [Linga-gumpa von oben.](#b0384_180) Skizzen des Verfassers.
+181. [Bettler in Taschi-gembe.](#b0384_181)
+182. [Wandernder Lama.](#b0384_182)
+183. [Tibeter.](#b0384_183) Skizzen des Verfassers.
+184. [Die eine Boothälfte zur Überfahrt über den Doktschu-tsangpo bei Lingö bereit.](#b0392_184)
+185. [Tibeter im Dorf Tong.](#b0392_185)
+186. [Wandernder Musikant und Tänzerin.](#b0392_186)
+187. [Die hübsche Frau Putön in Sirtschung.](#b0400_187)
+188. [Gruppe von tibetischen Weibern.](#b0400_188)
+189. [Dorf und Kloster Linga.](#b0400_189)
+190. [Knaben.](#b0404_190)
+191. [Knaben.](#b0404_190)
+192. [Altes Weib.](#b0404_190)
+193. [Junger Lama.](#b0404_190) Skizzen des Verfassers
+194. [Seine Heiligkeit der Pantschen Rinpotsche oder Taschi-Lama.](#b0404_194)
 
 ## Karte.
 
 ::: align-center
-[Übersichtskarte von Hedins Reisen in Tibet 1906—1908. Konstruiert und gezeichnet<br />
-von Lieutenant C. J. Otto Kjellstrôm. 1909. Maßstab: 1:3000&nbsp;000.](ch040.xhtml#b0405)
+[Übersichtskarte von Hedins Reisen in Tibet 1906—1908. Konstruiert und gezeichnet<br /> von Lieutenant C. J. Otto Kjellstrôm. 1909. Maßstab: 1:3000&nbsp;000.](#b0405)
 :::
 :::: align-center
 ****

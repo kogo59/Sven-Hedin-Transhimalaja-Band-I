@@ -1,5 +1,7 @@
 # Transhimalaja. Erster Band.
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/194166182-247c6565-f7da-4526-a70b-575cda82b9d8.jpg">
+
 This is a git repository of the source files for the book
 "Transhimalaja von Sven Hedin. Erster Band."
 

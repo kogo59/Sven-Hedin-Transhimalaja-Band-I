@@ -186,7 +186,7 @@ mit im Zuge und bieten unterwegs Limonade und glashelles Eis feil.
 
 Trotzdem sehnt man sich von Indiens schwülen, verdorrten Ebenen nach
 seinen Bergen mit ihrer frischen, reinen Luft hinauf. Von Kalka^[^0065]^ aus wird
-man durch eine kleine Schmalspurbahn in 6½&nbsp; Stunden auf eine Höhe
+man durch eine kleine Schmalspurbahn in 6½&nbsp;Stunden auf eine Höhe
 von 2160&nbsp;Meter befördert und ist dann in Simla, der Sommerresidenz
 des Vizekönigs und dem Hauptquartier des englisch-indischen Heeres. Die
 Bahnlinie ist eine der entzückendsten und großartigsten, die es auf Erden
@@ -294,29 +294,25 @@ Antwort.“
 
 Elf Tage auf die endgültige Entscheidung warten zu müssen, erschien mir unerträglich.
 Vielleicht, daß ein persönliches Eingreifen günstig für mich wirken konnte.
-Ich sandte daher dem englischen Premierminister folgendes Telegramm:
+Ich sandte daher dem englischen Premierminister folgendes Telegramm:<br /><br />
 
-:::: fs-s
-|
-|
-|          Die freundlichen Worte, die Euer Exzellenz vor zwei Jahren im
-|       Parlament über meine Reise und mein Buch gesprochen haben, geben
-|       mir den Mut, mich direkt an Sie zu wenden und im Namen der
-|       geographischen Wissenschaft Sie zu bitten, mir die Erlaubnis Ihrer Re-
-|       gierung zum Eindringen in Tibet über Simla und Gartok^[^0011]^ zu geben.
-|       Ich beabsichtige das zum größten Teil unbewohnte Gebiet nördlich vom
-|       Tsangpo (Brahmaputra) und um die in seiner Mitte befindlichen Seen zu
-|       erforschen und dann nach Indien zurückzukehren. Ich bin mit den gegen
-|       wärtigen politischen Beziehungen zwischen Indien und Tibet völlig vertraut,
-|       und da ich seit meinem einundzwanzigsten Jahre mit Asiaten friedlich ver-
-|       kehrt habe, werde ich mich auch jetzt durchaus taktvoll benehmen, den gegebenen
-|       Instruktionen folgen und es als Ehrenpflicht ansehen, alle Streitigkeiten
-|       an der Grenze zu vermeiden.
-|
-|
+:::: { .fs-s .margin-left-m }
+Die freundlichen Worte, die Euer Exzellenz vor zwei Jahren im
+Parlament über meine Reise und mein Buch gesprochen haben, geben
+mir den Mut, mich direkt an Sie zu wenden und im Namen der
+geographischen Wissenschaft Sie zu bitten, mir die Erlaubnis Ihrer Regierung
+zum Eindringen in Tibet über Simla und Gartok^[^0011]^ zu geben.
+Ich beabsichtige das zum größten Teil unbewohnte Gebiet nördlich vom
+Tsangpo (Brahmaputra) und um die in seiner Mitte befindlichen Seen zu
+erforschen und dann nach Indien zurückzukehren. Ich bin mit den gegenwärtigen 
+politischen Beziehungen zwischen Indien und Tibet völlig vertraut,
+und da ich seit meinem einundzwanzigsten Jahre mit Asiaten friedlich ver-
+kehrt habe, werde ich mich auch jetzt durchaus taktvoll benehmen, den gegebenen
+Instruktionen folgen und es als Ehrenpflicht ansehen, alle Streitigkeiten
+an der Grenze zu vermeiden.
 ::::
 
-Und nun warteten wir wieder; die Tage vergingen, meine drei eingeborenen
+<br /><br />Und nun warteten wir wieder; die Tage vergingen, meine drei eingeborenen
 Gehilfen in Dehra Dun hielten sich reisefertig, der Höchstkommandierende,
 Lord Kitchener, versicherte, daß er mir mit Freuden zwanzig bis an die Zähne
 bewaffnete Gurkhas zur Verfügung stellen werde — nur müsse erst die
@@ -336,20 +332,16 @@ Sommer zur Inspektion des Handelsplatzes nach Gartok reisen sollte.
 Aber der Staatssekretär hielt auch jetzt unerschütterlich an seinem Beschlusse fest,
 und ich selbst bekam auf mein Telegramm folgende Antwort
 — und zwar durch ein Schreiben des Staatssekretärs an den Vizekönig
-vom 1.&nbsp;Juni&nbsp;1906:
+vom 1.&nbsp;Juni&nbsp;1906:<br /><br />
 
-:::  fs-s
-|
-|
-|         Der Premierminister wünscht, daß Sie Sven Hedin folgende Botschaft
-|     mitteilen: „Ich beklage es aufrichtig, daß es mir aus den Gründen,
-|     die Ihnen ohne Zweifel von der indischen Regierung auseinandergesetzt
-|     wurden, unmöglich ist, Ihnen die erbetene Unterstützung bei einer Reise
-|     nach und in Tibet zu gewähren. Diese Unterstützung ist auch der Königlichen
-|     Geographischen Gesellschaft in London und ebenso britischen Offizieren
-|     im Dienste der indischen Regierung versagt worden.“
-|
-|
+::: { .fs-s .margin-left-m }
+Der Premierminister wünscht, daß Sie Sven Hedin folgende Botschaft
+mitteilen: „Ich beklage es aufrichtig, daß es mir aus den Gründen,
+die Ihnen ohne Zweifel von der indischen Regierung auseinandergesetzt
+wurden, unmöglich ist, Ihnen die erbetene Unterstützung bei einer Reise
+nach und in Tibet zu gewähren. Diese Unterstützung ist auch der Königlichen
+Geographischen Gesellschaft in London und ebenso britischen Offizieren
+im Dienste der indischen Regierung versagt worden.“<br /><br />
 :::
 
 Der Inhalt der legten Londoner Telegramme bedeutete also, daß
@@ -376,7 +368,7 @@ nur erst Mr. John Morley unterkriegen — mit Tibet wollte ich dann
 schon so oder so fertig werden!
 
 :::: {.wrap-100 .break-before }
-![2. Simla (2159&nbsp;m) mit dem Sommerpalast des Vizekönigs.](Transhimalaja_Band_I_8.jpg "2. Simla (2159"2. Simla (2159"Transhimalaja_Band_I_8.jpg"nbsp;m) mit dem Sommerpalast des Vizekönigs."nbsp;m) mit dem Sommerpalast des Vizekönigs."){#b008}
+![2. Simla (2159&nbsp;m) mit dem Sommerpalast des Vizekönigs.](Transhimalaja_Band_I_8.jpg "2. Simla (2159&nbsp;m) mit dem Sommerpalast des Vizekönigs."){#b008}
 ::::
 
 :::: {.wrap-100 .break-before}
@@ -813,8 +805,6 @@ zerronnenen Hoffnungen.
 :::: {.wrap-100 .break-before }
 ![10. Palast Sr. Hoheit des Maharadscha von Kaschmir und Dschamu in Srinagar.](Transhimalaja_Band_I_19.jpg "10. Palast Sr. Hoheit des Maharadscha von Kaschmir und Dschamu in Srinagar."){#b019}
 ::::
-
-
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

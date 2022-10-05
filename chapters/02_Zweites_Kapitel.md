@@ -117,25 +117,23 @@ Diesen Tag schien mir alles quer zu gehen; verstimmt langte ich
 wieder in Nedous Hotel an, gerade als der Gong acht Uhr ertönen ließ.
 Ich setzte mich an die lange Tafel zwischen etwa dreißig Herren und
 Damen, die mir alle ebenso fremd waren, wie ich ihnen. Aber in einigen
-Gruppen wurde von mir gesprochen.
+Gruppen wurde von mir gesprochen.<br /><br />
 
-|
-|     „Haben Sie schon gehört, daß Hedin in Srinagar ist?“
-|     
-|     „Nein, wirklich? Wann ist er denn angekommen?“
-|     
-|     „Heute! Er will gewiß nach Tibet.“
-|     
-|     „Ja, aber es ist ihm verboten worden, und die Regierung hat
-|     Befehl, zu hindern, daß er über die Grenze geht.“
-|     
-|     „Nun, dann kann er ja um Tibet herumgehen und von Norden
-|     her eindringen.“
-|     
-|     „Ja, das hat er schon früher getan und wird gewiß wieder einen
-|     Weg finden.“
-|
-|
+
+„Haben Sie schon gehört, daß Hedin in Srinagar ist?“
+     
+„Nein, wirklich? Wann ist er denn angekommen?“
+     
+„Heute! Er will gewiß nach Tibet.“
+     
+„Ja, aber es ist ihm verboten worden, und die Regierung hat
+Befehl, zu hindern, daß er über die Grenze geht.“
+     
+„Nun, dann kann er ja um Tibet herumgehen und von Norden
+her eindringen.“
+     
+„Ja, das hat er schon früher getan und wird gewiß wieder einen
+Weg finden.“<br /><br />
 
 Es war äußerst unbehaglich, diese Unterhaltung anhören zu müssen,
 und ich ertrank beinahe in meinem Suppenteller. Ich konnte kaum
@@ -180,20 +178,16 @@ kann ihn nicht ganz übergehen, da er später ein Nachspiel haben sollte.
 
 Nachdem mir alles andere von London abgeschlagen worden war,
 stand mir nur noch der Weg nach Ostturkestan offen. Am 22. Juni erhielt
-ich vom Residenten Oberst Pears folgenden Brief:
+ich vom Residenten Oberst Pears folgenden Brief:<br /><br />
 
-::: fs-s
-|
-|
-|         Die indische Regierung hat mir telegraphisch befohlen, Sie die Grenze
-|     zwischen Kaschmir und Tibet nicht überschreiten zu lassen. Gegen Ihre
-|     Reise nach Chinesisch - Turkestan hat sie aber nichts einzuwenden, da sie
-|     es für selbstverständlich hält, daß Sie im Besitze eines chinesischen Passes
-|     sind. Da Sie mir nun neulich mitgeteilt haben, daß Sie ein solches
-|     Dokument nicht besitzen, habe ich an die indische Regierung telegraphiert
-|     und um weitere Instruktionen gebeten.
-|
-|
+::: { .fs-s .margin-left-m}
+Die indische Regierung hat mir telegraphisch befohlen, Sie die Grenze
+zwischen Kaschmir und Tibet nicht überschreiten zu lassen. Gegen Ihre
+Reise nach Chinesisch - Turkestan hat sie aber nichts einzuwenden, da sie
+es für selbstverständlich hält, daß Sie im Besitze eines chinesischen Passes
+sind. Da Sie mir nun neulich mitgeteilt haben, daß Sie ein solches
+Dokument nicht besitzen, habe ich an die indische Regierung telegraphiert
+und um weitere Instruktionen gebeten.<br /><br />
 :::
 
 Nun telegraphierte ich an den schwedischen Gesandten in London,
@@ -202,20 +196,15 @@ und zwar für Ostturkestan, ein Land, das ich im Leben nicht zu besuchen
 gedachte — und unterrichtete dann die Regierung in Simla von
 diesem Schritt und von der zustimmenden Antwort. Neunzehn Tage
 darauf erhielt ich folgenden Brief von Sir Francis Younghusband, der
-mittlerweile als neuer Resident in Kaschmir eingetroffen war:
+mittlerweile als neuer Resident in Kaschmir eingetroffen war:<c
 
-::: fs-s
-|
-|
-|           Ich habe von der Regierung ein Telegramm erhalten, worin mir
-|     mitgeteilt wird, daß Sie vor Eintreffen des chinesischen Passes aufbrechen
-|     dürfen, aber vorausgesetzt, daß Sie nicht über Leh hinaus gehen. So-
-|     bald aber die chinesische Regierung oder der schwedische Gesandte (in
-|     London) telegraphiert, daß Ihr Paß ausgefertigt ist, können Sie die
-|     chinesische Grenze auf Ihre Gefahr überschreiten; Ihr Paß wird Ihnen
-|     dann nachgeschickt.
-|
-|
+::: { .fs-s .margin-left-m }
+Ich habe von der Regierung ein Telegramm erhalten, worin mir mitgeteilt wird,
+daß Sie vor Eintreffen des chinesischen Passes aufbrechen dürfen, aber
+vorausgesetzt, daß Sie nicht über Leh hinaus gehen. Sobald aber die chinesische
+Regierung oder der schwedische Gesandte (in London) telegraphiert, daß Ihr Paß
+ausgefertigt ist, können Sie die chinesische Grenze auf Ihre Gefahr
+überschreiten; Ihr Paß wird Ihnen dann nachgeschickt.<br /><br />
 :::
 
 Nun telegraphierte ich wieder an den Grafen Wrangel, er möge
@@ -238,7 +227,7 @@ An einem der ersten Tage besuchte ich in Begleitung Daya Kischen
 Kauls den Maharadscha von Dschamu und Kaschmir, Sir Pratab Sing,
 dessen Bruder Emir Sing auch zugegen war. Seine Hoheit ist ein kleiner
 Mann in mittleren Jahren, von träumerischem, melancholischem Aussehen
-([Abb. 8](ch005.xhtml#b017)) ; er empfing mich mit der größten Freundlichkeit und versprach,
+([Abb. 8](ch005.xhtml#b017)); er empfing mich mit der größten Freundlichkeit und versprach,
 meinen Wünschen in jeder Beziehung entgegenzukommen. Er hatte von meiner
 Wüstenreise im Jahre 1895 gehört, und als ich ihren Verlauf erzählte,
 hatte ich bei ihm gewonnenes Spiel; es freue ihn, versicherte er, die neue
@@ -291,7 +280,7 @@ der Mond zog goldene Schlangenlinien in den Wellen des Flusses, und
 ![11. Meine drei jungen Hunde.](Transhimalaja_Band_I_24_11.jpg "11. Meine drei jungen Hunde."){#b024_11}
 ::::
 
-:::: {.wrap-50 .float-right  }
+:::: {.wrap-50 .float-right .break-after }
 ![12. Manuel der Koch.](Transhimalaja_Band_I_24_12.jpg "12. Manuel der Koch."){#b024_12}
 ::::
 
@@ -308,7 +297,7 @@ der Mond zog goldene Schlangenlinien in den Wellen des Flusses, und
 ::::
 
 :::: {.wrap-100 .break-before  }
-![16.  Aufbruch von Ganderbal.](Transhimalaja_Band_I_24_16.jpg "16.  Aufbruch von Ganderbal."){#b024_16}
+![16. Aufbruch von Ganderbal.](Transhimalaja_Band_I_24_16.jpg "16. Aufbruch von Ganderbal."){#b024_16}
 ::::
 
 Der Pundit Daya Kischen Kaul war wirklich in seinen Freundschaftsdiensten
