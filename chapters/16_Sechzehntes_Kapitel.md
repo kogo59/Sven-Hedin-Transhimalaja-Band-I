@@ -423,7 +423,7 @@ Vor fünf Jahren seid ihr hier mit 25 Kamelen vorbeigezogen. Ich
 komme jetzt, um euch zu fragen, wie ihr heißt, wie viele Diener und
 Lasttiere ihr habt und wohin ihr wollt.“
 
-„Warum stellt ihr diese Fragen ?“
+„Warum stellt ihr diese Fragen?“
 
 „Weil ich dem Gouverneur von Naktsang Nachricht geben muß;
 sonst schneidet er mir den Hals ab!“
@@ -447,7 +447,7 @@ sonst schneidet er mir den Hals ab!“
 Er erhielt die gewünschte Auskunft und fragte dann:
 
 „Will der Bombo Tschimbo so freundlich sein und hier warten, bis
-die Antwort eintrifft ?“
+die Antwort eintrifft?“
 
 „Wo ist der Gouverneur von Naktsang?“
 

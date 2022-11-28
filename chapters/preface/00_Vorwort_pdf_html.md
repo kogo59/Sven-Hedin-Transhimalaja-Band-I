@@ -266,14 +266,14 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 ****
 ::::
 
-| *Das bunte Bild auf dem Einband des ersten Bandes*, nach einem Aquarell
-|     des Verfassers, stellt Gipfel und Gletscher auf dem Wege zum Surlapaß dar.
-|    (Siehe Band II, Abb. 356.) <br /><br />
+*Das bunte Bild auf dem Einband des ersten Bandes*, nach einem Aquarell des
+Verfassers, stellt Gipfel und Gletscher auf dem Wege zum Surlapaß dar. (Siehe
+Band II, Abb. 356.) <br /><br />
 
-| *Das Vorsatzpapier des Einbandes* gibt eine Sanskrit-Zauberformel wieder,   
-|     eine Dhárani, aus den „Eingeweiden“ eines lamaistischen Götterbildes    
-|     entnommen;  in der Mitte stehen die tibetischen Bannworte: „Om ma-ni pad-me
-|     hûm“. (Siehe Band II, Seite 174 ff.)
+*Das Vorsatzpapier des Einbandes* gibt eine Sanskrit-Zauberformel wieder,   
+eine Dhárani, aus den „Eingeweiden“ eines lamaistischen Götterbildes    
+entnommen;  in der Mitte stehen die tibetischen Bannworte: „Om ma-ni pad-me
+hûm“. (Siehe Band II, Seite 174 ff.)
 
 :::: align-center
 ****

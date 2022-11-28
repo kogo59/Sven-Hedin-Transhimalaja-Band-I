@@ -1,4 +1,4 @@
-# {epub:type=afterword}          
+#           
 
 :::: {.wrap-90 }
 ![](Transhimalaja_Band_I_Uebersichtskarte.jpg ""){#b0405 .portrait }

@@ -128,7 +128,7 @@ Simla^[^0054]^, Palast des Vizekönigs, 6. Juli 1905.
 |         Ich kann nicht voraussagen, was für eine Haltung die tibetische
 |     Regierung zur Zeit Ihres Eintreffens in Indien annehmen wird; sollte
 |     sie dauernd eine freundliche bleiben, werde ich natürlich versuchen, Ihnen
-|     die notwendige Erlaubnis, einen Paß und sicheresg Geleit zu verschaffen.
+|     die notwendige Erlaubnis, einen Paß und sicheres Geleit zu verschaffen.
 |         Mit der Versicherung, daß es mir die größte Freude bereitet, Ihre
 |     Pläne auf jede Weise zu unterstützen, bin ich
 |                                              Ihr ergebener

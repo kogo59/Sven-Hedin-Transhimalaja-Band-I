@@ -76,7 +76,7 @@ wie schon so oft, ein unerbittliches „Bis hierher und nicht weiter“
 entgegengeklungen.
 
 Am 24. August verließen wir Pobrang, das letzte Dorf, und ritten
-talaufwärts. Auf kleinen Rasenplätzen sonnten sich prächtige zahme Yaks
+talaufwärts. Auf kleinen Rasenplätzen sonnten sich prächtige zahme Yaks.
 Links dehnt sich das Ldatatal aus, dessen unterer Teil gute Weide hat
 Von einer flachen hügelartigen Bodenerhebung mit ein paar Steinmalen
 aus gesehen, erscheint das Land nach Osten hin mit seinen flachen, ab

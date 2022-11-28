@@ -61,7 +61,7 @@ html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/html
 	cp  *.css  $(IMAGES_FOLDER)
-	pandoc $(ARGS_HTML)  --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+	pandoc $(ARGS_HTML) --embed-resources --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 
 pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf

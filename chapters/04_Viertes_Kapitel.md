@@ -14,29 +14,27 @@ einen wirklichen Freund, und nach dem Mittagessen, das ich jeden Abend
 um 8&nbsp;Uhr einnahm, saßen wir oft bis lange nach Mitternacht beisammen
 und plauderten über Asiens Zukunft und den Lauf der Welt.
 
-Sir Francis Younghusband hatte mir einen wohlbekannten Karawanenführer empfohlen,
-Muhamed Isa ([Abb. 32](#b044_32)). Ich kannte ihn von Kaschgar und Srinagar her
-und wußte, daß er bei der Ermordung des französischen Forschungsreisenden
-Dutreuil de Rhins am 5.&nbsp;Juni 1894 zugegen gewesen war. Ungefähr 30&nbsp;Jahre
-lang war er so ziemlich in ganz Zentralasien umhergereist und
-kannte auch große Strecken von Tibet. Außer
-einer Menge kleinerer Reisen, an denen er im Dienste einzelner Sahibs
-teilgenommen, war er auch Careys und Dalgleishs^[^0178]^ Karawanenführer auf
-ihrem großen Zuge durch Zentralasien gewesen und hatte ein paar Jahre
-unter Dutreuil de Rhins^[^0175]^ gedient. Er begleitete auch Younghusband auf
-dessen berühmtem Marsch über den Mustaghpaß^[^0176]^ (1887) und war schließlich
-auf dem Kriegszuge nach Lhasa (1903 — 1904) sein Karawanenführer
-gewesen. Nyders und Rawlings^[^0177]^ (1903) Reise im Tale des oberen Brahmaputra
-und von dort nach Gartok hatte er als Aufseher ihrer Gepäckkarawane
-mitgemacht. Während aller dieser Reisen hatte er Erfahrungen
-gesammelt, die meinen Plänen sehr zugute kommen konnten. Ich nahm
-daher Younghusbands Vorschlag mit Dankbarkeit an, um so mehr, als
-auch Hauptmann Patterson, in dessen Dienst Muhamed Isa jetzt stand,Kloster Lama-juru^[^0155]^  hin. Noch eine vorstehende Ecke weiter und man
-
-nichts dagegen hatte, ihn mir zur Verfügung zu stellen. Obendrein
-sprach Muhamed Isa fließend Turki, Tibetisch und Hindi und hegte
-selber keinen größeren Wunsch, als den, mich zu begleiten. Ohne zu
-wissen, daß er mir so warm empfohlen war, hatte er selbst seinen Herrn
+Sir Francis Younghusband hatte mir einen wohlbekannten Karawanenführer
+empfohlen, Muhamed Isa ([Abb. 32](#b044_32)). Ich kannte ihn von Kaschgar und
+Srinagar her und wußte, daß er bei der Ermordung des französischen
+Forschungsreisenden Dutreuil de Rhins am 5.&nbsp;Juni 1894 zugegen gewesen war.
+Ungefähr 30&nbsp;Jahre lang war er so ziemlich in ganz Zentralasien umhergereist
+und kannte auch große Strecken von Tibet. Außer einer Menge kleinerer Reisen, an
+denen er im Dienste einzelner Sahibs teilgenommen, war er auch Careys und
+Dalgleishs^[^0178]^ Karawanenführer auf ihrem großen Zuge durch Zentralasien
+gewesen und hatte ein paar Jahre unter Dutreuil de Rhins^[^0175]^ gedient. Er
+begleitete auch Younghusband auf dessen berühmtem Marsch über den
+Mustaghpaß^[^0176]^ (1887) und war schließlich auf dem Kriegszuge nach Lhasa
+(1903 — 1904) sein Karawanenführer gewesen. Nyders und Rawlings^[^0177]^ (1903)
+Reise im Tale des oberen Brahmaputra und von dort nach Gartok hatte er als
+Aufseher ihrer Gepäckkarawane mitgemacht. Während aller dieser Reisen hatte er
+Erfahrungen gesammelt, die meinen Plänen sehr zugute kommen konnten. Ich nahm
+daher Younghusbands Vorschlag mit Dankbarkeit an, um so mehr, als auch Hauptmann
+Patterson, in dessen Dienst Muhamed Isa jetzt stand,Kloster Lama-juru^[^0155]^
+hin. Noch eine vorstehende Ecke weiter und man nichts dagegen hatte, ihn mir zur
+Verfügung zu stellen. Obendrein sprach Muhamed Isa fließend Turki, Tibetisch und
+Hindi und hegte selber keinen größeren Wunsch, als den, mich zu begleiten. Ohne
+zu wissen, daß er mir so warm empfohlen war, hatte er selbst seinen Herrn
 eindringlich gebeten, in meinen Dienst treten zu dürfen.
 
 Sein Vater war aus Jarkent^[^0179]^, seine Mutter eine Lamaistin aus Leh.
