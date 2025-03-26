@@ -452,12 +452,6 @@ fühlten. Dann eilten wir in der Richtung nach Südsüdwesten abwärts
 und lagerten im Tale Schamm in der Nähe einiger erbärmlicher Steinhütten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0390]: [*Tengri-nor*: vergleiche [Nam Co](https://de.wikipedia.org/wiki/Nam_Co)]{.footnote}
 
 [^0391]: [*Nien-tschen-tang-la*: vergleiche [Nyainqêntanglha](https://de.wikipedia.org/wiki/Nyainq%C3%AAntanglha_(Berg))]{.footnote}

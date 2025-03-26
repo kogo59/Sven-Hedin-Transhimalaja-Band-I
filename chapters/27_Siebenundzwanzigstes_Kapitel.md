@@ -257,8 +257,3 @@ Abend; ich bat sie aber, lieber bei Tage zu kommen, um sie auf einigen
 Platten verewigen zu können. (Abb. [135](ch029.xhtml#b0288_135), [140](ch030.xhtml#b0296_140).)
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

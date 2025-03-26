@@ -557,11 +557,6 @@ erwachenden Frühlingswinde verlebt hatte, mit Freuden das Vielfache
 dieser Summe gegeben!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0520]: [*Gyangtse*: vergleiche [Gyantse](https://en.wikipedia.org/wiki/Gyantse)]{.footnote}
 

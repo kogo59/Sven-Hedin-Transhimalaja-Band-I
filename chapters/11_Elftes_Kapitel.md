@@ -563,11 +563,6 @@ Tibet keine andere Bezeichnung trägt als „Unexplored“!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0275]: [*Minimumthermometer*:  vergleiche [Minimumthermometer](https://de.wikipedia.org/wiki/Minimumthermometer)]{.footnote}
 

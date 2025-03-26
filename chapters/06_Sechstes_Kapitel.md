@@ -480,11 +480,6 @@ den Japkakstengeln knabberten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0225]: [*Kulan*:  vergleiche [Asiatischer Esel](https://de.wikipedia.org/wiki/Asiatischer_Esel)]{.footnote}
 

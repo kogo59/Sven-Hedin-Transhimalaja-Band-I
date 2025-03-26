@@ -642,12 +642,6 @@ meine Freundesgabe an den Pantschen Rinpotsche bilden sollte!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0420]: [*Losar*: vergleiche [Losar](https://en.wikipedia.org/wiki/Losar)]{.footnote}
 
 [^0421]: [*Luperkalien*: vergleiche [Lupercalien](https://de.wikipedia.org/wiki/Lupercalien)]{.footnote}

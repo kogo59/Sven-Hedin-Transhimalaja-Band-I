@@ -550,11 +550,6 @@ einem anderen solchen Pilger gab, der seine einsamen Streifzüge durch
 das weite öde Asien noch nicht beendet hatte!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0175]: [*Dutreuil de Rhins*:  vergleiche [Dutreuil de Rhins](https://de.wikipedia.org/wiki/Jules_L%C3%A9on_Dutreuil_de_Rhins)]{.footnote}
 

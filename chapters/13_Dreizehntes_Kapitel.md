@@ -503,11 +503,6 @@ der Art, wie die Tibeter sie benutzen, aus Blei Kugeln zu gießen. Also
 hatten sich entweder Räuber oder Jäger hier früher einmal aufgehalten!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Tarim*: vergleiche [Tarim](https://de.wikipedia.org/wiki/Tarim_(Fluss))]{.footnote}
 

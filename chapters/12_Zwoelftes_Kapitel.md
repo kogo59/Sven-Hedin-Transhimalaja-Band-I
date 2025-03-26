@@ -425,11 +425,6 @@ zischenden Laut des Schnees, der unaufhörlich in die Glut des Feuers fällt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0290]: [*Lake Markham*: vergleiche [Bairab Co](https://www.google.com/maps/place/Bairab+Co/@34.9892633,82.9529695,131109m/data=!3m1!1e3!4m5!3m4!1s0x384c5f415cb69869:0xaf1a13badf3c0bb7!8m2!3d35.0316951!4d83.1327332)]{.footnote}
 

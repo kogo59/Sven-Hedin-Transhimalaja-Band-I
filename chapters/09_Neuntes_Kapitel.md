@@ -534,11 +534,6 @@ die Wellen ihren unermüdlichen Sturmlauf gegen das Ufer fortsetzten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0260]: [*Parsigrab*:  vergleiche [Parsen](https://de.wikipedia.org/wiki/Parsen)]{.footnote}
 

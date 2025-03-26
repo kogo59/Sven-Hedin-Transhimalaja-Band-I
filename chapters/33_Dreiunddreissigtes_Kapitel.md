@@ -494,10 +494,5 @@ emporgestiegen. Aber die Luft wurde wieder kühler; die letzte Nacht hatten
 wir 13 Grad Kälte gehabt.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0540]: [*Pinsoling*: vergleiche [Pindsoling](http://wikimapia.org/6939544/Puncogling-Pindsoling)]{.footnote}

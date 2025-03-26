@@ -539,11 +539,6 @@ Gegenden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0240]: [*Denudation*:  vergleiche [Denudation](https://de.wikipedia.org/wiki/Denudation)]{.footnote}
 

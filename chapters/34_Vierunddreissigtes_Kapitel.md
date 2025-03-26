@@ -361,12 +361,6 @@ an der Stelle jenes Mannes nicht sein möchte, sondern lieber unten auf
 der Ebene, in meinem eigenen Zelt — und schlafen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0550]: [*Döle-gumpa*: vergleiche [Döle Gompa](http://wikimapia.org/25781917/D%C3%B6le-Gompa)]{.footnote}
 
 [^0551]: [*Linga-gumpa*: vergleiche [Linga-Gompa](http://wikimapia.org/25781789/Linga-Gompa)]{.footnote}

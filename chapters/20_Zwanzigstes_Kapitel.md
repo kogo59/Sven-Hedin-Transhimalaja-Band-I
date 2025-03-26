@@ -636,14 +636,8 @@ Reitpeitschen zu begrüßen, ihn, unseren „Lahmen“, der doch von selbst
 zu uns gekommen war, um uns zu verteidigen und unsere Zelte zu bewachen,
 und dafür nichts begehrte als freie Beköstigung. Denn freie
 Wohnung hatte er sowieso unter den ewigen Sternen in dem großen,
-öden, winterkalten Tibet.
+
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0380]: [*Serschik-gumpa*: vergleiche [Sezhig](https://de.wikipedia.org/wiki/Sezhig)]{.footnote}
 

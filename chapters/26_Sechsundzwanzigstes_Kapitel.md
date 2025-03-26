@@ -423,12 +423,6 @@ hatten wir es über uns.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0460]: [Denjenigen, welche den Lamaismus gründlicher studieren wollen, möchte ich besonders folgende Werke empfehlen: Koeppen, „Die lamaische Hierarchie und Kirche“; Waddell, „The Buddhism of Tibet“, und Grünwedel, „Mythologie des Buddhismus in Tibet und in der Mongolei“. In dem folgenden Text habe ich diesen Werken mehrere historische und rituelle Aufklärungen entnommen. ]{.footnote}
 
 [^0461]: [*Ge-dun-dup*: vergleiche [Gendün Drub](https://de.wikipedia.org/wiki/Gend%C3%BCn_Drub)]{.footnote}

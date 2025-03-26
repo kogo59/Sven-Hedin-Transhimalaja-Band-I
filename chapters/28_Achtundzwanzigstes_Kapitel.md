@@ -568,11 +568,6 @@ die Achse in Drehung versetzt wird. Eine einzige Umdrehung, und
 Millionen Gebete steigen gleichzeitig zu den Ohren der Götter empor!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0490]: [*Gelong*: vergleiche [Bhikkhu](https://en.wikipedia.org/wiki/Bhikkhu)]{.footnote}
 

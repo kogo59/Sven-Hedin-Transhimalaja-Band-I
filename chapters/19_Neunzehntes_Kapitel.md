@@ -527,11 +527,6 @@ mußten, um sie sicher aufzubewahren. Erst wenn es am nächsten Abend
 dunkel geworden, sollten sie ihre abenteuerliche Reise antreten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0370]: [*Goagazelle*: vergleiche [Tibetgazelle](https://de.wikipedia.org/wiki/Tibetgazelle)]{.footnote}
 

@@ -521,11 +521,6 @@ des Totenzerstücklers als wir vor dem des Arztes am Seziertisch.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Responsorium*: vergleiche [Responsorium](https://de.wikipedia.org/wiki/Responsorium)]{.footnote}
 

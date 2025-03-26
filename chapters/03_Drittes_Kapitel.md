@@ -471,11 +471,6 @@ noch lange von ihrem eigenen Fette zehren und die ihrer wartenden
 Strapazen aushalten können.
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0150]: [*Sonamarg*:  vergleiche [Sonamarg](https://de.wikipedia.org/wiki/Sonamarg)]{.footnote}
 

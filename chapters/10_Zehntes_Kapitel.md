@@ -526,11 +526,6 @@ ich Mark aus den Yakknochen, ein geradezu lukullisches Gericht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0270]: [*Tschang-tan*: vergleiche [Changtang](https://en.wikipedia.org/wiki/Changtang)]{.footnote}
 

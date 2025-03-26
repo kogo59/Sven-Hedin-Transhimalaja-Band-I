@@ -498,11 +498,6 @@ dunkeln Schleier über der Erde ausgebreitet hatte ([Abb. 104](ch022.xhtml#b0200
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0410]: [*Ki-tshu*: vergleiche [Kyi Chu](https://de.wikipedia.org/wiki/Lhasa_He)]{.footnote}
 

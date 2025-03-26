@@ -488,11 +488,6 @@ anderen Volkes erinnert:
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0560]: [*Tschenresi*: vergleiche [Avalokiteshvara](https://de.wikipedia.org/wiki/Avalokiteshvara)]{.footnote}
 

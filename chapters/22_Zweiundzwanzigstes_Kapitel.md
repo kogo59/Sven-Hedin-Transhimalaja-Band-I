@@ -438,12 +438,6 @@ Ebenen Assams^[^0401]^ zu bewässern, nimmt er den Namen Brahmaputra an.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [*Brahmaputra*: vergleiche [Brahmaputra](https://de.wikipedia.org/wiki/Brahmaputra)]{.footnote}
 
 [^0401]: [*Assam*: vergleiche [Assam](https://de.wikipedia.org/wiki/Assam)]{.footnote}

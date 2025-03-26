@@ -480,11 +480,6 @@ des Südufers jetzt 50 bis 60 Zelte aufgeschlagen seien. Soweit war
 alles gut gegangen — aber der Tag war noch nicht zu Ende!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0360]: [*Schigatse*: vergleiche [Xigazê](https://de.wikipedia.org/wiki/Xigaz%C3%AA)]{.footnote}
 

@@ -445,12 +445,6 @@ von ihm die Weihen. Wenn der Dalai-Lama abwesend oder selber
 minderjährig ist, geschieht dies durch ein Konklave hochgestellter Priester.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0440]: [*Buddhagaya*: vergleiche [Bodhgaya](https://de.wikipedia.org/wiki/Bodhgaya)]{.footnote}
 
 [^0441]: [*Magada*: vergleiche [Magadha](https://de.wikipedia.org/wiki/Magadha)]{.footnote}

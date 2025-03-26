@@ -486,11 +486,6 @@ ich während einer Zeit von mehr als zwei Jahren gesehen habe.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Kloster Tikse*:  vergleiche [Thikse Monastery](https://en.wikipedia.org/wiki/Thikse_Monastery)]{.footnote}
 

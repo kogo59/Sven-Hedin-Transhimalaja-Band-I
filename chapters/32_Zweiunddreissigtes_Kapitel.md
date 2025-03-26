@@ -530,11 +530,6 @@ Frühjahrsreise versammelte Wildgänse, und über die weiten Felder Je-schungs
 senkten sich die Abendschatten herab.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0530]: [*Diabas*: vergleiche [Diabas](https://de.wikipedia.org/wiki/Diabas)]{.footnote}
 

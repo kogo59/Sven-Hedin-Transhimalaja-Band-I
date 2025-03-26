@@ -618,12 +618,6 @@ auflösen wie der Rauch des Lagerfeuers, das den südlichsten Punkt meines
 Vordringens in das verbotene Land bezeichnete!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0331]: [*Littledale*: vergleiche [St. George Littledale](https://en.wikipedia.org/wiki/St._George_Littledale)]{.footnote}
 
 [^0332]: [*Naktschu*: vergleiche [Nagqu](https://en.wikipedia.org/wiki/Nagqu)]{.footnote}

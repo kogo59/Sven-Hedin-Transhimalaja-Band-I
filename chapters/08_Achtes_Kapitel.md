@@ -362,11 +362,6 @@ von dort begann ein Gewaltmarsch unbekannten Geschicken entgegen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0250]: [*Dromedar*:  vergleiche [Dromedar](https://de.wikipedia.org/wiki/Dromedar)]{.footnote}
 

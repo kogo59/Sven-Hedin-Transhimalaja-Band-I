@@ -560,10 +560,5 @@ dauerte der Besuch vier geschlagene Stunden; — zuletzt war ich mit der
 Familie schon so intim, als ob wir uns von Kindheit an gekannt hätten!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0510]: [*Dalekarlien*: vergleiche [Dalarna](https://de.wikipedia.org/wiki/Dalarna)]{.footnote}

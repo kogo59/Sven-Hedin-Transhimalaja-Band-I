@@ -379,12 +379,6 @@ Zugluft als eine Erholung.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0310]: [*Gertse*: vergleiche [Gêrzê](https://de.wikipedia.org/wiki/G%C3%AArz%C3%AA)]{.footnote}
 
 [^0311]: [*Kiang*: vergleiche [Kiang](https://de.wikipedia.org/wiki/Kiang)]{.footnote}

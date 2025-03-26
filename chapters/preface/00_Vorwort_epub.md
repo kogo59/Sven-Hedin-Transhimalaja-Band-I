@@ -155,8 +155,6 @@ Fratelli Treves, Mailand.
 <p style="text-indent:60%;">**Sven Hedin.**</p>
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*Emanuel Nobel*:  vergleiche [Emanuel Nobel](https://de.wikipedia.org/wiki/Emanuel_Nobel)]{.footnote}
 
 [^0002]: [*König Oskar von Schweden*:  vergleiche [Oskar II.](https://de.wikipedia.org/wiki/Oskar_II._(Schweden))]{.footnote}
@@ -248,8 +246,6 @@ Wort, das ich zwischen die Buchdeckel des „Transhimalaja“ schreibe.
 <p style="text-indent:60%;">**Sven Hedin.**</p>
 
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0016]: [*Ferdinand von Richthofen*:  vergleiche [Ferdinand von Richthofen](https://de.wikipedia.org/wiki/Ferdinand_von_Richthofen)]{.footnote}
 

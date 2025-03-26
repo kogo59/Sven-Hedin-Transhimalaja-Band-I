@@ -471,11 +471,6 @@ kalten Winters zugestrebt hatte und das mir noch so fern, vielleicht
 unerreichbar war.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0350]: [*Schuru-tso*: vergleiche [Xuru Co](https://sv.wikipedia.org/wiki/Xuru_Co)]{.footnote}
 

@@ -573,12 +573,6 @@ freien, weiten Hochebenen, wo meine Pläne in Taten umgewandelt werden
 sollten. Würde ich je ermüden? Ja, werde ich dessen jemals überdrüssig werden?!
 ::::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0100]: [*Kalka*:  vergleiche [Kalka railway station](https://en.wikipedia.org/wiki/Kalka_railway_station)]{.footnote}
 
 [^0101]: [*Ambala*:  vergleiche [Ambala](https://de.wikipedia.org/wiki/Ambala)]{.footnote}
